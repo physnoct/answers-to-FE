@@ -243,6 +243,9 @@ Moon not transparent (varying exposure time)
 https://www.youtube.com/watch?v=ow1nENEJIns
 https://www.youtube.com/watch?v=UC-sy5yvax0 (stars visible when surexposing)
 
+Rocks don't reflect light
+https://physnoct.wordpress.com/2017/05/13/can-a-rock-reflect-light/
+
 No stars in pictures
 --------------------
 Cameras doesn't have the same range of sensitivity as our eyes. While we're able to see indoors without problems, any camera will need slower
@@ -369,7 +372,9 @@ Dome
 Rainbow indoor
 https://www.youtube.com/watch?v=9QNw_8HLqhc
 
-Pressure decreases with altitudes. At 40 km, the pressure is already very low, but the dome is at ???km
+Pressure decreases with altitudes.
+At 35 km, the pressure is already very low, but the dome is at 117km
+https://physnoct.wordpress.com/2018/09/03/flat-earth-atmospheric-pressure/
 
 Planes
 ------
@@ -478,6 +483,9 @@ https://www.youtube.com/watch?v=BlPfHV36G-g
 
 Negatives of NASA pictures
 https://www.quora.com/Looking-for-the-negatives-of-all-the-original-photos-taken-during-the-Apollo-missions-Are-they-available-to-the-public-in-digitized-form-If-yes-where-If-not-why
+
+Blue Marble
+https://www.worldsciencefestival.com/2015/07/blue-marble-shot-history/
 
 Moon
 ----
@@ -646,13 +654,6 @@ distance = 𝜋 * radius * (90°- lat)/180°.
 The circumference of that distance would be 2𝜋 * distance = 2𝜋² * radius * (90°- lat)/180°
 Longitude goes from +180° eastward to -180° westward
 
-Spherical coordinates on the globe (assuming a sphere)
-𝜚 = R+h
-𝜙 = (𝜋/180°)long = [-𝜋,+𝜋]
-𝜗 = (90°- lat)/180° = [0,+𝜋]
-
-Cylindrical coordinates on an AE map are: (r,𝜙,z) = (𝜋R(90°- lat)/180°,(𝜋/180°)long,h)
-
 Here are the formulas for Microsoft Excel (also work in Open Office)
 Substitute the cell location for radius and latitude
 A1: radius
@@ -665,6 +666,13 @@ C2 = 2*PI()*A1*COS(A2*PI()/180)
 
 For the circumference on a globe model (assuming a perfect sphere)
 2𝜋 cos latitude
+
+Spherical coordinates on the globe (assuming a sphere)
+𝜚 = R+h
+𝜙 = (𝜋/180°)long = [-𝜋,+𝜋]
+𝜗 = (90°- lat)/180° = [0,+𝜋]
+
+Cylindrical coordinates on an AE map are: (r,𝜙,z) = (𝜋R(90°- lat)/180°,(𝜋/180°)long,h)
 
 Antarctica cup ocean race
 -------------------------
