@@ -731,7 +731,9 @@ The value of this angle is arccos(R/(R+h)) where R is earth's radius and h is th
 Plane dip
 ---------
 To follow the curvature, the plane simply fly at constant altitude. To fly in a straight line into space, the plane has to climb up.
-If a plane travels around the earth at 500 mph, it will take 50h to make a full turn (500mph * 50h = 25000 miles) so it will dip its nose by 360° in 50h = 7.2°/h = 0.12°/m = 0.002°/s.
+If a plane travels around the earth at 500 mph (ground speed), it will take 50h to make a full turn (500mph * 50h = 25000 miles) so it will dip its nose by 360° in 50h = 7.2°/h = 0.12°/m = 0.002°/s.
+While the plane flies, the earth itself curves with the same rate.
+The plane's real speed would be: GS/R = PS/(R+h) -> PS = GS*(R+h)/R.
 
 LOS microwave communications
 -----------------------------
