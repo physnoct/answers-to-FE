@@ -1,5 +1,5 @@
 # FE-MOAB.txt
-https://github.com/physnoct/answers-to-FE.git
+https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.txt
 
 No research would be complete without checking the arguments for the globe earth and against the flat earth.
 If you seek the truth you should be ready to follow the evidences, not your beliefs, no matter what!
@@ -677,6 +677,24 @@ Spherical coordinates on the globe (assuming a sphere)
 𝜗 = (90°- lat)/180° = [0,+𝜋]
 
 Cylindrical coordinates on an AE map are: (r,𝜙,z) = (𝜋R(90°- lat)/180°,(𝜋/180°)long,h)
+r = 𝜋R𝜗 
+𝜙 = 𝜙
+z = 𝜚 - R = h
+
+∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = (0,0,𝜋R)
+					(0,1,0)
+					(1,0,0)
+
+det ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = -𝜋R
+
+distance on a FE model (no distorsion -> FE)
+     ________________________________
+d = √ r1² + r2² - r1*r2*cos(𝜙2 - 𝜙1)
+
+distance on a spherical globe
+     ________________________________
+d = √ tbd
+
 
 Antarctica cup ocean race
 -------------------------
@@ -731,8 +749,8 @@ The value of this angle is arccos(R/(R+h)) where R is earth's radius and h is th
 Plane dip
 ---------
 To follow the curvature, the plane simply fly at constant altitude. To fly in a straight line into space, the plane has to climb up.
-If a plane travels around the earth at 500 mph (ground speed), it will take 50h to make a full turn (500mph * 50h = 25000 miles) so it will dip its nose by 360° in 50h = 7.2°/h = 0.12°/m = 0.002°/s.
-While the plane flies, the earth itself curves with the same rate.
+If a plane travels around the earth at 500 mph, it will take 50h to make a full turn (500mph * 50h = 25000 miles) so it will dip its nose by 360° in 50h = 7.2°/h = 0.12°/m = 0.002°/s.
+While the plane flies, the earth itself curves with a bit slower rate.
 The plane's real speed would be: GS/R = PS/(R+h) -> PS = GS*(R+h)/R.
 
 LOS microwave communications
