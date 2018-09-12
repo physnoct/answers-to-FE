@@ -647,6 +647,9 @@ Stars not moving
 alpha centauri distance km: 4.132e12 km
 earth orbit diameter km: 149.6e6 km
 
+Galactic speed of the sun
+828,000 km/h (230 km/s) or 514,000 mph (143 mi/s) = 0.000000087435 light-years/h = 0.0007664 light-years/year
+
 Flat earth model
 ----------------
 How do we calculate the distance from the north pole to any latitude on a flat earth model?
