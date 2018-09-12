@@ -260,6 +260,9 @@ http://www.thulescientific.com/Lynch%20Curvature%202008.pdf
 
 Globe earth
 -----------
+Maps and their interpretation (french)
+https://www.youtube.com/watch?v=qumOMOedTn0
+
 Scale and others (VSauce)
 https://www.youtube.com/watch?v=mxhxL1LzKww
 https://www.youtube.com/watch?v=S7UFbrkuNy4
@@ -674,27 +677,28 @@ For the circumference on a globe model (assuming a perfect sphere)
 Spherical coordinates on the globe (assuming a sphere)
 𝜚 = R+h
 𝜙 = (𝜋/180°)long = [-𝜋,+𝜋]
-𝜗 = (90°- lat)/180° = [0,+𝜋]
+𝜗 = 𝜋(90°- lat)/180° = [0,+𝜋]
 
 Cylindrical coordinates on an AE map are: (r,𝜙,z) = (𝜋R(90°- lat)/180°,(𝜋/180°)long,h)
-r = 𝜋R𝜗 
+r = R𝜗 
 𝜙 = 𝜙
 z = 𝜚 - R = h
 
-∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = (0,0,𝜋R)
+∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = (0,0,R)
 					(0,1,0)
 					(1,0,0)
 
-det ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = -𝜋R
+det ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = -R
 
 distance on a FE model (no distorsion -> FE)
      ________________________________
 d = √ r1² + r2² - r1*r2*cos(𝜙2 - 𝜙1)
 
-distance on a spherical globe
-     ________________________________
-d = √ tbd
+distance on a spherical globe between 𝜙1,𝜆1 and 𝜙2,𝜆2
+https://en.wikipedia.org/wiki/Great-circle_distance
 
+𝛥𝜎 = arccos(sin 𝜙1 sin 𝜙2 + cos 𝜙1 cos 𝜙2 cos 𝛥𝜆)
+d = R𝛥𝜎
 
 Antarctica cup ocean race
 -------------------------
