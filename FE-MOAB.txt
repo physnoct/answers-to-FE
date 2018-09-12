@@ -692,12 +692,12 @@ det ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = -R
 
 distance on a FE model (no distorsion -> FE)
      ________________________________
-d = √ r1² + r2² - r1*r2*cos(𝜙2 - 𝜙1)
+d = √ r₁² + r₂² - r₁*r₂*cos(𝜙₂ - 𝜙₁)
 
-distance on a spherical globe between 𝜙1,𝜆1 and 𝜙2,𝜆2
+distance on a spherical globe between 𝜙₁,𝜆₁ and 𝜙₂,𝜆₂
 https://en.wikipedia.org/wiki/Great-circle_distance
 
-𝛥𝜎 = arccos(sin 𝜙1 sin 𝜙2 + cos 𝜙1 cos 𝜙2 cos 𝛥𝜆)
+𝛥𝜎 = arccos(sin 𝜙₁ sin 𝜙₂ + cos 𝜙₁ cos 𝜙₂ cos 𝛥𝜆)
 d = R𝛥𝜎
 
 Antarctica cup ocean race
