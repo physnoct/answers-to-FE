@@ -191,6 +191,17 @@ position of stars vary slightly over time. It has been recorded through history 
 An example is the Barnard's star which can be seen moving through several years
 https://en.wikipedia.org/wiki/Barnard%27s_Star
 
+Selenelion
+https://www.youtube.com/watch?v=tbdynyqP4c4
+
+Geocentrism
+-----------
+Testing Geocentrism
+https://www.youtube.com/watch?v=wyRJZbNmC7U
+
+Answer to Malcolm Bowden
+https://www.youtube.com/watch?v=_-XAJdvXV3U
+
 Eclipse ressources
 ------------------
 https://eclipsewise.com/
@@ -210,7 +221,6 @@ https://pbs.twimg.com/media/C4ruF06WcAEtgNK.jpg
 
 Stars and planets
 -----------------
-
 In french, at 0:42, there's a fly in front of the lens,
 demonstrating without a shadow of doubt that the star is out of focus.
 https://www.youtube.com/watch?v=KE3cIQwMGAk
@@ -346,7 +356,6 @@ https://en.wikipedia.org/wiki/Degree_of_curvature
 
 Counter claims
 --------------
-
 "Great Lakes with no curve"
 Toronto: 
 https://www.metabunk.org/data/MetaMirrorCache/e24b17fcf78f5841927709deaf58ded7.gif 
@@ -424,7 +433,6 @@ https://www.universetoday.com/93987/amateur-astronomers-flash-the-space-station/
 
 NASA & Rockets
 --------------
-
 ISS manuals and documents
 This one points to many other documents available on the net
 http://www.spaceref.com/iss/ops/ISS.User.Guide.R2.pdf
@@ -623,12 +631,12 @@ Senses
 
 "Problem is, our senses suck. How many times have you been stopped at a light and the car beside you starts to roll back slightly and you for a moment panic and think it's you moving? Or on a train at a stop and the other train starts to pull away slowly and you swear you feel like it's you moving, for a second. Our senses suck." tommy605
 
-"Use your senses." Use your intelligence also. Our senses have limitations. Even in the bible, you weight objects for commercial purposes with a balance scale (2 weights, 2 measures). Instruments can measure more precisely than our senses, and it provides experimental data.
+"Use your senses." Use your intelligence also. Our senses have limitations and can be tricked. Even in the bible, you weight objects for commercial purposes with a balance scale (2 weights, 2 measures). Instruments can measure more precisely than our senses, and it provides experimental data.
 
 Even in the bible, they relied on balance scale to weight object. This means the bible recognize that our senses are not always adequate for measuring, thus the use of instruments of measure for volume, lengths and weights.
 
 Our senses may not be precise enough depending on what you're observing.
-Let's take an example. Machinist must make a flat surface within fractions of an inch.
+Let's take an example. Machinist must make a flat surface within thousandth of an inch.
 You simply can't tell it's flat within that resolution.
 
 https://io9.gizmodo.com/5926643/10-fundamental-limits-to-human-perception----and-how-they-shape-your-world
@@ -694,8 +702,7 @@ z = 𝜚 - R = h
 det ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = -R
 
 distance on a FE model (no distorsion -> FE)
-     ________________________________
-d = √ r₁² + r₂² - r₁*r₂*cos(𝜙₂ - 𝜙₁)
+http://walter.bislins.ch/bloge/index.asp?page=Distances+on+Globe+and+Flat+Earth
 
 distance on a spherical globe between 𝜙₁,𝜆₁ and 𝜙₂,𝜆₂
 https://en.wikipedia.org/wiki/Great-circle_distance
