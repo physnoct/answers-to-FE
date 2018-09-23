@@ -684,46 +684,46 @@ Galactic speed of the sun
 
 Flat earth model
 ----------------
-How do we calculate the distance from the north pole to any latitude on a flat earth model?
-1) we straigthen the curvature of the globe earth. The distance from the north pole to the south pole is half a circumference.
-Thus, distance NS = 𝜋 * radius. 
-2) The latitude is a fraction of this distance: (90°- lat)/180.
-The latitude varies between the maximum at -90° (S90°), and the minimum at +90° (N90°). 
-At the north pole, we have (90° - (+90°))/180° = 0°/180° = 0.
-At the south pole, we have (90° - (-90°))/180° = 180°/180° = 1.
-The distance from the north pole to a point of given latitude is:
-distance = 𝜋 * radius * (90°- lat)/180°.
-The circumference of that distance would be 2𝜋 * distance = 2𝜋² * radius * (90°- lat)/180°
-Longitude goes from +180° eastward to -180° westward
+How do we calculate the distance from the north pole to any latitude on a flat earth model?  
+1) we straigthen the curvature of the globe earth. The distance from the north pole to the south pole is half a circumference.  
+Thus, distance NS = 𝜋 * radius.  
+2) The latitude is a fraction of this distance: (90°- lat)/180.  
+The latitude varies between the maximum at -90° (S90°), and the minimum at +90° (N90°).  
+At the north pole, we have (90° - (+90°))/180° = 0°/180° = 0.  
+At the south pole, we have (90° - (-90°))/180° = 180°/180° = 1.  
+The distance from the north pole to a point of given latitude is:  
+distance = 𝜋 * radius * (90°- lat)/180°.  
+The circumference of that distance would be 2𝜋 * distance = 2𝜋² * radius * (90°- lat)/180°  
+Longitude goes from +180° eastward to -180° westward  
 
-Here are the formulas for Microsoft Excel (also work in Open Office)
-Substitute the cell location for radius and latitude
-A1: radius
-A2: latitude
-B2: circumference in FE model
-C2: circumference in GE model
+Here are the formulas for Microsoft Excel (also work in Open Office)  
+Substitute the cell location for radius and latitude  
+A1: radius  
+A2: latitude  
+B2: circumference in FE model  
+C2: circumference in GE model  
 
-B2 = 2*POW(PI();2)*A1*(90-A2)/180
-C2 = 2*PI()*A1*COS(A2*PI()/180)
+B2 = 2*POW(PI();2)*A1*(90-A2)/180  
+C2 = 2*PI()*A1*COS(A2*PI()/180)  
 
-For the circumference on a globe model (assuming a perfect sphere)
-2𝜋 cos latitude
+For the circumference on a globe model (assuming a perfect sphere)  
+2𝜋 cos latitude  
 
-Spherical coordinates on the globe (assuming a sphere)
-𝜚 = R+h
-𝜙 = (𝜋/180°)long = [-𝜋,+𝜋]
-𝜗 = 𝜋(90°- lat)/180° = [0,+𝜋]
+Spherical coordinates on the globe (assuming a sphere)  
+𝜚 = R+h  
+𝜙 = (𝜋/180°)long = [-𝜋,+𝜋]  
+𝜗 = 𝜋(90°- lat)/180° = [0,+𝜋]  
 
-Cylindrical coordinates on an AE map are: (r,𝜙,z) = (𝜋R(90°- lat)/180°,(𝜋/180°)long,h)
-r = R𝜗 
-𝜙 = 𝜙
-z = 𝜚 - R = h
+Cylindrical coordinates on an AE map are: (r,𝜙,z) = (𝜋R(90°- lat)/180°,(𝜋/180°)long,h)  
+r = R𝜗  
+𝜙 = 𝜙  
+z = 𝜚 - R = h  
 
 ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = (0,0,R)
-					(0,1,0)
-					(1,0,0)
+					(0,1,0)  
+					(1,0,0)  
 
-det ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = -R
+det ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = -R  
 
 distance on a FE model (no distorsion -> FE)  
 http://walter.bislins.ch/bloge/index.asp?page=Distances+on+Globe+and+Flat+Earth  
@@ -731,34 +731,34 @@ http://walter.bislins.ch/bloge/index.asp?page=Distances+on+Globe+and+Flat+Earth
 distance on a spherical globe between 𝜙₁,𝜆₁ and 𝜙₂,𝜆₂  
 https://en.wikipedia.org/wiki/Great-circle_distance  
 
-𝛥𝜎 = arccos(sin 𝜙₁ sin 𝜙₂ + cos 𝜙₁ cos 𝜙₂ cos 𝛥𝜆)
-d = R𝛥𝜎
+𝛥𝜎 = arccos(sin 𝜙₁ sin 𝜙₂ + cos 𝜙₁ cos 𝜙₂ cos 𝛥𝜆)  
+d = R𝛥𝜎  
 
 Antarctica cup ocean race
 -------------------------
 http://www.acronautic.com/antartica-cup-ocean-race/  
 The Racetrack outer and inner boundaries are located on latitude 45° South and latitude 60° South making the Racetrack 900 nautical miles wide.  
 
-On a flat earth, the circumference at 45° and 60° South is 94000 km and 105000 km respectively.
-On a globe earth, it would be 28000 km and 20000 km respectively
+On a flat earth, the circumference at 45° and 60° South is 94000 km and 105000 km respectively.  
+On a globe earth, it would be 28000 km and 20000 km respectively  
 
 "Konyukhov came through it all unscathed, returning to King George Sound at 02: 56:50 UTC (10:56:50 WST) to record a time of 102 days 00 hours 56 minutes 50secs for this 16,400 mile circuit of Antarctica." 26400 km in metric, thus proving a globe earth.
 
-In the globe earth model, 
-S45 latitude would give a circle of 2𝜋 * 6371km * cos 45°= 28300km = 17600 miles 
-S60 latitude would give a circle of 2𝜋 * 6371km * cos 60°= 20000km = 12400 miles
+In the globe earth model,   
+S45 latitude would give a circle of 2𝜋 * 6371km * cos 45°= 28300km = 17600 miles  
+S60 latitude would give a circle of 2𝜋 * 6371km * cos 60°= 20000km = 12400 miles  
 
-In the flat earth model, 
-S45 latitude would give a circle of 2𝜋² * 6371km * (180°-45°)/180° = 94308km = 58600 miles 
-S60 latitude would give a circle of 2𝜋² * 6371km * (180°-30°)/180° = 105000km = 65000 miles 
+In the flat earth model,  
+S45 latitude would give a circle of 2𝜋² * 6371km * (180°-45°)/180° = 94308km = 58600 miles  
+S60 latitude would give a circle of 2𝜋² * 6371km * (180°-30°)/180° = 105000km = 65000 miles  
 
 Antarctica cup ocean race
 -------------------------
 http://www.acronautic.com/antartica-cup-ocean-race/  
 Les limites extérieures et intérieures du circuit sont situées à 45° de latitude sud et à 60° de latitude sud, ce qui fait 900 milles de large. 
 
-Sur une terre plate, la circonférence à 45° et 60° Sud est de 94000 km et 105000 km respectivement. 
-Sur un globe terrestre, ce serait 28 000 km et 20000 km respectivement 
+Sur une terre plate, la circonférence à 45° et 60° Sud est de 94000 km et 105000 km respectivement.  
+Sur un globe terrestre, ce serait 28 000 km et 20000 km respectivement  
 
 "Konyukhov a traversé tout indemne, retournant à King George Sound à 02: 56: 50 UTC (10:56:50 WST) pour enregistrer un temps de 102 jours 00 heures 56 minutes 50 secondes pour ce circuit de 16 400 miles de l'Antarctique." 26400 km en métrique, prouvant ainsi un globe terrestre.﻿
 
@@ -781,40 +781,40 @@ https://en.wikipedia.org/wiki/Figure_of_the_Earth
 Curvature
 ---------
 The curvature can be demonstrated to our senses simply by measuring the angle from eye level to the horizon.
-For a person standing at sea level, the horizon is about 0.04 degrees below eye level. By looking from a higher point of view, this angle will increase.
-The value of this angle is arccos(R/(R+h)) where R is earth's radius and h is the height of the observer's eye.
+For a person standing at sea level, the horizon is about 0.04 degrees below eye level. By looking from a higher point of view, this angle will increase.  
+The value of this angle is arccos(R/(R+h)) where R is earth's radius and h is the height of the observer's eye.  
 
 Plane dip
 ---------
 To follow the curvature, the plane simply fly at constant altitude. To fly in a straight line into space, the plane has to climb up.
 If a plane travels around the earth at 500 mph, it will take 50h to make a full turn (500mph * 50h = 25000 miles) so it will dip its nose by 360° in 50h = 7.2°/h = 0.12°/m = 0.002°/s.  
-While the plane flies, the earth itself curves with a bit slower rate.
-The plane's real speed would be: GS/R = PS/(R+h) -> PS = GS*(R+h)/R.
+While the plane flies, the earth itself curves with a bit slower rate.  
+The plane's real speed would be: GS/R = PS/(R+h) -> PS = GS*(R+h)/R.  
 
 LOS microwave communications
 -----------------------------
-LOS microwave communications would be possible over the curvature if there are 2 towers. Here are the calculations.
-d (A1) is the distance between the towers,
-R (A2) is the radius of the earth.
-This formula gives the height of the towers needed.
-h = √(R²+d²/4)-R
-Excel formula: =ROOT((A2*A2+A1*A1)/4) - A2
+LOS microwave communications would be possible over the curvature if there are 2 towers. Here are the calculations.  
+d (A1) is the distance between the towers,  
+R (A2) is the radius of the earth.  
+This formula gives the height of the towers needed.  
+h = √(R²+d²/4)-R  
+Excel formula: =ROOT((A2*A2+A1*A1)/4) - A2  
 
 For 235 km, the 2 towers should have a height of 1km above sea level. Quite achievable if high locations are available.
-It's not surprizing then, to see antennas to top of buildings.
+It's not surprizing then, to see antennas to top of buildings.  
 
 g measurement
 -------------
 g is the value of the acceleration in free fall at ground level, and its value is measurable. 
-To measure it, drop an object from a known height and measure the falling time. It should be independent of the mass. The corresponding value of g is calculated from height and time. 
-The relation is h = 0.5 g t²
-Solving for g
+To measure it, drop an object from a known height and measure the falling time. It should be independent of the mass. The corresponding value of g is calculated from height and time.  
+The relation is h = 0.5 g t²  
+Solving for g  
 g = 2h/t²
 
 Bible
 =====
-Question everything
-https://www.youtube.com/watch?v=Jb7lVVtgIB8
+Question everything  
+https://www.youtube.com/watch?v=Jb7lVVtgIB8  
 
 It's indoctrination if it can't be questioned, it's education if it can be demonstrated.
 
