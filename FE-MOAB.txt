@@ -394,6 +394,12 @@ Pressure decreases with altitudes.
 At 35 km, the pressure is already very low, but the dome is at 117km
 https://physnoct.wordpress.com/2018/09/03/flat-earth-atmospheric-pressure/
 
+GPS/Cell phones
+---------------
+Cell phone triangulation
+https://en.wikipedia.org/wiki/Mobile_phone_tracking
+https://en.wikipedia.org/wiki/GPS_navigation_device#Mobile_phones_with_GPS_capability
+
 Planes
 ------
 Sydney - Santiago
