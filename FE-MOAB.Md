@@ -1,95 +1,95 @@
 # FE-MOAB.txt
 https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md
 
-The flat earth requires the sun to circle above the earth in order to have time zones. Yet, the sun makes an arc around the earth, not a circle above it. We see the sun set, sun rise which should be impossible on a flat earth. Once the sun is "below" the earth, it's night everywhere on a flat earth. This simulation shows what a flat earth and the sun orbiting above it, would look like.
+The flat earth requires the sun to circle above the earth in order to have time zones. Yet, the sun makes an arc around the earth, not a circle above it. We see the sun set, sun rise which should be impossible on a flat earth. Once the sun is "below" the earth, it's night everywhere on a flat earth. This simulation shows what a flat earth and the sun orbiting above it, would look like.  
 https://www.youtube.com/watch?v=uexZbunD7Jg﻿
 
 
 No research would be complete without checking the arguments for the globe earth and against the flat earth.
 If you seek the truth you should be ready to follow the evidences, not your beliefs, no matter what!
 
-Flat earth vs. globe earth isn't recent.
-GE has been established as fact since long ago. Maybe for good reasons.
+Flat earth vs. globe earth isn't recent.  
+GE has been established as fact since long ago. Maybe for good reasons.  
 
 First and most obvious, pictures from space
 ===========================================
 
-https://arstechnica.com/science/2016/10/japans-space-agency-just-released-a-trove-of-jaw-dropping-moon-photos/
+https://arstechnica.com/science/2016/10/japans-space-agency-just-released-a-trove-of-jaw-dropping-moon-photos/  
 
 Quickies
 ========
-https://www.youtube.com/watch?v=hehmRGk1LGw
-https://www.youtube.com/watch?v=PrDbvahVC6g
-https://www.youtube.com/watch?v=6mlnmJbIqUM
-https://www.youtube.com/watch?v=s_9MRF9fphE
+https://www.youtube.com/watch?v=hehmRGk1LGw  
+https://www.youtube.com/watch?v=PrDbvahVC6g  
+https://www.youtube.com/watch?v=6mlnmJbIqUM  
+https://www.youtube.com/watch?v=s_9MRF9fphE  
 
 Flat earth flaws
 ----------------
-Eric Dubay's 200 proofs debunked
-https://youtu.be/Uzc1tY1StvY
-https://youtu.be/CBxaB--fu_Q 43-48
-https://youtu.be/M92MHw_NM20 60-92,94
-https://youtu.be/O29Yube271E 106-111
+Eric Dubay's 200 proofs debunked  
+https://youtu.be/Uzc1tY1StvY  
+https://youtu.be/CBxaB--fu_Q 43-48  
+https://youtu.be/M92MHw_NM20 60-92,94  
+https://youtu.be/O29Yube271E 106-111  
 
-Eric Dubay's 200 proofs debunked more thoroughly
-https://200proofsearthisnotflat.blogspot.ca/2016/02/debunking-dubay-1-7200.html
-http://blog.daimonie.com/2015_11_01_archive.html
+Eric Dubay's 200 proofs debunked more thoroughly  
+https://200proofsearthisnotflat.blogspot.ca/2016/02/debunking-dubay-1-7200.html  
+http://blog.daimonie.com/2015_11_01_archive.html  
 
-Flat Earth: Answering 50 claims in 12 minutes
-https://www.youtube.com/watch?v=6wkvJ_bJD9Y
+Flat Earth: Answering 50 claims in 12 minutes  
+https://www.youtube.com/watch?v=6wkvJ_bJD9Y  
 
-15 degrees/hour on flat earth
-https://www.youtube.com/watch?v=m0x8CEp58uE
+15 degrees/hour on flat earth  
+https://www.youtube.com/watch?v=m0x8CEp58uE  
 
-Flat earth visualization
-https://www.youtube.com/watch?v=uexZbunD7Jg
-https://www.youtube.com/watch?v=3_5Fz4Qa6_8
+Flat earth visualization  
+https://www.youtube.com/watch?v=uexZbunD7Jg  
+https://www.youtube.com/watch?v=3_5Fz4Qa6_8  
 
-Lunar phases on flat earth
-https://www.youtube.com/watch?v=vUKvw1LHIbc
+Lunar phases on flat earth  
+https://www.youtube.com/watch?v=vUKvw1LHIbc  
 
-Sun Angles on "Flat Earth Model"
-https://geogebra.org/m/C9BcVgd4
+Sun Angles on "Flat Earth Model"  
+https://geogebra.org/m/C9BcVgd4  
 
-Sunlight on the Gleason Map
-https://www.youtube.com/watch?v=_9PDTrTjBCU
-https://www.youtube.com/watch?v=_-HGWh4O5gY (français)
+Sunlight on the Gleason Map  
+https://www.youtube.com/watch?v=_9PDTrTjBCU  
+https://www.youtube.com/watch?v=_-HGWh4O5gY (français)  
 
-Distances on flat earth
-https://www.youtube.com/watch?v=VHBNRGmQZaw
+Distances on flat earth  
+https://www.youtube.com/watch?v=VHBNRGmQZaw  
 
-https://app.box.com/shared/static/zqx59oz7be9wb4rd1npox4zwxs00gkod.jpg
+https://app.box.com/shared/static/zqx59oz7be9wb4rd1npox4zwxs00gkod.jpg  
 
-5 problems with AE map (FE video) at 3:18
-https://www.youtube.com/watch?v=3K3cD_L4j7U
+5 problems with AE map (FE video) at 3:18  
+https://www.youtube.com/watch?v=3K3cD_L4j7U  
 
-Ex-FEers
-FE Serbian
-https://www.youtube.com/watch?v=qrDDK-lEMiM
+Ex-FEers  
+FE Serbian  
+https://www.youtube.com/watch?v=qrDDK-lEMiM  
 
-TigerDan925
-https://www.quora.com/How-do-former-Flat-Earthers-feel-about-their-previous-belief-in-a-flat-Earth
+TigerDan925  
+https://www.quora.com/How-do-former-Flat-Earthers-feel-about-their-previous-belief-in-a-flat-Earth  
 
-Cyprustar (in french, translated text below)
-https://www.youtube.com/watch?v=R9aXAn5Fmso
+Cyprustar (in french, translated text below)  
+https://www.youtube.com/watch?v=R9aXAn5Fmso  
 
-0:03 Like I said many times, the flat earth model is impossible. Because of Sygma Octantis but also Antarctica. ... one may wonder in which cosmogony FEers are. Me, I was (FEer), I studied and understood that it was IMPOSSIBLE.
-0:12 Here are 2 maps of Antarctica with the bases and their distances. One, of the globe (concave or convex it's the same) and the other, of the flat earth.
-0:58 Conclusion The flat earth is impossible!
-1:00 Aurora Borealis are possible only because the earth must be opened at the poles! [Hollow Earth theory]
-1:08 Yet another inexplicable thing on a flat earth.
-1:16 I had the courage to erase all my videos on the flat earth when I understood all its impossibilities.
-1:23 Those who are owners of FE channels; Shame on you for keeping monetising these stupidities.
-1:30 You're speaking of truth seekers? Let me laugh! You're making money by taking people for imbeciles.
-1:42 You talk about the system but you do the same thing: MONEY AND POWER!
-1:49 THINK ABOUT IT! You rot the system even more by falling so low.
+0:03 Like I said many times, the flat earth model is impossible. Because of Sygma Octantis but also Antarctica. ... one may wonder in which cosmogony FEers are. Me, I was (FEer), I studied and understood that it was IMPOSSIBLE.  
+0:12 Here are 2 maps of Antarctica with the bases and their distances. One, of the globe (concave or convex it's the same) and the other, of the flat earth.  
+0:58 Conclusion The flat earth is impossible!  
+1:00 Aurora Borealis are possible only because the earth must be opened at the poles! [Hollow Earth theory]  
+1:08 Yet another inexplicable thing on a flat earth.  
+1:16 I had the courage to erase all my videos on the flat earth when I understood all its impossibilities.  
+1:23 Those who are owners of FE channels; Shame on you for keeping monetising these stupidities.  
+1:30 You're speaking of truth seekers? Let me laugh! You're making money by taking people for imbeciles.  
+1:42 You talk about the system but you do the same thing: MONEY AND POWER!  
+1:49 THINK ABOUT IT! You rot the system even more by falling so low.  
 
-Creationists refuting a flat earth
-https://creation.com/refuting-flat-earth
-http://flatearthdeception.com/
+Creationists refuting a flat earth  
+https://creation.com/refuting-flat-earth  
+http://flatearthdeception.com/  
 
-Flat earth doctrine
-http://www.flatearthdoctrine.com
+Flat earth doctrine  
+http://www.flatearthdoctrine.com  
 
 Basic physics
 =============
@@ -103,7 +103,8 @@ The fastest rotation rate is once per day (72.7µrad/s), which is very slow. The
 Earth's orbit
 -------------
 In order to keep up and pass it (circle it) Earth must speed up to pass, and then slow down once it's passed (circled)." 
-That's the acceleration component along one axis. There is also another component of this acceleration along a perpendicular axis: once it's passed the sun (in one side) it accelerates and slow down to get to the other side. These 2 components combine into a circle, or a vector that's oriented towards the center of the orbit. You can see clearly the principle here: https://commons.wikimedia.org/wiki/File:Circle_cos_sin.gif
+That's the acceleration component along one axis. There is also another component of this acceleration along a perpendicular axis: once it's passed the sun (in one side) it accelerates and slow down to get to the other side. These 2 components combine into a circle, or a vector that's oriented towards the center of the orbit. You can see clearly the principle here:  
+https://commons.wikimedia.org/wiki/File:Circle_cos_sin.gif
 
 Water flung in space
 --------------------
@@ -120,33 +121,33 @@ https://www.metabunk.org/why-do-some-satellites-show-a-hole-at-the-poles-hollow-
 Pressure and vacuum side by side
 --------------------------------
 The atmospheric pressure gets lower with altitude. It becomes almost nil at about 40km. There is no need then for a physical barrier, since both side of it has 0 pressure.
-That also explain why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.
+That also explain why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.  
 
-There can be regions of high pressure next to low pressure, as we can see in meteorology. These cause precipitations (rain) and wind.
+There can be regions of high pressure next to low pressure, as we can see in meteorology. These cause precipitations (rain) and wind.  
 
-The vacuum barrier argument may be a misconception. A perfect vacuum is by definition 0 pressure (0 psi, 0 N/m², 0 bar, 0 atm, etc.). Normally on earth, we make a vacuum by tying a vacuum pump to some container. This vacuum pump has a negative pressure: it sucks the air. Thus, the image "a vacuum pump sucks" remains "attached" to the idea of vacuum.
+The vacuum barrier argument may be a misconception. A perfect vacuum is by definition 0 pressure (0 psi, 0 N/m², 0 bar, 0 atm, etc.). Normally on earth, we make a vacuum by tying a vacuum pump to some container. This vacuum pump has a negative pressure: it sucks the air. Thus, the image "a vacuum pump sucks" remains "attached" to the idea of vacuum.  
 
-Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P = 0 N/m²) so no force against an area, so vacuum doesn't suck.
+Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P = 0 N/m²) so no force against an area, so vacuum doesn't suck.  
 
 Selective gravity
 -----------------
-Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight). 
-https://www.youtube.com/watch?v=QyeF-_QPSbk
+Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight).   
+https://www.youtube.com/watch?v=QyeF-_QPSbk  
 
 so the gravity isn't selective.
 The resulting force depends on the mass of the attracted object (F = ma), making gravity "selective".
 
 Helicopter hoving over ground
 -----------------------------
-In the Mythbuster's experiment, they had to shoot a soccer ball with a cannon in order to make it land on the same spot.
+In the Mythbuster's experiment, they had to shoot a soccer ball with a cannon in order to make it land on the same spot.  
 https://www.youtube.com/watch?v=BLuI118nhzc
 
 how to land on a spinning object?
 ---------------------------------
-You just match its speed. Same thing for airplanes fueling during flight, space vehicules docking on the space station, etc.
-https://www.youtube.com/watch?v=f8BbGG9cKBo
-https://www.youtube.com/watch?v=sL5MxCwkLJQ
-https://www.youtube.com/watch?v=P-2ld2WVtow
+You just match its speed. Same thing for airplanes fueling during flight, space vehicules docking on the space station, etc.  
+https://www.youtube.com/watch?v=f8BbGG9cKBo  
+https://www.youtube.com/watch?v=sL5MxCwkLJQ  
+https://www.youtube.com/watch?v=P-2ld2WVtow  
 
 Airplanes east vs west
 ----------------------
@@ -154,16 +155,16 @@ https://www.youtube.com/watch?v=tMN1f4dvpHI
 
 Shape
 -----
-Neil deGrasse Tyson at 92 Y video (oblate/pear shape)
-https://www.youtube.com/watch?v=SoCKapivHGM
-https://www.youtube.com/watch?v=rYzBxo3hbYQ (whole video, extract is at the beginning)
+Neil deGrasse Tyson at 92 Y video (oblate/pear shape)  
+https://www.youtube.com/watch?v=SoCKapivHGM  
+https://www.youtube.com/watch?v=rYzBxo3hbYQ (whole video, extract is at the beginning)  
 
-Earth is an oblate spheroid, but it looks like a perfect sphere.
-The oblateness isn't apparent to the eyes, but precise measurements shows this.
-https://en.wikipedia.org/wiki/Figure_of_the_Earth
+Earth is an oblate spheroid, but it looks like a perfect sphere.  
+The oblateness isn't apparent to the eyes, but precise measurements shows this.  
+https://en.wikipedia.org/wiki/Figure_of_the_Earth  
 
-Oblateness from a picture
-https://www.youtube.com/watch?v=tjx0KcDH7pQ﻿
+Oblateness from a picture  
+https://www.youtube.com/watch?v=tjx0KcDH7pQ﻿  
 
 FEers can only speculate about the extend of Antarctica while GE model shows pictures of Antarctica as a continent of known size.
 
