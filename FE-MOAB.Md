@@ -227,9 +227,10 @@ https://www.youtube.com/watch?v=BGD3lhDCgpY
 
 Stars and planets
 -----------------
-In french, at 0:42, there's a fly in front of the lens,
-demonstrating without a shadow of doubt that the star is out of focus.  
-https://www.youtube.com/watch?v=KE3cIQwMGAk  
+Video removed
+-In french, at 0:42, there's a fly in front of the lens,
+demonstrating without a shadow of doubt that the star is out of focus.-  
+-https://www.youtube.com/watch?v=KE3cIQwMGAk-  
 
 Known lights from afar (at 4:53)  
 https://www.youtube.com/watch?v=bh1KN5gbPvU  
@@ -339,6 +340,7 @@ https://www.youtube.com/watch?v=uPFyEhAdHc4 (french)
 
 Boats disappearing  
 https://www.youtube.com/watch?v=0xWsuFLdgBs  
+https://ibb.co/gxQC3w  
 
 Plane from Oakland airport  
 https://www.youtube.com/watch?v=EcTwjIHBxS0 (french)  
