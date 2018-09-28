@@ -227,10 +227,9 @@ https://www.youtube.com/watch?v=BGD3lhDCgpY
 
 Stars and planets
 -----------------
-Video removed
--In french, at 0:42, there's a fly in front of the lens,
-demonstrating without a shadow of doubt that the star is out of focus.-  
--https://www.youtube.com/watch?v=KE3cIQwMGAk-  
+In french, at 0:42, there's a fly in front of the lens,
+demonstrating without a shadow of doubt that the star is out of focus.  
+https://www.youtube.com/watch?v=B2ImVhiBSbk  
 
 Known lights from afar (at 4:53)  
 https://www.youtube.com/watch?v=bh1KN5gbPvU  
@@ -562,6 +561,11 @@ https://www.youtube.com/watch?v=4BYVIS7ARek
 
 GD&B  
 https://www.youtube.com/watch?v=KSxryGwsUQ4  
+
+Regurjiposts  
+"The Universal Theory of Gravity is often taught in schools as a fact, when in fact it is not even a good theory."  
+A quick google search gave a link to a satirical book written by a physicist, Ellery Schempp.  
+https://ncse.com/library-resource/gravity-its-only-theory
 
 Perspective
 -----------
