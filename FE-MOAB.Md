@@ -120,6 +120,8 @@ https://www.metabunk.org/why-do-some-satellites-show-a-hole-at-the-poles-hollow-
 
 Pressure and vacuum side by side
 --------------------------------
+(À la Kent Hovind) There's no vacuum cleaner in space: vacuum doesn't suck.
+
 The atmospheric pressure gets lower with altitude. It becomes almost nil at about 40km. There is no need then for a physical barrier, since both side of it has 0 pressure.
 That also explain why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.  
 
@@ -131,6 +133,8 @@ Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P
 
 Selective gravity
 -----------------
+(À la Kent Hovind) Birds don't weight an ocean, an ocean doen't weight a butterfly.
+
 Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight).   
 https://www.youtube.com/watch?v=QyeF-_QPSbk  
 
