@@ -211,6 +211,9 @@ https://www.youtube.com/watch?v=wyRJZbNmC7U
 Answer to Malcolm Bowden  
 https://www.youtube.com/watch?v=_-XAJdvXV3U
 
+Hubble misquoted  
+https://answersingenesis.org/astronomy/cosmology/misquoting-hubble/
+
 Eclipse ressources
 ------------------
 https://eclipsewise.com/  
