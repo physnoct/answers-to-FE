@@ -829,6 +829,9 @@ Bible
 Question everything  
 https://www.youtube.com/watch?v=Jb7lVVtgIB8  
 
-It's indoctrination if it can't be questioned, it's education if it can be demonstrated.
+It's indoctrination if it can't be questioned, it's education if it can be demonstrated.  
 
+Last convenient link  
+https://www.youtube.com/watch?v=K37G2j0K8BA  
 
+Thanks to all the authors of all these videos debunking FE!  
