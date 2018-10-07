@@ -269,6 +269,9 @@ https://www.youtube.com/watch?v=UC-sy5yvax0 (stars visible when surexposing)
 Rocks don't reflect light  
 https://physnoct.wordpress.com/2017/05/13/can-a-rock-reflect-light/  
 
+Lunar Occultations and Telescope Tracking Rates  
+https://www.youtube.com/watch?v=0gGybX65Axs  
+
 No stars in pictures
 --------------------
 Cameras doesn't have the same range of sensitivity as our eyes. While we're able to see indoors without problems, any camera will need slower
