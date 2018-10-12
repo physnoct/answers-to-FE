@@ -1,12 +1,11 @@
-# FE-MOAB.txt
-https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md
+# FE-MOAB.Md
+https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md  
 
-The flat earth requires the sun to circle above the earth in order to have time zones. Yet, the sun makes an arc around the earth, not a circle above it. We see the sun set, sun rise which should be impossible on a flat earth. Once the sun is "below" the earth, it's night everywhere on a flat earth. This simulation shows what a flat earth and the sun orbiting above it, would look like.  
-https://www.youtube.com/watch?v=uexZbunD7Jg﻿
-
+Simple observations disprove the flat eath  
+https://physnoct.wordpress.com/2018/10/02/simple-observations-debunk-fe/  
 
 No research would be complete without checking the arguments for the globe earth and against the flat earth.
-If you seek the truth you should be ready to follow the evidences, not your beliefs, no matter what!
+If you seek the truth you should be ready to follow the evidences, not your beliefs, no matter what!  
 
 Flat earth vs. globe earth isn't recent.  
 GE has been established as fact since long ago. Maybe for good reasons. First and most obvious,   
@@ -120,7 +119,7 @@ https://www.metabunk.org/why-do-some-satellites-show-a-hole-at-the-poles-hollow-
 
 Pressure and vacuum side by side
 --------------------------------
-(À la Kent Hovind) There's no vacuum cleaner in space: vacuum doesn't suck.
+(À la Kent Hovind) Vacuum doesn't suck because there's no vacuum cleaner in space.
 
 The atmospheric pressure gets lower with altitude. It becomes almost nil at about 40km. There is no need then for a physical barrier, since both side of it has 0 pressure.
 That also explain why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.  
@@ -152,6 +151,8 @@ You just match its speed. Same thing for airplanes fueling during flight, space 
 https://www.youtube.com/watch?v=f8BbGG9cKBo  
 https://www.youtube.com/watch?v=sL5MxCwkLJQ  
 https://www.youtube.com/watch?v=P-2ld2WVtow  
+
+A plane can't land on the earth spinning at 1000 mph? A plane always move relative to the earth, thus there's no problem for landing.
 
 Airplanes east vs west
 ----------------------
@@ -465,6 +466,10 @@ https://www.sparkfun.com/categories/4
 
 NASA & Rockets
 --------------
+NASA goes in greath length to produce very detailled technical manuals for the ISS,
+while leaking documents admitting FE, making videos with numerous blunders (bubbles, harnesses, etc).
+Is that really all fake and lies?  
+
 ISS manuals and documents  
 This one points to many other documents available on the net  
 http://www.spaceref.com/iss/ops/ISS.User.Guide.R2.pdf  
