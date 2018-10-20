@@ -99,6 +99,9 @@ The earth's movements also change direction, but too slowly to be percepted. All
 
 The fastest rotation rate is once per day (72.7µrad/s), which is very slow. The gravity is about 300 times stronger than the resulting centrifugal acceleration (33.7mm/s²). The yearly rotation is 365.25 times slower, giving a centrifugal acceleration of 5.9mm/s² so the gravity would be 1600 times stronger.
 
+Hurtling through space at 67,000 Mph - what does that look like?  
+https://www.youtube.com/watch?v=1nQqOBPH8bM  
+
 Earth's orbit
 -------------
 In order to keep up and pass it (circle it) Earth must speed up to pass, and then slow down once it's passed (circled)." 
@@ -132,7 +135,7 @@ Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P
 
 Selective gravity
 -----------------
-(À la Kent Hovind) Birds don't weight an ocean, an ocean doen't weight a butterfly.
+(À la Kent Hovind) Birds don't weight an ocean, an ocean doesn't weight a butterfly.
 
 Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight).   
 https://www.youtube.com/watch?v=QyeF-_QPSbk  
@@ -340,8 +343,8 @@ https://www.youtube.com/watch?v=MGA1ZYkaxzE
 Measure of the tilt angle at the solstice on the south pole  
 https://www.youtube.com/watch?v=tTnn91KyJ-4  
 
-In french, lake Serre Ponçon  
-https://www.youtube.com/watch?v=rW7UES3vPzU  
+Lake Serre Ponçon  
+https://www.youtube.com/watch?v=rW7UES3vPzU (french)  
 
 Flat horizon  
 https://www.youtube.com/watch?v=oFqN3Hqr1Tg  
