@@ -3,6 +3,7 @@ https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md
 
 Simple observations disprove the flat eath  
 https://physnoct.wordpress.com/2018/10/02/simple-observations-debunk-fe/  
+https://www.youtube.com/watch?v=5ZdWRC57ems (french)  
 
 No research would be complete without checking the arguments for the globe earth and against the flat earth.
 If you seek the truth you should be ready to follow the evidences, not your beliefs, no matter what!  
