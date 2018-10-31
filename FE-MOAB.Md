@@ -662,6 +662,9 @@ Gleason map
 -----------
 https://www.youtube.com/watch?v=1qYM8Oj6gMY  
 
+Maps are projections of the globe  
+https://www.youtube.com/watch?v=hJUbCq3qck8 (french)  
+
 Snipers
 -------
 "do snipers take the Coriolis effect into consideration before shooting?"  
@@ -841,14 +844,20 @@ light on the FE model
 We calculate the change of light intensity between night and day with this formula: il the distance to the sun is doubled, its intensity will be the quarter (25%). If at the equinox, the sun is orbiting at the vertical of the equator, its orbit's diameter would be 20000 km. Thus, the radius is 10000 km.  
 Let's take New-York as an observing point: it's at 40:42' 46" latitude.  
 40:42' 46" = 40 + 42/60 + 46/3600 = 40.7128  
+
 The distance of New York to the north pole is:  
 pi * earth's radius * (90 - latitude)/180  
 3.1416 * 6371 km * (90 - 40.7128)/180 = 5480 km  
+
 (To simplify the calculations, I don't take into account the height of the sun)  
 At noon, the distance of the sun with NY is 10000 - 5480 = 4520  
+
 At midnight, it's 10000 + 5480 = 15480  
+
 The ratio of distance is 15480/4520 = 3.42  
+
 The intensity drop should be the inverse square of this: 1/(3.42*3.42) = 0.08%  
+
 It's roughly equivalent to a difference between a sunny day and a cloudy day. In other words, it doesn't explain the day and night.  
 
 Bible
