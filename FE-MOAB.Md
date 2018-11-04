@@ -359,6 +359,9 @@ https://ibb.co/gxQC3w
 Plane from Oakland airport  
 https://www.youtube.com/watch?v=EcTwjIHBxS0 (french)  
 
+Perspective and vanishing point  
+https://www.youtube.com/watch?v=Noo1OUvLrm8  
+
 Geodesic measurements  
 https://www.youtube.com/watch?v=W0_9SyDoOS8 (french)  
 
