@@ -1,4 +1,5 @@
 # FE-MOAB.Md
+Answers to FE arguments  
 https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md  
 
 Simple observations disprove the flat eath  
@@ -862,6 +863,10 @@ The ratio of distance is 15480/4520 = 3.42
 The intensity drop should be the inverse square of this: 1/(3.42*3.42) = 0.08%  
 
 It's roughly equivalent to a difference between a sunny day and a cloudy day. In other words, it doesn't explain the day and night.  
+
+Other compilations
+==================
+http://www.terre-plate.org	(french)  
 
 Bible
 =====
