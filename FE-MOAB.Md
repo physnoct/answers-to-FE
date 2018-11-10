@@ -116,7 +116,10 @@ At the equator, the gravity is about 291 times greater than the centrifugal acce
 
 Earth model
 -----------
-The earth can be modelised with a sphere small enough for experiments. Both gravity and centrifugal accelerations are dependent on the radius of the sphere, while the ratio gravity/cent. acc. is independent of the radius. With any sphere at earth's density, the maximum speed of rotation is about 17 revolutions per day.﻿
+The earth can be modelised with a sphere small enough for experiments. Both gravity and centrifugal accelerations are dependent on the radius of the sphere, while the ratio gravity/cent. acc. is independent of the radius. With any sphere at earth's density, the maximum speed of rotation is about 17 revolutions per day.﻿  
+
+Globe perspective  
+http://walter.bislins.ch/bloge/index.asp?page=Perspective+on+a+Globe#H_Globe_Perspective_App  
 
 Hollow earth
 ------------
@@ -124,7 +127,7 @@ https://www.metabunk.org/why-do-some-satellites-show-a-hole-at-the-poles-hollow-
 
 Pressure and vacuum side by side
 --------------------------------
-(À la Kent Hovind) Vacuum doesn't suck because there's no vacuum cleaner in space.
+(À la Kent Hovind) Vacuum doesn't suck because there's no vacuum cleaner in space.  
 
 The atmospheric pressure gets lower with altitude. It becomes almost nil at about 40km. There is no need then for a physical barrier, since both side of it has 0 pressure.
 That also explain why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.  
@@ -463,6 +466,9 @@ https://www.youtube.com/watch?v=2zejiHaRhI4
 Flashing the ISS  
 https://www.universetoday.com/93987/amateur-astronomers-flash-the-space-station/  
 
+Home made radio telescope to see geostationary satellites  
+https://www.youtube.com/watch?v=g3LT_b6K0Mc  
+
 Various  
 https://uk.tek.com/document/poster/worldwide-spectrum-allocations-poster  
 http://www.asc-csa.gc.ca/eng/satellites/default.asp  
@@ -603,7 +609,9 @@ http://www.jgiesen.de/refract/index.html
 https://www.youtube.com/watch?v=XaZZwC77ghs  
 
 Perspective VS Orthographic on a FLAT PLANE!  
-https://www.youtube.com/watch?v=mxWtZV4hoT8  
+
+Maps
+https://www.youtube.com/watch?v=hJUbCq3qck8 
 
 Accounting curvature
 --------------------
