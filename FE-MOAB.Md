@@ -468,6 +468,7 @@ https://www.universetoday.com/93987/amateur-astronomers-flash-the-space-station/
 
 Home made radio telescope to see geostationary satellites  
 https://www.youtube.com/watch?v=g3LT_b6K0Mc  
+https://www.youtube.com/watch?v=tjvOyUsoh1c  
 
 Various  
 https://uk.tek.com/document/poster/worldwide-spectrum-allocations-poster  
