@@ -470,6 +470,9 @@ Home made radio telescope to see geostationary satellites
 https://www.youtube.com/watch?v=g3LT_b6K0Mc  
 https://www.youtube.com/watch?v=tjvOyUsoh1c  
 
+Receiving images from NOAA satellites  
+https://www.youtube.com/watch?v=cjClTnZ4Xh4  
+
 Various  
 https://uk.tek.com/document/poster/worldwide-spectrum-allocations-poster  
 http://www.asc-csa.gc.ca/eng/satellites/default.asp  
