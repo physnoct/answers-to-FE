@@ -472,6 +472,7 @@ https://www.youtube.com/watch?v=tjvOyUsoh1c
 
 Receiving images from NOAA satellites  
 https://www.youtube.com/watch?v=cjClTnZ4Xh4  
+https://www.youtube.com/watch?v=jGWFg7EDnyY  
 
 Various  
 https://uk.tek.com/document/poster/worldwide-spectrum-allocations-poster  
@@ -556,6 +557,9 @@ https://www.quora.com/Looking-for-the-negatives-of-all-the-original-photos-taken
 
 Blue Marble  
 https://www.worldsciencefestival.com/2015/07/blue-marble-shot-history/  
+
+Van Allen Belts and Apollo missions  
+https://www.youtube.com/watch?v=bLtgS2_qxJk  
 
 Moon
 ----
@@ -854,6 +858,18 @@ To measure it, drop an object from a known height and measure the falling time. 
 The relation is h = 0.5 g t²  
 Solving for g  
 g = 2h/t²
+
+"Why do we see the same stars everynight?"
+------------------------------------------
+The sun speed through the galaxy sounds very fast from our perspective, at 515,000 mph. If you convert this speed in astronomical numbers, you'll get a better picture.  
+
+Let's convert the hours into years.  
+515000 mph * 24 h/day * 365.25 days/year = 4514490000 miles/year  
+
+After, we convert miles/years to light years/year  
+4.51 e 9 mpy / 5.8786 e 12 miles per ly = 0.000768 light years/years  
+
+To get an idea of the scale, the nearest star is at 4.367 light years.﻿  
 
 light on the FE model
 ---------------------
