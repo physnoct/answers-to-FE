@@ -65,6 +65,7 @@ https://app.box.com/shared/static/zqx59oz7be9wb4rd1npox4zwxs00gkod.jpg
 https://www.youtube.com/watch?v=3K3cD_L4j7U  
 
 Ex-FEers  
+https://www.youtube.com/watch?v=dVER8BKBOpI  
 
 I Quit Flat Earth  
 https://www.youtube.com/watch?v=AjU6hSEHOYE  
