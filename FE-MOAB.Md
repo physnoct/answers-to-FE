@@ -98,6 +98,21 @@ http://flatearthdeception.com/
 Flat earth doctrine  
 http://www.flatearthdoctrine.com  
 
+Answers to Flat Earth Hero's $100,000 challenge
+-----------------------------------------------
+MCToon  
+https://www.youtube.com/watch?v=oPIN_aJ_ZFw  
+
+Wolfie6020  
+https://www.youtube.com/watch?v=ScJ4QW7gAlw (MCToon mirrored)  
+https://www.youtube.com/watch?v=OVp_yJgSwfA  
+https://www.youtube.com/watch?v=9_qP-r0asww  
+https://www.youtube.com/watch?v=d4Fi-86uSqs  
+https://www.youtube.com/watch?v=-FJG65nbUO8  
+
+Planarwalk
+https://www.youtube.com/watch?v=JXjKSo4Ezsk  
+
 Basic physics
 =============
 Earth spinning,wobbling
@@ -140,7 +155,7 @@ That also explain why satellites in low earth orbit don't use balloons: balloons
 
 There can be regions of high pressure next to low pressure, as we can see in meteorology. These cause precipitations (rain) and wind.  
 
-The vacuum barrier argument may be a misconception. A perfect vacuum is by definition 0 pressure (0 psi, 0 N/m², 0 bar, 0 atm, etc.). Normally on earth, we make a vacuum by tying a vacuum pump to some container. This vacuum pump has a negative pressure: it sucks the air. Thus, the image "a vacuum pump sucks" remains "attached" to the idea of vacuum.  
+The vacuum barrier argument may be a misconception. A perfect vacuum is by definition 0 _absolute_ pressure (0 psi, 0 N/m², 0 bar, 0 atm, etc.). Normally on earth, we make a vacuum by tying a vacuum pump to some container. This vacuum pump has a negative pressure: it sucks the air. Thus, the image "a vacuum pump sucks" remains "attached" to the idea of vacuum.  
 
 Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P = 0 N/m²) so no force against an area, so vacuum doesn't suck.  
 
