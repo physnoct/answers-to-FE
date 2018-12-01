@@ -118,6 +118,8 @@ Basic physics
 Earth spinning,wobbling
 -----------------------
 All those movements have a constant speed which we can't feel. It's the same principle as a moving train.
+https://www.youtube.com/watch?v=sy60E3I_K94  
+
 The earth's movements also change direction, but too slowly to be percepted. All the movements are confirmed by astronomical measurements.
 
 The fastest rotation rate is once per day (72.7µrad/s), which is very slow. The gravity is about 300 times stronger than the resulting centrifugal acceleration (33.7mm/s²). The yearly rotation is 365.25 times slower, giving a centrifugal acceleration of 5.9mm/s² so the gravity would be 1600 times stronger.
