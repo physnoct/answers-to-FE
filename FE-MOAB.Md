@@ -469,9 +469,6 @@ https://www.youtube.com/watch?v=fFS0hVaJ6RQ
 Travel time comparison N-S and W-E  
 https://www.youtube.com/watch?v=6mlnmJbIqUM  
 
-South pole flights  
-https://www.youtube.com/watch?v=BGbNb9R_ioE  
-
 Emergency flights (français)  
 https://www.youtube.com/watch?v=6zeZESFZf08  
 
@@ -480,6 +477,15 @@ https://www.youtube.com/watch?v=ZgXX27K9WSY
 
 Amiral Byrd  
 https://steemit.com/flatearth/@kerriknox/debunking-the-flat-earth-admiral-byrd-conspiracy-part-3-of-4-the-flat-earth-antarctica-conspiracy  
+
+Antarctica
+----------
+
+South pole flights  
+https://www.youtube.com/watch?v=BGbNb9R_ioE  
+
+Colin O'Brady..
+https://www.cnn.com/2018/12/27/world/colin-obrady-antarctica-solo-trip-trnd/index.html..
 
 Satellites
 ----------
