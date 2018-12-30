@@ -163,7 +163,7 @@ Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P
 
 Selective gravity
 -----------------
-(À la Kent Hovind) Birds don't weight an ocean, an ocean doesn't weight a butterfly.
+(À la Kent Hovind) Birds don't weigh an ocean, an ocean doesn't weigh a butterfly.
 
 Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight).   
 https://www.youtube.com/watch?v=QyeF-_QPSbk  
@@ -309,8 +309,7 @@ https://www.youtube.com/watch?v=0gGybX65Axs
 
 No stars in pictures
 --------------------
-Cameras doesn't have the same range of sensitivity as our eyes. While we're able to see indoors without problems, any camera will need slower
-shutter speeds to be able to see something. To see the stars at night, your camera will need long exposure time.
+Cameras don't have the same range of sensitivity as our eyes. While we're able to see indoors without problems, any camera will need slower shutter speeds to be able to see something. To see the stars at night, your camera will need long exposure time.  
 During the day you won't be able to see the star while photographing a bright subject. If you overexpose the image, stars will appear, but subject will be blurred.  
 https://www.youtube.com/watch?v=3ksUQfEzMoM  
 Moon with varying exposure time  
@@ -440,7 +439,7 @@ Dome
 Rainbow indoor  
 https://www.youtube.com/watch?v=9QNw_8HLqhc  
 
-Pressure decreases with altitudes.  
+Pressure decreases with altitude.  
 At 35 km, the pressure is already very low, but the dome is at 117km  
 https://physnoct.wordpress.com/2018/09/03/flat-earth-atmospheric-pressure/  
 
@@ -484,8 +483,9 @@ Antarctica
 South pole flights  
 https://www.youtube.com/watch?v=BGbNb9R_ioE  
 
-Colin O'Brady..
-https://www.cnn.com/2018/12/27/world/colin-obrady-antarctica-solo-trip-trnd/index.html..
+Colin O'Brady  
+https://www.cnn.com/2018/12/27/world/colin-obrady-antarctica-solo-trip-trnd/index.html  
+https://www.colinobrady.com/theimpossiblefirst  
 
 Satellites
 ----------
