@@ -451,6 +451,9 @@ https://en.wikipedia.org/wiki/GPS_navigation_device#Mobile_phones_with_GPS_capab
 
 Planes
 ------
+IRS Align Mode - Carefully Measuring Earth's Rotation  
+https://www.youtube.com/watch?v=tUwHc_wUykk  
+
 Sydney - Santiago  
 https://www.youtube.com/watch?v=m-1xYjC5Q20  
 https://www.youtube.com/watch?v=Xy-I9GDWl34  
