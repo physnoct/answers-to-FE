@@ -483,7 +483,6 @@ https://steemit.com/flatearth/@kerriknox/debunking-the-flat-earth-admiral-byrd-c
 
 Antarctica
 ----------
-
 South pole flights  
 https://www.youtube.com/watch?v=BGbNb9R_ioE  
 
@@ -521,6 +520,9 @@ https://www.sparkfun.com/categories/4
 
 NASA & Rockets
 --------------
+National Aeronautics and Space Act of 1958
+https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg426-2.pdf
+
 NASA goes in greath length to produce very detailled technical manuals for the ISS,
 while leaking documents admitting FE, making videos with numerous blunders (bubbles, harnesses, etc).
 Is that really all fake and lies?  
