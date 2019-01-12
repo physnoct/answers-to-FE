@@ -67,6 +67,7 @@ https://www.youtube.com/watch?v=3K3cD_L4j7U
 Ex-FEers  
 https://www.youtube.com/watch?v=dVER8BKBOpI  
 https://www.youtube.com/watch?v=Af9KATJ6sjI  
+https://www.youtube.com/watch?v=K63Os0LS9Cg  
 
 I Quit Flat Earth  
 https://www.youtube.com/watch?v=AjU6hSEHOYE  
@@ -333,6 +334,7 @@ https://www.youtube.com/watch?v=NqOQ_BCtqUI
 https://www.youtube.com/watch?v=2-vRzQ_GDV0  
 https://www.youtube.com/watch?v=-4NUX5llWas  
 https://www.youtube.com/watch?v=znbtavVVeZ8  
+https://www.youtube.com/watch?v=54FiuS9ZplM
 
 Level water is curved  
 https://www.youtube.com/watch?v=4uwvx7-x98U  
@@ -428,6 +430,7 @@ https://himawari8.nict.go.jp/
 Mount San-Jacinto from Malibu  
 https://www.youtube.com/watch?v=doAFr5Cqtb8  
 https://depositphotos.com/5041644/stock-photo-mount-san-jacinto.html  
+https://www.youtube.com/watch?v=T1xys-BRxZg
 
 "We didn't go there" Greater Sapiens  
 https://www.youtube.com/watch?v=lFkWoEakG4U  
