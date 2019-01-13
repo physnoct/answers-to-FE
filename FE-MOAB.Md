@@ -658,9 +658,13 @@ http://www.jgiesen.de/refract/index.html
 https://www.youtube.com/watch?v=XaZZwC77ghs  
 
 Perspective VS Orthographic on a FLAT PLANE!  
+https://www.youtube.com/watch?v=mxWtZV4hoT8  
 
-Maps
-https://www.youtube.com/watch?v=hJUbCq3qck8 
+Replies to Phuket Word's perspective & all  
+https://www.youtube.com/watch?v=4saeG2lFWhc  
+
+Maps  
+https://www.youtube.com/watch?v=hJUbCq3qck8  
 
 Accounting curvature
 --------------------
