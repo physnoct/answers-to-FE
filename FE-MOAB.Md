@@ -493,6 +493,13 @@ Colin O'Brady
 https://www.cnn.com/2018/12/27/world/colin-obrady-antarctica-solo-trip-trnd/index.html  
 https://www.colinobrady.com/theimpossiblefirst  
 
+Team crossings, not motorised  
+https://drive.google.com/file/d/1IboFlg38aOIBo-mFDAciJWo9tVxPI83h/view?usp=drivesdk  
+Solo crossings, not motorised  
+https://drive.google.com/file/d/1L7tCmFOA5srGKVCcq8Eyv3pzTxHbN84l/view?usp=drivesdk  
+Antarctica stations/camps  
+https://drive.google.com/file/d/1BfNuwHpILxJX6yvEUuEH3HLNPFATxxOc/view?usp=drivesdk  
+
 Satellites
 ----------
 Images from earth  
