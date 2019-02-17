@@ -36,6 +36,10 @@ Eric Dubay's 200 proofs debunked more thoroughly
 https://200proofsearthisnotflat.blogspot.ca/2016/02/debunking-dubay-1-7200.html  
 http://blog.daimonie.com/2015_11_01_archive.html  
 
+Eric Dubay's 200 proofs debunked by Rethoric&Discourse  
+1st of many videos  
+https://www.youtube.com/watch?v=jzeXFGgCMFI  
+
 Flat Earth: Answering 50 claims in 12 minutes  
 https://www.youtube.com/watch?v=6wkvJ_bJD9Y  
 
@@ -118,12 +122,12 @@ Basic physics
 =============
 Earth spinning,wobbling
 -----------------------
-All those movements have a constant speed which we can't feel. It's the same principle as a moving train.
+All those movements have a constant speed which we can't feel. It's the same principle as a moving train.  
 https://www.youtube.com/watch?v=sy60E3I_K94  
 
 The earth's movements also change direction, but too slowly to be percepted. All the movements are confirmed by astronomical measurements.
 
-The fastest rotation rate is once per day (72.7µrad/s), which is very slow. The gravity is about 300 times stronger than the resulting centrifugal acceleration (33.7mm/s²). The yearly rotation is 365.25 times slower, giving a centrifugal acceleration of 5.9mm/s² so the gravity would be 1600 times stronger.
+The fastest rotation rate is once per day (72.7µrad/s), which is very slow. The gravity is about 300 times stronger than the resulting centrifugal acceleration (33.7mm/s²). The yearly rotation is 365.25 times slower, giving a centrifugal acceleration of 5.9mm/s² so the gravity would be 1600 times stronger.  
 
 Hurtling through space at 67,000 Mph - what does that look like?  
 https://www.youtube.com/watch?v=1nQqOBPH8bM  
@@ -136,7 +140,7 @@ https://commons.wikimedia.org/wiki/File:Circle_cos_sin.gif
 
 Water flung in space
 --------------------
-At the equator, the gravity is about 291 times greater than the centrifugal acceleration, so water doesn't fly into space.
+At the equator, the gravity is about 291 times greater than the centrifugal acceleration, so water doesn't fly into space.  
 
 Earth model
 -----------
@@ -673,6 +677,11 @@ https://www.youtube.com/watch?v=4saeG2lFWhc
 Maps  
 https://www.youtube.com/watch?v=hJUbCq3qck8  
 
+Optic effects
+-------------
+Inferior mirage  
+https://www.youtube.com/watch?v=qGyGHO772eE  
+
 Accounting curvature
 --------------------
 Surveying  
@@ -950,7 +959,7 @@ http://www.terre-plate.org	(french)
 
 Bible
 =====
-https://www.youtube.com/watch?v=rE3j_RHkqJc
+https://www.youtube.com/watch?v=rE3j_RHkqJc  
 
 Question everything  
 https://www.youtube.com/watch?v=Jb7lVVtgIB8  
