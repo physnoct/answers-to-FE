@@ -240,6 +240,15 @@ https://en.wikipedia.org/wiki/Barnard%27s_Star
 Selenelion  
 https://www.youtube.com/watch?v=tbdynyqP4c4  
 
+Midnight sun  
+https://www.youtube.com/watch?v=eUsWUiVCq5U  
+https://en.wikipedia.org/wiki/Midnight_sun
+
+The midnight sun should be visible above the arctic circle, not just at the pole.  
+
+During the summer soltice, on the arctic circle, at midnight, the angle of the sun is 0° above the horizon, making it possible to see the sun. At local noon, the sun is 47° (2 x 23.5°) above the horizon.  
+Any point above the arctic circle would be able to see the sun during all day. There would be obstruction only when the observer is below the arctic circle: the sun would be below the horizon.  
+
 Geocentrism
 -----------
 Testing Geocentrism  
