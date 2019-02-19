@@ -168,13 +168,19 @@ Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P
 
 Selective gravity
 -----------------
-(À la Kent Hovind) Birds don't weigh an ocean, an ocean doesn't weigh a butterfly.
+(À la Kent Hovind) Birds don't weigh an ocean, an ocean doesn't weigh a butterfly.  
 
 Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight).   
 https://www.youtube.com/watch?v=QyeF-_QPSbk  
 
-so the gravity isn't selective.
-The resulting force depends on the mass of the attracted object (F = ma), making gravity "selective".
+so the gravity isn't selective. The resulting force depends on the mass of the attracted object (F = ma), making gravity "selective".  
+
+Spinning ball proof
+-------------------
+Weight at different latitudes  
+https://www.youtube.com/watch?v=CkhxPm15PFo  
+https://www.youtube.com/watch?v=t2aSVsifj-o  
+https://www.youtube.com/watch?v=OLXLB3IVXiI  
 
 Helicopter hoving over ground
 -----------------------------
