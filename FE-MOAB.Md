@@ -466,6 +466,16 @@ Pressure decreases with altitude.
 At 35 km, the pressure is already very low, but the dome is at 117km  
 https://physnoct.wordpress.com/2018/09/03/flat-earth-atmospheric-pressure/  
 
+Space is water  
+The waters above that the bible was refering to, are merely the water within clouds. It's a reasonable interpretation, it explains the verses very well and goes along with modern science.  
+
+If there was water above, why didn't god put fishes in it? Also, turbulances in water above would behave the same as below. We would see the light affected by this, but it's not what we observe.  
+
+If the sun was above the water in space, all the red light would have been absorbed, as shown in these video:  
+https://www.youtube.com/watch?v=MM_RwdUi30Q  
+https://www.youtube.com/watch?v=AAJjdA6b4Ts  
+The sun light would not appear yellow but blue.
+
 GPS/Cell phones
 ---------------
 Cell phone triangulation  
@@ -910,8 +920,7 @@ The value of this angle is arccos(R/(R+h)) where R is earth's radius and h is th
 
 Plane dip
 ---------
-To follow the curvature, the plane simply fly at constant altitude. To fly in a straight line into space, the plane has to climb up.
-If a plane travels around the earth at 500 mph, it will take 50h to make a full turn (500mph * 50h = 25000 miles) so it will dip its nose by 360° in 50h = 7.2°/h = 0.12°/m = 0.002°/s.  
+To follow the curvature, the plane simply fly at constant altitude. To fly in a straight line into space, the plane has to climb up. If a plane travels around the earth at 500 mph, it will take 50h to make a full turn (500mph * 50h = 25000 miles) so it will dip its nose by 360° in 50h = 7.2°/h = 0.12°/m = 0.002°/s.  
 While the plane flies, the earth itself curves with a bit slower rate.  
 The plane's real speed would be: GS/R = PS/(R+h) -> PS = GS*(R+h)/R.  
 
@@ -929,8 +938,7 @@ It's not surprizing then, to see antennas to top of buildings.
 
 g measurement
 -------------
-g is the value of the acceleration in free fall at ground level, and its value is measurable. 
-To measure it, drop an object from a known height and measure the falling time. It should be independent of the mass. The corresponding value of g is calculated from height and time.  
+g is the value of the acceleration in free fall at ground level, and its value is measurable. To measure it, drop an object from a known height and measure the falling time. It should be independent of the mass. The corresponding value of g is calculated from height and time.  
 The relation is h = 0.5 g t²  
 Solving for g  
 g = 2h/t²
