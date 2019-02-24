@@ -540,6 +540,9 @@ https://www.youtube.com/watch?v=2zejiHaRhI4
 Flashing the ISS  
 https://www.universetoday.com/93987/amateur-astronomers-flash-the-space-station/  
 
+ISS from ground telescope  
+https://www.youtube.com/watch?v=vscu0K1DQxc  
+
 Home made radio telescope to see geostationary satellites  
 https://www.youtube.com/watch?v=g3LT_b6K0Mc  
 https://www.youtube.com/watch?v=tjvOyUsoh1c  
