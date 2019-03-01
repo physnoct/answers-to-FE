@@ -94,7 +94,10 @@ https://www.youtube.com/watch?v=R9aXAn5Fmso
 1:23 Those who are owners of FE channels; Shame on you for keeping monetising these stupidities.  
 1:30 You're speaking of truth seekers? Let me laugh! You're making money by taking people for imbeciles.  
 1:42 You talk about the system but you do the same thing: MONEY AND POWER!  
-1:49 THINK ABOUT IT! You rot the system even more by falling so low.  
+1:49 THINK ABOUT IT! You rot the system even more by falling so low.
+
+Flat vs Globe vs Concave part 2: play at 16 min  
+https://www.youtube.com/watch?v=MTxI6o45TV8&list=PL5YWnU-lH6qcI90f-klklwIV0nUyfDG80&index=9  
 
 Creationists refuting a flat earth  
 https://creation.com/refuting-flat-earth  
