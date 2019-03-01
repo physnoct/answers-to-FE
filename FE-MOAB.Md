@@ -190,7 +190,7 @@ Helicopter hoving over ground
 In the Mythbuster's experiment, they had to shoot a soccer ball with a cannon in order to make it land on the same spot.  
 https://www.youtube.com/watch?v=BLuI118nhzc
 
-how to land on a spinning object?
+How to land on a spinning object?
 ---------------------------------
 You just match its speed. Same thing for airplanes fueling during flight, space vehicules docking on the space station, etc.  
 https://www.youtube.com/watch?v=f8BbGG9cKBo  
@@ -462,6 +462,9 @@ https://www.youtube.com/watch?v=Y4UP6nRMuGs
 
 Dome
 ---- 
+AE Map with Glass Dome 100% DEBUNKED  
+https://www.youtube.com/watch?v=dF5G6UQWTF8  
+
 Rainbow indoor  
 https://www.youtube.com/watch?v=9QNw_8HLqhc  
 
