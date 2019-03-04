@@ -67,6 +67,7 @@ https://app.box.com/shared/static/zqx59oz7be9wb4rd1npox4zwxs00gkod.jpg
 
 5 problems with AE map (FE video) at 3:18  
 https://www.youtube.com/watch?v=3K3cD_L4j7U  
+https://www.youtube.com/watch?v=1AHFl0aMyj4  
 
 Ex-FEers  
 https://www.youtube.com/watch?v=dVER8BKBOpI  
@@ -105,6 +106,15 @@ http://flatearthdeception.com/
 
 Flat earth doctrine  
 http://www.flatearthdoctrine.com  
+
+Behind the Curve
+----------------
+GreaterSapien  
+https://www.youtube.com/watch?v=WMrYo9CrxNI  
+Godless Engineer  
+https://www.youtube.com/watch?v=TMG5P1LRHYU  
+Scimandan  
+https://www.youtube.com/watch?v=wqQeDiK6iuc  
 
 Answers to Flat Earth Hero's $100,000 challenge
 -----------------------------------------------
@@ -462,7 +472,7 @@ https://www.youtube.com/watch?v=Y4UP6nRMuGs
 
 Dome
 ---- 
-AE Map with Glass Dome 100% DEBUNKED  
+AE Map with Glass Dome 100% DEBUNKED by a flat earther  
 https://www.youtube.com/watch?v=dF5G6UQWTF8  
 
 Rainbow indoor  
@@ -773,6 +783,9 @@ https://www.youtube.com/watch?v=J0gqeJipFfw
 Aircraft Laser Gyroscopes  
 https://www.youtube.com/watch?v=cYNZTkNDhzQ  
 
+ROMY ring laser  
+https://www.youtube.com/watch?v=MXYV6wNdZm8  
+
 Gleason map
 -----------
 https://www.youtube.com/watch?v=1qYM8Oj6gMY  
@@ -802,8 +815,7 @@ Senses
 
 Even in the bible, they relied on balance scale to weight object. This means the bible recognize that our senses are not always adequate for measuring, thus the use of instruments of measure for volume, lengths and weights.  
 
-Our senses may not be precise enough depending on what you're observing.
-Let's take an example. Machinist must make a flat surface within thousandth of an inch.
+Our senses may not be precise enough depending on what you're observing. Let's take an example. Machinist must make a flat surface within thousandth of an inch.
 You simply can't tell it's flat within that resolution.  
 
 https://io9.gizmodo.com/5926643/10-fundamental-limits-to-human-perception----and-how-they-shape-your-world  
@@ -887,7 +899,7 @@ On a globe earth, it would be 28000 km and 20000 km respectively
 
 "Konyukhov came through it all unscathed, returning to King George Sound at 02: 56:50 UTC (10:56:50 WST) to record a time of 102 days 00 hours 56 minutes 50secs for this 16,400 mile circuit of Antarctica." 26400 km in metric, thus proving a globe earth.
 
-In the globe earth model,   
+In the globe earth model,  
 S45 latitude would give a circle of 2𝜋 * 6371km * cos 45°= 28300km = 17600 miles  
 S60 latitude would give a circle of 2𝜋 * 6371km * cos 60°= 20000km = 12400 miles  
 
@@ -952,8 +964,8 @@ The relation is h = 0.5 g t²
 Solving for g  
 g = 2h/t²
 
-"Why do we see the same stars everynight?"
-------------------------------------------
+"Why do we see the same stars every night?"
+-------------------------------------------
 The sun speed through the galaxy sounds very fast from our perspective, at 515,000 mph. If you convert this speed in astronomical numbers, you'll get a better picture.  
 
 Let's convert the hours into years.  
