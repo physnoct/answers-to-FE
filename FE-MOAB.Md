@@ -12,10 +12,23 @@ If you seek the truth you should be ready to follow the evidences, not your beli
 Flat earth vs. globe earth isn't recent.  
 GE has been established as fact since long ago. Maybe for good reasons. First and most obvious,   
 
-pictures from space
-===================
+pictures from space, ...
+========================
 
 https://arstechnica.com/science/2016/10/japans-space-agency-just-released-a-trove-of-jaw-dropping-moon-photos/  
+
+... and tests done by flat earthers themselves
+==============================================
+
+Video "Behind the Curve"
+------------------------
+GreaterSapien  
+https://www.youtube.com/watch?v=WMrYo9CrxNI  
+Godless Engineer  
+https://www.youtube.com/watch?v=TMG5P1LRHYU  
+Scimandan  
+https://www.youtube.com/watch?v=wqQeDiK6iuc  
+
 
 Quickies
 ========
@@ -106,15 +119,6 @@ http://flatearthdeception.com/
 
 Flat earth doctrine  
 http://www.flatearthdoctrine.com  
-
-Behind the Curve
-----------------
-GreaterSapien  
-https://www.youtube.com/watch?v=WMrYo9CrxNI  
-Godless Engineer  
-https://www.youtube.com/watch?v=TMG5P1LRHYU  
-Scimandan  
-https://www.youtube.com/watch?v=wqQeDiK6iuc  
 
 Answers to Flat Earth Hero's $100,000 challenge
 -----------------------------------------------
