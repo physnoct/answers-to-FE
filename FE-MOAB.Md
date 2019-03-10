@@ -1,5 +1,5 @@
 # FE-MOAB.Md
-Simple observations disprove the flat earth -- Des observations simples démentent la terre plate  
+Simple observations disprove the flat earth -- Des observations simples réfutent la terre plate  
 https://physnoct.wordpress.com/2018/10/02/simple-observations-debunk-fe/  
 https://www.youtube.com/watch?v=5ZdWRC57ems (french)  
 
@@ -25,6 +25,10 @@ Video "Behind the Curve"
 15 degrees/second -- "confidential"
 https://www.youtube.com/watch?v=J9p2Yrbp3xA..
 
+Comments
+--------
+Sly Sparkane  
+https://www.youtube.com/watch?v=nW_lIPdsWjY  
 GreaterSapien  
 https://www.youtube.com/watch?v=WMrYo9CrxNI  
 Godless Engineer  
