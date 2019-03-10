@@ -1,10 +1,10 @@
 # FE-MOAB.Md
-Answers to FE arguments  
-https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md  
-
-Simple observations disprove the flat eath  
+Simple observations disprove the flat earth -- Des observations simples démentent la terre plate  
 https://physnoct.wordpress.com/2018/10/02/simple-observations-debunk-fe/  
 https://www.youtube.com/watch?v=5ZdWRC57ems (french)  
+
+Answers to FE arguments -- Réponses aux arguments platistes  
+https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md  
 
 No research would be complete without checking the arguments for the globe earth and against the flat earth.
 If you seek the truth you should be ready to follow the evidences, not your beliefs, no matter what!  
@@ -22,6 +22,9 @@ https://arstechnica.com/science/2016/10/japans-space-agency-just-released-a-trov
 
 Video "Behind the Curve"
 ------------------------
+15 degrees/second -- "confidential"
+https://www.youtube.com/watch?v=J9p2Yrbp3xA..
+
 GreaterSapien  
 https://www.youtube.com/watch?v=WMrYo9CrxNI  
 Godless Engineer  
