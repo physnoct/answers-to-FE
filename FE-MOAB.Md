@@ -431,6 +431,9 @@ Boats disappearing
 https://www.youtube.com/watch?v=0xWsuFLdgBs  
 https://ibb.co/gxQC3w  
 
+Boat trails  
+https://www.youtube.com/watch?v=xMl0yHOLwOo  
+
 Plane from Oakland airport  
 https://www.youtube.com/watch?v=EcTwjIHBxS0 (french)  
 
