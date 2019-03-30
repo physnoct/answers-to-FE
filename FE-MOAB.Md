@@ -851,7 +851,25 @@ earth orbit diameter km: 149.6e6 km
 Galactic speed of the sun  
 828,000 km/h (230 km/s) or 514,000 mph (143 mi/s) = 0.000000087435 light-years/h = 0.0007664 light-years/year  
 
-Flat earth model
+Polaris never moves
+-------------------
+Earth and the solar system travel in space at 514000 mph through the galaxy.  
+Polaris is at about 433 light-years from earth.  
+
+If we convert the 514000 mph speed in miles per years, we have  
+   514000 mph * 24 h/day * 365.2422 days/year = 4505627779 miles/year.  
+It's exactly the same speed, but in other units.  
+
+This means that in a year, the solar system would travel a distance of 4505627779 miles.  
+Let's approximate that to 4.5 giga miles (4.5 E 9 or 4500000000).  
+
+Converting miles in light-years, we have 7.655E-4 light-years.  
+So, in a year, Polaris would have moved by an angle of about  
+   7.655E-4/433 ~ 1.77E-6 radian or 1E-4 degree, 
+which would be unnoticeable.  
+Note: at very small angles, the sine of an angle and the angle itself are equal.  
+
+﻿Flat earth model
 ----------------
 How do we calculate the distance from the north pole to any latitude on a flat earth model?  
 1) we straigthen the curvature of the globe earth. The distance from the north pole to the south pole is half a circumference.  
