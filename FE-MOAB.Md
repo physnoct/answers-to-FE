@@ -6,24 +6,24 @@ https://www.youtube.com/watch?v=5ZdWRC57ems (french)
 Answers to FE arguments -- Réponses aux arguments platistes  
 https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md  
 
-No research would be complete without checking the arguments for the globe earth and against the flat earth.
+No research would be complete without checking the arguments for the globe earth and against the flat earth.  
 If you seek the truth you should be ready to follow the evidences, not your beliefs, no matter what!  
 
 Flat earth vs. globe earth isn't recent.  
-GE has been established as fact since long ago. Maybe for good reasons. First and most obvious,   
+GE has been established as fact since long ago. Maybe for good reasons. First and most obvious,  
 
-pictures from space, ...
-========================
+pictures from space, ...  
+========================  
 
 https://arstechnica.com/science/2016/10/japans-space-agency-just-released-a-trove-of-jaw-dropping-moon-photos/  
 
-... and tests done by flat earthers themselves
-==============================================
+... and tests done by flat earthers themselves  
+==============================================  
 
-Video "Behind the Curve"
-------------------------
-15 degrees/second -- "confidential"
-https://www.youtube.com/watch?v=J9p2Yrbp3xA..
+Video "Behind the Curve"  
+------------------------  
+15 degrees/second -- "confidential"  
+https://www.youtube.com/watch?v=J9p2Yrbp3xA  
 
 Comments
 --------
@@ -54,7 +54,7 @@ https://youtu.be/O29Yube271E 106-111
 
 Eric Dubay's 200 proofs debunked more thoroughly  
 https://200proofsearthisnotflat.blogspot.ca/2016/02/debunking-dubay-1-7200.html  
-http://blog.daimonie.com/2015_11_01_archive.html  
+http://blog.daimonie.com/2015_11_01_archive.html
 
 Eric Dubay's 200 proofs debunked by Rethoric&Discourse  
 1st of many videos  
@@ -64,47 +64,47 @@ Flat Earth: Answering 50 claims in 12 minutes
 https://www.youtube.com/watch?v=6wkvJ_bJD9Y  
 
 15 degrees/hour on flat earth  
-https://www.youtube.com/watch?v=m0x8CEp58uE  
+https://www.youtube.com/watch?v=m0x8CEp58uE
 
 Flat earth visualization  
 https://www.youtube.com/watch?v=uexZbunD7Jg  
-https://www.youtube.com/watch?v=3_5Fz4Qa6_8  
+https://www.youtube.com/watch?v=3_5Fz4Qa6_8
 
 Lunar phases on flat earth  
-https://www.youtube.com/watch?v=vUKvw1LHIbc  
+https://www.youtube.com/watch?v=vUKvw1LHIbc
 
 Sun Angles on "Flat Earth Model"  
-https://geogebra.org/m/C9BcVgd4  
+https://geogebra.org/m/C9BcVgd4
 
 Sunlight on the Gleason Map  
 https://www.youtube.com/watch?v=_9PDTrTjBCU  
-https://www.youtube.com/watch?v=_-HGWh4O5gY (français)  
+https://www.youtube.com/watch?v=_-HGWh4O5gY (français)
 
 Distances on flat earth  
-https://www.youtube.com/watch?v=VHBNRGmQZaw  
+https://www.youtube.com/watch?v=VHBNRGmQZaw
 
 https://app.box.com/shared/static/zqx59oz7be9wb4rd1npox4zwxs00gkod.jpg  
 
 5 problems with AE map (FE video) at 3:18  
 https://www.youtube.com/watch?v=3K3cD_L4j7U  
-https://www.youtube.com/watch?v=1AHFl0aMyj4  
+https://www.youtube.com/watch?v=1AHFl0aMyj4
 
 Ex-FEers  
 https://www.youtube.com/watch?v=dVER8BKBOpI  
 https://www.youtube.com/watch?v=Af9KATJ6sjI  
-https://www.youtube.com/watch?v=K63Os0LS9Cg  
+https://www.youtube.com/watch?v=K63Os0LS9Cg
 
 I Quit Flat Earth  
 https://www.youtube.com/watch?v=AjU6hSEHOYE  
 
 FE Serbian  
-https://www.youtube.com/watch?v=qrDDK-lEMiM  
+https://www.youtube.com/watch?v=qrDDK-lEMiM
 
 TigerDan925  
-https://www.quora.com/How-do-former-Flat-Earthers-feel-about-their-previous-belief-in-a-flat-Earth  
+https://www.quora.com/How-do-former-Flat-Earthers-feel-about-their-previous-belief-in-a-flat-Earth
 
 Cyprustar (in french, translated text below)  
-https://www.youtube.com/watch?v=R9aXAn5Fmso  
+https://www.youtube.com/watch?v=R9aXAn5Fmso
 
 0:03 Like I said many times, the flat earth model is impossible. Because of Sygma Octantis but also Antarctica. ... one may wonder in which cosmogony FEers are. Me, I was (FEer), I studied and understood that it was IMPOSSIBLE.  
 0:12 Here are 2 maps of Antarctica with the bases and their distances. One, of the globe (concave or convex it's the same) and the other, of the flat earth.  
@@ -118,60 +118,60 @@ https://www.youtube.com/watch?v=R9aXAn5Fmso
 1:49 THINK ABOUT IT! You rot the system even more by falling so low.
 
 Flat vs Globe vs Concave part 2: play at 16 min  
-https://www.youtube.com/watch?v=MTxI6o45TV8&list=PL5YWnU-lH6qcI90f-klklwIV0nUyfDG80&index=9  
+https://www.youtube.com/watch?v=MTxI6o45TV8&list=PL5YWnU-lH6qcI90f-klklwIV0nUyfDG80&index=9
 
 Creationists refuting a flat earth  
 https://creation.com/refuting-flat-earth  
-http://flatearthdeception.com/  
+http://flatearthdeception.com/
 
 Flat earth doctrine  
-http://www.flatearthdoctrine.com  
+http://www.flatearthdoctrine.com
 
 Answers to Flat Earth Hero's $100,000 challenge
 -----------------------------------------------
 MCToon  
-https://www.youtube.com/watch?v=oPIN_aJ_ZFw  
+https://www.youtube.com/watch?v=oPIN_aJ_ZFw
 
 Wolfie6020  
 https://www.youtube.com/watch?v=ScJ4QW7gAlw (MCToon mirrored)  
 https://www.youtube.com/watch?v=OVp_yJgSwfA  
 https://www.youtube.com/watch?v=9_qP-r0asww  
 https://www.youtube.com/watch?v=d4Fi-86uSqs  
-https://www.youtube.com/watch?v=-FJG65nbUO8  
+https://www.youtube.com/watch?v=-FJG65nbUO8
 
-Planarwalk
-https://www.youtube.com/watch?v=JXjKSo4Ezsk  
+Planarwalk  
+https://www.youtube.com/watch?v=JXjKSo4Ezsk
 
 Basic physics
 =============
 Earth spinning,wobbling
 -----------------------
 All those movements have a constant speed which we can't feel. It's the same principle as a moving train.  
-https://www.youtube.com/watch?v=sy60E3I_K94  
+https://www.youtube.com/watch?v=sy60E3I_K94
 
-The earth's movements also change direction, but too slowly to be percepted. All the movements are confirmed by astronomical measurements.
+The earth's movements also change direction, but too slowly to be percepted. All the movements are confirmed by astronomical measurements.  
 
 The fastest rotation rate is once per day (72.7µrad/s), which is very slow. The gravity is about 300 times stronger than the resulting centrifugal acceleration (33.7mm/s²). The yearly rotation is 365.25 times slower, giving a centrifugal acceleration of 5.9mm/s² so the gravity would be 1600 times stronger.  
 
 Hurtling through space at 67,000 Mph - what does that look like?  
-https://www.youtube.com/watch?v=1nQqOBPH8bM  
+https://www.youtube.com/watch?v=1nQqOBPH8bM
 
 Earth's orbit
 -------------
-In order to keep up and pass it (circle it) Earth must speed up to pass, and then slow down once it's passed (circled)." 
+In order to keep up and pass it (circle it) Earth must speed up to pass, and then slow down once it's passed (circled)."  
 That's the acceleration component along one axis. There is also another component of this acceleration along a perpendicular axis: once it's passed the sun (in one side) it accelerates and slow down to get to the other side. These 2 components combine into a circle, or a vector that's oriented towards the center of the orbit. You can see clearly the principle here:  
 https://commons.wikimedia.org/wiki/File:Circle_cos_sin.gif
 
 Water flung in space
 --------------------
-At the equator, the gravity is about 291 times greater than the centrifugal acceleration, so water doesn't fly into space.  
+At the equator, the gravity is about 291 times greater than the centrifugal acceleration, so water doesn't fly into space.
 
 Earth model
 -----------
-The earth can be modelised with a sphere small enough for experiments. Both gravity and centrifugal accelerations are dependent on the radius of the sphere, while the ratio gravity/cent. acc. is independent of the radius. With any sphere at earth's density, the maximum speed of rotation is about 17 revolutions per day.﻿  
+The earth can be modelised with a sphere small enough for experiments. Both gravity and centrifugal accelerations are dependent on the radius of the sphere, while the ratio gravity/cent. acc. is independent of the radius. With any sphere at earth's density, the maximum speed of rotation is about 17 revolutions per day.﻿
 
 Globe perspective  
-http://walter.bislins.ch/bloge/index.asp?page=Perspective+on+a+Globe#H_Globe_Perspective_App  
+http://walter.bislins.ch/bloge/index.asp?page=Perspective+on+a+Globe#H_Globe_Perspective_App
 
 Hollow earth
 ------------
@@ -179,32 +179,32 @@ https://www.metabunk.org/why-do-some-satellites-show-a-hole-at-the-poles-hollow-
 
 Pressure and vacuum side by side
 --------------------------------
-(À la Kent Hovind) Vacuum doesn't suck because there's no vacuum cleaner in space.  
+(À la Kent Hovind) Vacuum doesn't suck because there's no vacuum cleaner in space. Since there is nothing in space, why would it suck?
 
-The atmospheric pressure gets lower with altitude. It becomes almost nil at about 40km. There is no need then for a physical barrier, since both side of it has 0 pressure.
-That also explain why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.  
+The atmospheric pressure gets lower with altitude. It becomes almost nil at about 40km. There is no need then for a physical barrier, since both side of it has 0 pressure.  
+That also explain why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.
 
-There can be regions of high pressure next to low pressure, as we can see in meteorology. These cause precipitations (rain) and wind.  
+There can be regions of high pressure next to low pressure, as we can see in meteorology. These cause precipitations (rain) and wind.
 
 The vacuum barrier argument may be a misconception. A perfect vacuum is by definition 0 _absolute_ pressure (0 psi, 0 N/m², 0 bar, 0 atm, etc.). Normally on earth, we make a vacuum by tying a vacuum pump to some container. This vacuum pump has a negative pressure: it sucks the air. Thus, the image "a vacuum pump sucks" remains "attached" to the idea of vacuum.  
 
-Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P = 0 N/m²) so no force against an area, so vacuum doesn't suck.  
+Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P = 0 N/m²) so no force against an area, so vacuum doesn't suck.
 
 Selective gravity
 -----------------
-(À la Kent Hovind) Birds don't weigh an ocean, an ocean doesn't weigh a butterfly.  
+(À la Kent Hovind) Birds don't weigh an ocean, an ocean doesn't weigh a butterfly.
 
-Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight).   
-https://www.youtube.com/watch?v=QyeF-_QPSbk  
+Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight).  
+https://www.youtube.com/watch?v=QyeF-_QPSbk
 
-so the gravity isn't selective. The resulting force depends on the mass of the attracted object (F = ma), making gravity "selective".  
+so the gravity isn't selective. The resulting force depends on the mass of the attracted object (F = ma), making gravity "selective".
 
 Spinning ball proof
 -------------------
 Weight at different latitudes  
 https://www.youtube.com/watch?v=CkhxPm15PFo  
 https://www.youtube.com/watch?v=t2aSVsifj-o  
-https://www.youtube.com/watch?v=OLXLB3IVXiI  
+https://www.youtube.com/watch?v=OLXLB3IVXiI
 
 Helicopter hoving over ground
 -----------------------------
@@ -216,7 +216,7 @@ How to land on a spinning object?
 You just match its speed. Same thing for airplanes fueling during flight, space vehicules docking on the space station, etc.  
 https://www.youtube.com/watch?v=f8BbGG9cKBo  
 https://www.youtube.com/watch?v=sL5MxCwkLJQ  
-https://www.youtube.com/watch?v=P-2ld2WVtow  
+https://www.youtube.com/watch?v=P-2ld2WVtow
 
 A plane can't land on the earth spinning at 1000 mph? A plane always move relative to the earth, thus there's no problem for landing.
 
@@ -228,56 +228,56 @@ Shape
 -----
 Neil deGrasse Tyson at 92 Y video (oblate/pear shape)  
 https://www.youtube.com/watch?v=SoCKapivHGM  
-https://www.youtube.com/watch?v=rYzBxo3hbYQ (whole video, extract is at the beginning)  
+https://www.youtube.com/watch?v=rYzBxo3hbYQ (whole video, extract is at the beginning)
 
 Earth is an oblate spheroid, but it looks like a perfect sphere.  
 The oblateness isn't apparent to the eyes, but precise measurements shows this.  
-https://en.wikipedia.org/wiki/Figure_of_the_Earth  
+https://en.wikipedia.org/wiki/Figure_of_the_Earth
 
 Oblateness from a picture  
-https://www.youtube.com/watch?v=tjx0KcDH7pQ﻿  
+https://www.youtube.com/watch?v=tjx0KcDH7pQ﻿
 
 FEers can only speculate about the extend of Antarctica while GE model shows pictures of Antarctica as a continent of known size.
 
 Astronomy
 ---------
-The stars in the northern hemisphere rotate in an anti-clockwise direction yet in the Southern Hemisphere they rotate in a clockwise direction.
-The sun rises due east and sets due west on the equinox.  
+The stars in the northern hemisphere rotate in an anti-clockwise direction yet in the Southern Hemisphere they rotate in a clockwise direction.  
+The sun rises due east and sets due west on the equinox.
 
 This video has a clear animation of the moon phases in the 1st few minutes  
-https://youtu.be/d3GD9gXzUBk  
+https://youtu.be/d3GD9gXzUBk
 
 2017 august 21 eclipse  
 https://www.youtube.com/watch?v=wiVyR_uYN2U  
 https://www.youtube.com/watch?v=3xkUTebkABc  
 https://www.youtube.com/watch?v=QFKx4AB3AlQ  
-https://www.youtube.com/watch?v=wmxg38ltoNE  
+https://www.youtube.com/watch?v=wmxg38ltoNE
 
 Loi de Tully-Fisher  
-https://www.youtube.com/watch?v=BA_H2D5cRwk  
+https://www.youtube.com/watch?v=BA_H2D5cRwk
 
 Distance measurements  
-http://planetary-science.org/astronomy/distance-and-magnitudes/  
+http://planetary-science.org/astronomy/distance-and-magnitudes/
 
 New Distance Measurement To Neighboring Galaxy (Supernova 1987A)  
-http://hubblesite.org/news_release/news/1991-03  
+http://hubblesite.org/news_release/news/1991-03
 
 Stars always the same  
-position of stars vary slightly over time. It has been recorded through history and confirmed by modern astronomy.
+position of stars vary slightly over time. It has been recorded through history and confirmed by modern astronomy.  
 An example is the Barnard's star which can be seen moving through several years  
-https://en.wikipedia.org/wiki/Barnard%27s_Star  
+https://en.wikipedia.org/wiki/Barnard%27s_Star
 
 Selenelion  
-https://www.youtube.com/watch?v=tbdynyqP4c4  
+https://www.youtube.com/watch?v=tbdynyqP4c4
 
 Midnight sun  
 https://www.youtube.com/watch?v=eUsWUiVCq5U  
 https://en.wikipedia.org/wiki/Midnight_sun
 
-The midnight sun should be visible above the arctic circle, not just at the pole.  
+The midnight sun should be visible above the arctic circle, not just at the pole.
 
 During the summer soltice, on the arctic circle, at midnight, the angle of the sun is 0° above the horizon, making it possible to see the sun. At local noon, the sun is 47° (2 x 23.5°) above the horizon.  
-Any point above the arctic circle would be able to see the sun during all day. There would be obstruction only when the observer is below the arctic circle: the sun would be below the horizon.  
+Any point above the arctic circle would be able to see the sun during all day. There would be obstruction only when the observer is below the arctic circle: the sun would be below the horizon.
 
 Geocentrism
 -----------
@@ -294,168 +294,169 @@ Eclipse ressources
 ------------------
 https://eclipsewise.com/  
 http://www.mreclipse.com/  
-https://eclipse.gsfc.nasa.gov/eclipse.html  
+https://eclipse.gsfc.nasa.gov/eclipse.html
 
 Equatorial mount
 ----------------
 An equatorial mount on a telescope allows us to follow the sun with only 1 axis, while the 360 circular path would need 2 axis. That proves the globe model.  
 https://www.youtube.com/watch?v=2pwS2oXcLPs  
 https://www.youtube.com/watch?v=ZA39DlOrxp0  
-https://www.youtube.com/watch?v=AnNH2uqUUO0  
+https://www.youtube.com/watch?v=AnNH2uqUUO0
 
 South celestial pole
 --------------------
 https://pbs.twimg.com/media/C4ruF06WcAEtgNK.jpg  
-https://www.youtube.com/watch?v=BGD3lhDCgpY  
+https://www.youtube.com/watch?v=BGD3lhDCgpY
 
 Stars and planets
 -----------------
-In french, at 0:42, there's a fly in front of the lens,
+In french, at 0:42, there's a fly in front of the lens,  
 demonstrating without a shadow of doubt that the star is out of focus.  
-https://www.youtube.com/watch?v=B2ImVhiBSbk  
+https://www.youtube.com/watch?v=B2ImVhiBSbk
 
 Jupiter Out of focus  
-https://www.youtube.com/watch?v=3_MY8stguWA  
+https://www.youtube.com/watch?v=3_MY8stguWA
 
 Known lights from afar (at 4:53)  
 https://www.youtube.com/watch?v=bh1KN5gbPvU  
-https://www.youtube.com/watch?v=JpA6DklSNz8  
+https://www.youtube.com/watch?v=JpA6DklSNz8
 
 P900 Manual focus  
-https://youtu.be/FVyohs5bDl0  
+https://youtu.be/FVyohs5bDl0
 
 Zooming on Venus  
-https://www.youtube.com/watch?v=zAWloyWj3JU  
+https://www.youtube.com/watch?v=zAWloyWj3JU
 
 Zooming on Jupiter,Saturn  
 https://www.youtube.com/watch?v=2KafnrXxcIs  
-https://www.youtube.com/watch?v=x-bT2hNzUCc  
+https://www.youtube.com/watch?v=x-bT2hNzUCc
 
 Focus on Betelgeuse and the moon  
-https://www.youtube.com/watch?v=tTD_dnWJ2nI  
+https://www.youtube.com/watch?v=tTD_dnWJ2nI
 
 Moon
 ----
-Shadows of mountains and craters on the moon change with the phases of the moon, proving the moon is a sphere illuminated by the sun.  
+Shadows of mountains and craters on the moon change with the phases of the moon, proving the moon is a sphere illuminated by the sun.
 
 Moon from south and north hemisphere  
-https://www.youtube.com/watch?v=a1ZhEgEFX-c  
+https://www.youtube.com/watch?v=a1ZhEgEFX-c
 
 Moon not transparent (varying exposure time)  
 https://www.youtube.com/watch?v=ow1nENEJIns  
-https://www.youtube.com/watch?v=UC-sy5yvax0 (stars visible when surexposing)  
+https://www.youtube.com/watch?v=UC-sy5yvax0 (stars visible when surexposing)
 
 Rocks don't reflect light  
-https://physnoct.wordpress.com/2017/05/13/can-a-rock-reflect-light/  
+https://physnoct.wordpress.com/2017/05/13/can-a-rock-reflect-light/
 
 Lunar Occultations and Telescope Tracking Rates  
-https://www.youtube.com/watch?v=0gGybX65Axs  
+https://www.youtube.com/watch?v=0gGybX65Axs
 
 No stars in pictures
 --------------------
-Cameras don't have the same range of sensitivity as our eyes. While we're able to see indoors without problems, any camera will need slower shutter speeds to be able to see something. To see the stars at night, your camera will need long exposure time.  
+Cameras don't have the same range of sensitivity as our eyes. While we're able to see indoors without problems, any camera will need slower shutter speeds to be able to see something. To see the stars at night, your camera will need long exposure time.
 During the day you won't be able to see the star while photographing a bright subject. If you overexpose the image, stars will appear, but subject will be blurred.  
 https://www.youtube.com/watch?v=3ksUQfEzMoM  
 Moon with varying exposure time  
-https://www.youtube.com/watch?v=ow1nENEJIns  
+https://www.youtube.com/watch?v=ow1nENEJIns
 
 Visually discerning the curvature of the Earth  
-http://www.thulescientific.com/Lynch%20Curvature%202008.pdf  
+http://www.thulescientific.com/Lynch%20Curvature%202008.pdf
 
 Globe earth
 -----------
 Maps and their interpretation (french)  
-https://www.youtube.com/watch?v=qumOMOedTn0  
+https://www.youtube.com/watch?v=qumOMOedTn0
 
 Scale and others (VSauce)  
 https://www.youtube.com/watch?v=mxhxL1LzKww  
 https://www.youtube.com/watch?v=S7UFbrkuNy4  
-https://www.youtube.com/watch?v=LyrF6oWtLYI  
+https://www.youtube.com/watch?v=LyrF6oWtLYI
 
 Horizon drop  
 https://www.youtube.com/watch?v=NqOQ_BCtqUI  
 https://www.youtube.com/watch?v=2-vRzQ_GDV0  
 https://www.youtube.com/watch?v=-4NUX5llWas  
 https://www.youtube.com/watch?v=znbtavVVeZ8  
-https://www.youtube.com/watch?v=54FiuS9ZplM
+https://www.youtube.com/watch?v=54FiuS9ZplM  
+https://www.youtube.com/watch?v=25PcqdDqrMI
 
 Level water is curved  
 https://www.youtube.com/watch?v=4uwvx7-x98U  
-https://vk.com/video1466875_456239473  
+https://vk.com/video1466875_456239473
 
 Recent experiments  
 https://www.youtube.com/watch?v=V03eF0bcYno  
 
 Size of the sun during the day  
 https://youtu.be/oTDNVI1Cxd4  
-https://www.youtube.com/watch?v=LFTWGdR8SiU  
+https://www.youtube.com/watch?v=LFTWGdR8SiU
 
 Correct curvature formula from a FEer  
-https://www.youtube.com/watch?v=yVGlflD447o  
+https://www.youtube.com/watch?v=yVGlflD447o
 
 Curvature of the earth  
 https://www.youtube.com/watch?v=2X2kf1Q3peM  
-https://www.youtube.com/watch?v=mUgKxxR9XkU&t  
+https://www.youtube.com/watch?v=mUgKxxR9XkU&t
 
 360° camera in space  
-https://www.youtube.com/watch?v=lT4DKzR-b58&feature=youtu.be  
+https://www.youtube.com/watch?v=lT4DKzR-b58&feature=youtu.be
 
 Turning Torso  
-https://www.youtube.com/watch?v=MoK2BKj7QYk  
+https://www.youtube.com/watch?v=MoK2BKj7QYk
 
 Experiment with laser and boat  
-https://www.youtube.com/watch?v=F5lUkqBFhgA  
+https://www.youtube.com/watch?v=F5lUkqBFhgA
 
 Lake Pontchartrain causeway  
 https://www.youtube.com/watch?v=ipqronPSXGM  
-https://www.youtube.com/watch?v=NR2-8wrz-sE  
+https://www.youtube.com/watch?v=NR2-8wrz-sE
 
 Lakeway Center Elevator 2  
-https://www.youtube.com/watch?v=NzY5du8LMgk  
+https://www.youtube.com/watch?v=NzY5du8LMgk
 
 New Orleans Elevator 2  
-https://www.youtube.com/watch?v=MGA1ZYkaxzE  
+https://www.youtube.com/watch?v=MGA1ZYkaxzE
 
 Measure of the tilt angle at the solstice on the south pole  
-https://www.youtube.com/watch?v=tTnn91KyJ-4  
+https://www.youtube.com/watch?v=tTnn91KyJ-4
 
 Lake Serre Ponçon  
-https://www.youtube.com/watch?v=rW7UES3vPzU (french)  
+https://www.youtube.com/watch?v=rW7UES3vPzU (french)
 
 Flat horizon  
 https://www.youtube.com/watch?v=oFqN3Hqr1Tg  
 https://www.youtube.com/watch?v=Yi__ujYsdJE  
-https://www.youtube.com/watch?v=uPFyEhAdHc4 (french)  
+https://www.youtube.com/watch?v=uPFyEhAdHc4 (french)
 
 Boats disappearing  
 https://www.youtube.com/watch?v=0xWsuFLdgBs  
-https://ibb.co/gxQC3w  
+https://ibb.co/gxQC3w
 
 Boat trails  
 https://www.youtube.com/watch?v=xMl0yHOLwOo  
 
 Plane from Oakland airport  
-https://www.youtube.com/watch?v=EcTwjIHBxS0 (french)  
+https://www.youtube.com/watch?v=EcTwjIHBxS0 (french)
 
 Perspective and vanishing point  
-https://www.youtube.com/watch?v=Noo1OUvLrm8  
+https://www.youtube.com/watch?v=Noo1OUvLrm8
 
 Geodesic measurements  
-https://www.youtube.com/watch?v=W0_9SyDoOS8 (french)  
+https://www.youtube.com/watch?v=W0_9SyDoOS8 (french)
 
 Football field not flat  
 https://www.livestrong.com/article/41727  
 https://www.youtube.com/watch?v=OR4nSuonuTg  
 https://www.youtube.com/watch?v=KVJ5bcr0Uys  
-https://www.youtube.com/watch?v=HI4AzwwX5Rg  
+https://www.youtube.com/watch?v=HI4AzwwX5Rg
 
 Coriolis effect  
-https://www.youtube.com/watch?v=dt_XJp77-mk  
+https://www.youtube.com/watch?v=dt_XJp77-mk
 
 Effects of curvature  
 http://mathscinotes.com/2017/01/effect-of-earths-curvature-on-suspension-bridge-dimensions/  
 https://www.reddit.com/r/engineering/comments/2mik11/structural_engineers_at_what_point_does_the/  
-https://en.wikipedia.org/wiki/Degree_of_curvature  
+https://en.wikipedia.org/wiki/Degree_of_curvature
 
 Counter claims
 --------------
@@ -467,39 +468,44 @@ https://www.metabunk.org/data/MetaMirrorCache/6f9feb69ed84c9ba402c1dd44109a2f4.g
 
 "curve should be visible"  
 https://bit.ly/2FtxAr5  
-http://stupidconspiracies.org/misc/oh_no_its_round.jpg  
+http://stupidconspiracies.org/misc/oh_no_its_round.jpg
 
 Balloon over South Florida:  
 https://www.youtube.com/watch?v=tI6alFMD79I  
-https://himawari8.nict.go.jp/  
+https://himawari8.nict.go.jp/
 
 Mount San-Jacinto from Malibu  
 https://www.youtube.com/watch?v=doAFr5Cqtb8  
 https://depositphotos.com/5041644/stock-photo-mount-san-jacinto.html  
-https://www.youtube.com/watch?v=T1xys-BRxZg
+https://www.youtube.com/watch?v=T1xys-BRxZg  
 
 "We didn't go there" Greater Sapiens  
-https://www.youtube.com/watch?v=lFkWoEakG4U  
+https://www.youtube.com/watch?v=lFkWoEakG4U
 
 Buzz Aldrin original video  
-https://www.youtube.com/watch?v=Y4UP6nRMuGs  
+https://www.youtube.com/watch?v=Y4UP6nRMuGs
+
+Clouds behind the sun  
+https://www.youtube.com/watch?v=PhfBwusnyG0  
+https://www.youtube.com/watch?v=sW-6rRysi28  
+https://www.youtube.com/watch?v=s_5b3okEhNM
 
 Dome
----- 
+----
 AE Map with Glass Dome 100% DEBUNKED by a flat earther  
-https://www.youtube.com/watch?v=dF5G6UQWTF8  
+https://www.youtube.com/watch?v=dF5G6UQWTF8
 
 Rainbow indoor  
-https://www.youtube.com/watch?v=9QNw_8HLqhc  
+https://www.youtube.com/watch?v=9QNw_8HLqhc
 
 Pressure decreases with altitude.  
 At 35 km, the pressure is already very low, but the dome is at 117km  
-https://physnoct.wordpress.com/2018/09/03/flat-earth-atmospheric-pressure/  
+https://physnoct.wordpress.com/2018/09/03/flat-earth-atmospheric-pressure/
 
 Space is water  
-The waters above that the bible was refering to, are merely the water within clouds. It's a reasonable interpretation, it explains the verses very well and goes along with modern science.  
+The waters above that the bible was refering to, are merely the water within clouds. It's a reasonable interpretation, it explains the verses very well and goes along with modern science.
 
-If there was water above, why didn't god put fishes in it? Also, turbulances in water above would behave the same as below. We would see the light affected by this, but it's not what we observe.  
+If there was water above, why didn't god put fishes in it? Also, turbulances in water above would behave the same as below. We would see the light affected by this, but it's not what we observe.
 
 If the sun was above the water in space, all the red light would have been absorbed, as shown in these video:  
 https://www.youtube.com/watch?v=MM_RwdUi30Q  
@@ -510,76 +516,76 @@ GPS/Cell phones
 ---------------
 Cell phone triangulation  
 https://en.wikipedia.org/wiki/Mobile_phone_tracking  
-https://en.wikipedia.org/wiki/GPS_navigation_device#Mobile_phones_with_GPS_capability  
+https://en.wikipedia.org/wiki/GPS_navigation_device#Mobile_phones_with_GPS_capability
 
 Planes
 ------
 IRS Align Mode - Carefully Measuring Earth's Rotation  
-https://www.youtube.com/watch?v=tUwHc_wUykk  
+https://www.youtube.com/watch?v=tUwHc_wUykk
 
 Sydney - Santiago  
 https://www.youtube.com/watch?v=m-1xYjC5Q20  
-https://www.youtube.com/watch?v=Xy-I9GDWl34  
+https://www.youtube.com/watch?v=Xy-I9GDWl34
 
 Curvature from a plane  
-https://www.youtube.com/watch?v=ZOsxgGeABGM  
+https://www.youtube.com/watch?v=ZOsxgGeABGM
 
 Aircraft artificial horizon self corrects during flight  
 https://www.youtube.com/watch?v=kTXTCqMHyhg  
-https://www.youtube.com/watch?v=1bUM2KVKgb8﻿  
+https://www.youtube.com/watch?v=1bUM2KVKgb8﻿
 
 Dick Smith Circumnavigated the Earth via the North and South Pole  
-https://www.youtube.com/watch?v=fFS0hVaJ6RQ  
+https://www.youtube.com/watch?v=fFS0hVaJ6RQ
 
 Travel time comparison N-S and W-E  
-https://www.youtube.com/watch?v=6mlnmJbIqUM  
+https://www.youtube.com/watch?v=6mlnmJbIqUM
 
 Emergency flights (français)  
-https://www.youtube.com/watch?v=6zeZESFZf08  
+https://www.youtube.com/watch?v=6zeZESFZf08
 
 Balloons-Go pro	(french)  
-https://www.youtube.com/watch?v=ZgXX27K9WSY  
+https://www.youtube.com/watch?v=ZgXX27K9WSY
 
 Amiral Byrd  
-https://steemit.com/flatearth/@kerriknox/debunking-the-flat-earth-admiral-byrd-conspiracy-part-3-of-4-the-flat-earth-antarctica-conspiracy  
+https://steemit.com/flatearth/@kerriknox/debunking-the-flat-earth-admiral-byrd-conspiracy-part-3-of-4-the-flat-earth-antarctica-conspiracy
 
 Antarctica
 ----------
 South pole flights  
-https://www.youtube.com/watch?v=BGbNb9R_ioE  
+https://www.youtube.com/watch?v=BGbNb9R_ioE
 
 Colin O'Brady  
 https://www.cnn.com/2018/12/27/world/colin-obrady-antarctica-solo-trip-trnd/index.html  
-https://www.colinobrady.com/theimpossiblefirst  
+https://www.colinobrady.com/theimpossiblefirst
 
 Team crossings, not motorised  
 https://drive.google.com/file/d/1IboFlg38aOIBo-mFDAciJWo9tVxPI83h/view?usp=drivesdk  
 Solo crossings, not motorised  
 https://drive.google.com/file/d/1L7tCmFOA5srGKVCcq8Eyv3pzTxHbN84l/view?usp=drivesdk  
 Antarctica stations/camps  
-https://drive.google.com/file/d/1BfNuwHpILxJX6yvEUuEH3HLNPFATxxOc/view?usp=drivesdk  
+https://drive.google.com/file/d/1BfNuwHpILxJX6yvEUuEH3HLNPFATxxOc/view?usp=drivesdk
 
 Satellites
 ----------
 Images from earth  
-http://www.astrophoto.fr/satellites.html﻿  
+http://www.astrophoto.fr/satellites.html﻿
 
 ISS altitude  
-https://www.youtube.com/watch?v=2zejiHaRhI4  
+https://www.youtube.com/watch?v=2zejiHaRhI4
 
 Flashing the ISS  
-https://www.universetoday.com/93987/amateur-astronomers-flash-the-space-station/  
+https://www.universetoday.com/93987/amateur-astronomers-flash-the-space-station/
 
 ISS from ground telescope  
-https://www.youtube.com/watch?v=vscu0K1DQxc  
+https://www.youtube.com/watch?v=vscu0K1DQxc
 
 Home made radio telescope to see geostationary satellites  
 https://www.youtube.com/watch?v=g3LT_b6K0Mc  
-https://www.youtube.com/watch?v=tjvOyUsoh1c  
+https://www.youtube.com/watch?v=tjvOyUsoh1c
 
 Receiving images from NOAA satellites  
 https://www.youtube.com/watch?v=cjClTnZ4Xh4  
-https://www.youtube.com/watch?v=jGWFg7EDnyY  
+https://www.youtube.com/watch?v=jGWFg7EDnyY
 
 Various  
 https://uk.tek.com/document/poster/worldwide-spectrum-allocations-poster  
@@ -588,126 +594,128 @@ https://www.n2yo.com/satellites/?c=&t=country
 https://csewi.org/cost-of-space-exploration-vs-sci-fi-movie-budgets/  
 https://www.campbellsci.ca/satellite  
 https://www.sparkfun.com/categories/338  
-https://www.sparkfun.com/categories/4  
+https://www.sparkfun.com/categories/4
 
 NASA & Rockets
 --------------
-National Aeronautics and Space Act of 1958
+National Aeronautics and Space Act of 1958  
 https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg426-2.pdf
 
-NASA goes in greath length to produce very detailled technical manuals for the ISS,
-while leaking documents admitting FE, making videos with numerous blunders (bubbles, harnesses, etc).
-Is that really all fake and lies?  
+NASA goes in great length to produce very detailled technical manuals for the ISS,  
+while leaking documents admitting FE, making videos with numerous blunders (bubbles, harnesses, etc).  
+Is that really all fake and lies?
 
 ISS manuals and documents  
 This one points to many other documents available on the net  
-http://www.spaceref.com/iss/ops/ISS.User.Guide.R2.pdf  
+http://www.spaceref.com/iss/ops/ISS.User.Guide.R2.pdf
 
 https://www.nasa.gov/sites/default/files/atoms/files/np-2015-05-022-jsc-iss-guide-2015-update-111015-508c.pdf  
-https://www.nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf  
+https://www.nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf
 
 Explanation of different sizes in NASA pictures of the earth  
 https://www.metabunk.org/sk/globe_comparison_with_distance.jpg  
 https://www.metabunk.org/debunked-blue-marble-photos-show-a-changing-earth.t6616/  
-https://giphy.com/gifs/YiGsW0Wm9bCqA/html5  
+https://giphy.com/gifs/YiGsW0Wm9bCqA/html5
 
 Model rocket in vacuum  
-https://youtu.be/GxBRQXxBRic?list=PLHq86xM68msN-7skaxNlzXeJwWJp4Zdmh  
+https://youtu.be/GxBRQXxBRic?list=PLHq86xM68msN-7skaxNlzXeJwWJp4Zdmh
 
 NASA paper admitting non rotating flat earth  
-https://www.youtube.com/watch?v=BAlSOI5uHkc&feature=youtu.be&t=1m39s  
+https://www.youtube.com/watch?v=BAlSOI5uHkc&feature=youtu.be&t=1m39s
 
 The paper only assume this for a simulation. It doesn't state this as truth.  
-A flat earth is also a good approximation of a globe earth for a small area (say, a circle of 25km).  
+A flat earth is also a good approximation of a globe earth for a small area (say, a circle of 25km).
 
-NASA documents talking about a flat non-rotating earth (FNRE) are no more than simplifying assumptions. In many case, the effect studied doesn't need to take into account the curvature of the earth, for example, aerodynamics of wings. Also, normal flight conditions will exceed easily the weak stress induced by a rotating globe.  
+NASA documents talking about a flat non-rotating earth (FNRE) are no more than simplifying assumptions. In many case, the effect studied doesn't need to take into account the curvature of the earth, for example, aerodynamics of wings. Also, normal flight conditions will exceed easily the weak stress induced by a rotating globe.
 
-Another paper by NASA make a statement of fact about the shape of the earth:  
+Another paper by NASA make a statement of fact about the shape of the earth:
 https://ntrs.nasa.gov/search.jsp?R=19860010309  
-It clearly says: "A strategy is presented along with background material for determining downward atmospheric radiation at the Earth's surface on a regional scale but over the entire globe "﻿  
+It clearly says: "A strategy is presented along with background material for determining downward atmospheric radiation at the Earth's surface on a regional scale but over the entire globe "﻿
 
 Bubbles (french)  
 https://www.youtube.com/watch?v=5RBhCqmgl7g  
-https://www.youtube.com/watch?v=mppA5lUaoSs&feature=youtu.be  
+https://www.youtube.com/watch?v=mppA5lUaoSs&feature=youtu.be
 
 Composites, CGI and photographs  
-https://www.youtube.com/watch?v=1McpVKXKbsk  
+https://www.youtube.com/watch?v=1McpVKXKbsk
 
 Old astronomy book  
-https://physnoct.wordpress.com/2018/06/23/flat-earth-cgi-and-nasa-pictures/  
+https://physnoct.wordpress.com/2018/06/23/flat-earth-cgi-and-nasa-pictures/
 
 Is NASA hoax plausible  
 https://www.youtube.com/watch?v=UKv7gwmEfKg  
-https://www.youtube.com/watch?v=t5wm9l5trlA  
+https://www.youtube.com/watch?v=t5wm9l5trlA
 
 Views of earth from various satellites  
-https://www.youtube.com/watch?v=VfpaxVQSbTQ&feature=youtu.be  
+https://www.youtube.com/watch?v=VfpaxVQSbTQ&feature=youtu.be
 
 Space Launch System  
-https://www.youtube.com/watch?v=XYMuC2MDbwo  
+https://www.youtube.com/watch?v=XYMuC2MDbwo
 
 No steam when hot capsule landing  
 The capsule has a heat shield, which is essentially an isolator.  
-https://www.youtube.com/watch?v=Pp9Yax8UNoM  
+https://www.youtube.com/watch?v=Pp9Yax8UNoM
 
 Why Can't we Remake the Rocketdyne F1 Engine?  
-https://www.youtube.com/watch?v=ovD0aLdRUs0  
+https://www.youtube.com/watch?v=ovD0aLdRUs0
 
 How did the Apollo flight computers get men to the moon and back?  
-https://www.youtube.com/watch?v=ULGi3UkgW30  
+https://www.youtube.com/watch?v=ULGi3UkgW30
 
 Lost telemetry data  
-https://www.hq.nasa.gov/alsj/a11/Apollo_11_TV_Tapes_Report.pdf  
+https://www.hq.nasa.gov/alsj/a11/Apollo_11_TV_Tapes_Report.pdf
 
 How did NASA get those great film shots of Apollo and the Shuttle?  
-https://www.youtube.com/watch?v=BlPfHV36G-g  
+https://www.youtube.com/watch?v=BlPfHV36G-g
 
 Negatives of NASA pictures  
-https://www.quora.com/Looking-for-the-negatives-of-all-the-original-photos-taken-during-the-Apollo-missions-Are-they-available-to-the-public-in-digitized-form-If-yes-where-If-not-why  
+https://www.quora.com/Looking-for-the-negatives-of-all-the-original-photos-taken-during-the-Apollo-missions-Are-they-available-to-the-public-in-digitized-form-If-yes-where-If-not-why
 
 Blue Marble  
-https://www.worldsciencefestival.com/2015/07/blue-marble-shot-history/  
+https://www.worldsciencefestival.com/2015/07/blue-marble-shot-history/
 
 Van Allen Belts and Apollo missions  
-https://www.youtube.com/watch?v=bLtgS2_qxJk  
+https://www.youtube.com/watch?v=bLtgS2_qxJk
+
+State of the art CGI  
+https://www.youtube.com/watch?v=6bI164G26dg
 
 Moon
 ----
-https://www.youtube.com/watch?v=NxZMjpMhwNE  
+https://www.youtube.com/watch?v=NxZMjpMhwNE
 
 Water flatness
 --------------
-(from Graham Rathbone)  
-Water is never uniformly flat nor curved. In science "LEVEL" does not mean flat.
-Here are a few from thousands of documents with explanations and evidence used 
-by geodetic survey, communications, nautical and many other industry professionals.  
+(from Graham Rathbone)
+Water is never uniformly flat nor curved. In science "LEVEL" does not mean flat.  
+Here are a few from thousands of documents with explanations and evidence used by geodetic survey, communications, nautical and many other industry professionals.  
 http://www.esri.com/news/arcuser/0703/geoid1of3.html  
 http://www.ga.gov.au/scientific-topics/positioning-navigation/geodesy/geodetic-datums/geoid/n-the-geoid-ellipsoid-separation  
 https://www.youtube.com/watch?v=q65O3qA0-n4&feature=youtu.be&t=1m2s  
 https://www.ngs.noaa.gov/GEOID/IMAGES/d04.jpg  
-http://www.esa.int/spaceinimages/Images/2005/09/Global_mean_sea_surface_height_from_altimetry  
+http://www.esa.int/spaceinimages/Images/2005/09/Global_mean_sea_surface_height_from_altimetry
 
 Gravity and density
 -------------------
 Water in space  
 https://www.youtube.com/watch?v=s63JXdsL5LU  
-https://www.youtube.com/watch?v=rzytpxtbCzQ&t=0s  
+https://www.youtube.com/watch?v=rzytpxtbCzQ&t=0s
 
 Water sticking to a ball  
-https://www.youtube.com/watch?v=ZOIW6IgTN6U  
+https://www.youtube.com/watch?v=ZOIW6IgTN6U
 
 Spinning rock fountain  
 https://www.youtube.com/watch?v=fHyv-syC4FY  
-https://www.youtube.com/watch?v=kHRLmzjjM-w  
+https://www.youtube.com/watch?v=kHRLmzjjM-w
 
 Density in 0 g  
-https://www.youtube.com/watch?v=rpP-7dhm9DI  
+https://www.youtube.com/watch?v=rpP-7dhm9DI
 
 Helium balloon in vacuum  
-https://www.youtube.com/watch?v=4BYVIS7ARek  
+https://www.youtube.com/watch?v=4BYVIS7ARek
 
 GD&B  
-https://www.youtube.com/watch?v=KSxryGwsUQ4  
+https://www.youtube.com/watch?v=KSxryGwsUQ4
 
 Regurjiposts  
 "The Universal Theory of Gravity is often taught in schools as a fact, when in fact it is not even a good theory."  
@@ -717,105 +725,105 @@ https://ncse.com/library-resource/gravity-its-only-theory
 Perspective
 -----------
 Flat Earth: Sun Rays Triple Feature  
-https://www.youtube.com/watch?v=TOwzHQkloGk  
+https://www.youtube.com/watch?v=TOwzHQkloGk
 
 perspective and atmospheric lensing  
-https://www.youtube.com/watch?v=xWVj3qDcCA4  
+https://www.youtube.com/watch?v=xWVj3qDcCA4
 
 atmospheric refraction  
-http://www.jgiesen.de/refract/index.html  
-https://www.youtube.com/watch?v=XaZZwC77ghs  
+http://www.jgiesen.de/refract/index.html
+https://www.youtube.com/watch?v=XaZZwC77ghs
 
 Perspective VS Orthographic on a FLAT PLANE!  
-https://www.youtube.com/watch?v=mxWtZV4hoT8  
+https://www.youtube.com/watch?v=mxWtZV4hoT8
 
 Replies to Phuket Word's perspective & all  
-https://www.youtube.com/watch?v=4saeG2lFWhc  
+https://www.youtube.com/watch?v=4saeG2lFWhc
 
 Maps  
-https://www.youtube.com/watch?v=hJUbCq3qck8  
+https://www.youtube.com/watch?v=hJUbCq3qck8
 
 Optic effects
 -------------
 Inferior mirage  
-https://www.youtube.com/watch?v=qGyGHO772eE  
+https://www.youtube.com/watch?v=qGyGHO772eE
 
 Accounting curvature
 --------------------
-Surveying  
+Surveying
 
 https://www.metabunk.org/curvature-and-refraction-in-surveying-and-leveling-through-history-old-books-etc.t8856/  
 https://www.aboutcivil.org/curvature-and-refraction.html  
-http://www.engineeringenotes.com/surveying/levelling/curvature-and-refraction-in-levelling-surveying/13943  
+http://www.engineeringenotes.com/surveying/levelling/curvature-and-refraction-in-levelling-surveying/13943
 
-https://books.google.ca/books?id=5d1B0Vy52dQC&pg=PA3&lpg=PA3&dq=surveyors+earth+curvature&source=bl&ots=UMBI3lDln9&sig=ogq__CQ_MVP5cz35-oNMbLLOf3o&hl=en&sa=X&ved=0ahUKEwib8dC4gPLZAhULnlkKHR25B8M4ChDoAQhCMAQ#v=onepage&q=surveyors%20earth%20curvature&f=false  
+https://books.google.ca/books?id=5d1B0Vy52dQC&pg=PA3&lpg=PA3&dq=surveyors+earth+curvature&source=bl&ots=UMBI3lDln9&sig=ogq__CQ_MVP5cz35-oNMbLLOf3o&hl=en&sa=X&ved=0ahUKEwib8dC4gPLZAhULnlkKHR25B8M4ChDoAQhCMAQ#v=onepage&q=surveyors%20earth%20curvature&f=false
 
-https://en.wikipedia.org/wiki/Levelling  
+https://en.wikipedia.org/wiki/Levelling
 
-Navigation  
+Navigation
 
 https://en.wikipedia.org/wiki/Schuler_tuning  
-https://www.esa.int/Our_Activities/Navigation/Precision_satnav_in_the_far_north  
+https://www.esa.int/Our_Activities/Navigation/Precision_satnav_in_the_far_north
 
 Engineering  
-https://physics.stackexchange.com/questions/235441/how-does-ligo-account-for-curvature-of-earth  
+https://physics.stackexchange.com/questions/235441/how-does-ligo-account-for-curvature-of-earth
 
 Earth's rotation
 ----------------
-Many scientific experiments show the earth's rotation by different methods.  
+Many scientific experiments show the earth's rotation by different methods.
 
 Foucault Pendulum  
 This experiment has been repeated many times worldwide  
 https://en.wikipedia.org/wiki/Foucault_pendulum  
-https://www.youtube.com/watch?v=M8rrWUUlZ_U  
+https://www.youtube.com/watch?v=M8rrWUUlZ_U
 
 Levitating gyroscope  
 http://www.elsevierscitech.com/pdfs/Geim/Detection_of_earth_rotation_with_a_diamagnetically_levitating_gyroscope2001.pdf  
-p 737 "The air could be pumped out but generally it was not required for observation of the earth rotation as it became _visible to the naked eye_ after about 10min." (emphasis mine)  
+p 737 "The air could be pumped out but generally it was not required for observation of the earth rotation as it became _visible to the naked eye_ after about 10min." (emphasis mine)
 
 Commercial gyrometer with special setup (Copernitron)  
-http://www.pabr.org/copernitron/copernitron.en.html  
+http://www.pabr.org/copernitron/copernitron.en.html
 
 Ring laser  
-https://www.eurekalert.org/pub_releases/2011-12/tum-fed122211.php  
+https://www.eurekalert.org/pub_releases/2011-12/tum-fed122211.php
 
 Also, parallax and Doppler effect  
-http://curious.astro.cornell.edu/physics/41-our-solar-system/the-earth/orbit/88-is-there-a-proof-that-earth-moves-intermediate  
+http://curious.astro.cornell.edu/physics/41-our-solar-system/the-earth/orbit/88-is-there-a-proof-that-earth-moves-intermediate
 
 Ancient eclipses show Earth’s rotation is slowing  
-https://www.sciencemag.org/news/2016/12/ancient-eclipses-show-earth-s-rotation-slowing  
+https://www.sciencemag.org/news/2016/12/ancient-eclipses-show-earth-s-rotation-slowing
 
 Ginger experiment  
 This experiment aims to measure earth's rotation with a maximum resolution of 30 picorads/second  
 http://iopscience.iop.org/article/10.1088/1742-6596/723/1/012061/pdf  
-https://phys.org/news/2017-03-deep-earth-rotational-effects.html  
+https://phys.org/news/2017-03-deep-earth-rotational-effects.html
 
 How to Detect the Chandler and the Annual Wobble of the Earth  
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.107.173904  
-https://www.youtube.com/watch?v=J0gqeJipFfw  
+https://www.youtube.com/watch?v=J0gqeJipFfw
 
 Aircraft Laser Gyroscopes  
-https://www.youtube.com/watch?v=cYNZTkNDhzQ  
+https://www.youtube.com/watch?v=cYNZTkNDhzQ
 
 ROMY ring laser  
-https://www.youtube.com/watch?v=MXYV6wNdZm8  
+https://www.youtube.com/watch?v=MXYV6wNdZm8
 
 Gleason map
 -----------
-https://www.youtube.com/watch?v=1qYM8Oj6gMY  
+https://www.youtube.com/watch?v=1qYM8Oj6gMY
 
 Maps are projections of the globe  
-https://www.youtube.com/watch?v=hJUbCq3qck8 (french)  
+https://www.youtube.com/watch?v=hJUbCq3qck8 (french)
 
 Snipers
 -------
 "do snipers take the Coriolis effect into consideration before shooting?"  
 Not for short distances. The sniper manual doesn't seem to mention Coriolis corrections.  
-http://pdf.textfiles.com/manuals/MILITARY/united_states_army_fm_23-10%20-%2017_august_1994.pdf  
+http://pdf.textfiles.com/manuals/MILITARY/united_states_army_fm_23-10%20-%2017_august_1994.pdf
 
 However, in another document, they mention the rotation of the earth as a factor for firing corrections.  
-"Met corrections are all measurable non standard conditions for which you can account.
-These are the effects of weather, propellant temperature, projectile weight, MVV, VI, 
+"Met corrections are all measurable non standard conditions for which you can account.  
+These are the effects of weather, propellant temperature, projectile weight, MVV, VI,
 and rotation of the earth (...) ."  
 https://www.marines.mil/Portals/59/Publications/mcwp3_16_4.pdf  
 See chapter 11, table 11.1, step 3﻿
@@ -825,19 +833,19 @@ Senses
 
 "Problem is, our senses suck. How many times have you been stopped at a light and the car beside you starts to roll back slightly and you for a moment panic and think it's you moving? Or on a train at a stop and the other train starts to pull away slowly and you swear you feel like it's you moving, for a second. Our senses suck." tommy605  
 
-"Use your senses." Use your intelligence also. Our senses have limitations and can be tricked. Even in the bible, you weight objects for commercial purposes with a balance scale (2 weights, 2 measures). Instruments can measure more precisely than our senses, and it provides experimental data.  
+"Use your senses." Use your intelligence also. Our senses have limitations and can be tricked. Even in the bible, you weight objects for commercial purposes with a balance scale (2 weights, 2 measures). Instruments can measure more precisely than our senses, and it provides experimental data.
 
-Even in the bible, they relied on balance scale to weight object. This means the bible recognize that our senses are not always adequate for measuring, thus the use of instruments of measure for volume, lengths and weights.  
+Even in the bible, they relied on balance scale to weight object. This means the bible recognize that our senses are not always adequate for measuring, thus the use of instruments of measure for volume, lengths and weights.
 
-Our senses may not be precise enough depending on what you're observing. Let's take an example. Machinist must make a flat surface within thousandth of an inch.
-You simply can't tell it's flat within that resolution.  
+Our senses may not be precise enough depending on what you're observing. Let's take an example. Machinist must make a flat surface within thousandth of an inch.  
+You simply can't tell it's flat within that resolution.
 
-https://io9.gizmodo.com/5926643/10-fundamental-limits-to-human-perception----and-how-they-shape-your-world  
+https://io9.gizmodo.com/5926643/10-fundamental-limits-to-human-perception----and-how-they-shape-your-world
 
-Ideally, for better results, you can use several methods for observing the same phenomena. Since many centuries, scientists developed many instruments and improved their accuracy.  
+Ideally, for better results, you can use several methods for observing the same phenomena. Since many centuries, scientists developed many instruments and improved their accuracy.
 
 For those religious, another example comes from the bible: god given senses are not enough since the bible talks about two weights, two measures, thus the use of an instrument: a balance scale.  
-There is also the concept of measurements in the bible: weights, lengths, time, and maybe others, which need instruments to be accurate.  
+There is also the concept of measurements in the bible: weights, lengths, time, and maybe others, which need instruments to be accurate.
 Amos 7:8
 
 Maths
@@ -846,28 +854,28 @@ Maths
 Stars not moving
 ----------------
 alpha centauri distance km: 4.132e12 km  
-earth orbit diameter km: 149.6e6 km  
+earth orbit diameter km: 149.6e6 km
 
 Galactic speed of the sun  
-828,000 km/h (230 km/s) or 514,000 mph (143 mi/s) = 0.000000087435 light-years/h = 0.0007664 light-years/year  
+828,000 km/h (230 km/s) or 514,000 mph (143 mi/s) = 0.000000087435 light-years/h = 0.0007664 light-years/year
 
 Polaris never moves
 -------------------
 Earth and the solar system travel in space at 514000 mph through the galaxy.  
-Polaris is at about 433 light-years from earth.  
+Polaris is at about 433 light-years from earth.
 
 If we convert the 514000 mph speed in miles per years, we have  
    514000 mph * 24 h/day * 365.2422 days/year = 4505627779 miles/year.  
-It's exactly the same speed, but in other units.  
+It's exactly the same speed, but in other units.
 
 This means that in a year, the solar system would travel a distance of 4505627779 miles.  
-Let's approximate that to 4.5 giga miles (4.5 E 9 or 4500000000).  
+Let's approximate that to 4.5 giga miles (4.5 E 9 or 4500000000).
 
 Converting miles in light-years, we have 7.655E-4 light-years.  
 So, in a year, Polaris would have moved by an angle of about  
-   7.655E-4/433 ~ 1.77E-6 radian or 1E-4 degree, 
+   7.655E-4/433 ~ 1.77E-6 radian or 1E-4 degree,  
 which would be unnoticeable.  
-Note: at very small angles, the sine of an angle and the angle itself are equal.  
+Note: at very small angles, the sine of an angle and the angle itself are equal.
 
 ﻿Flat earth model
 ----------------
@@ -881,7 +889,7 @@ At the south pole, we have (90° - (-90°))/180° = 180°/180° = 1.
 The distance from the north pole to a point of given latitude is:  
 distance = 𝜋 * radius * (90°- lat)/180°.  
 The circumference of that distance would be 2𝜋 * distance = 2𝜋² * radius * (90°- lat)/180°  
-Longitude goes from +180° eastward to -180° westward  
+Longitude goes from +180° eastward to -180° westward
 
 Here are the formulas for Microsoft Excel (also work in Open Office)  
 Substitute the cell location for radius and latitude  
@@ -906,76 +914,76 @@ r = R𝜗
 𝜙 = 𝜙  
 z = 𝜚 - R = h  
 
-∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = (0,0,R)
+∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = (0,0,R)  
 					(0,1,0)  
 					(1,0,0)  
 
 det ∂(r,𝜙,z)/∂(𝜚,𝜙,𝜗) = -R  
 
 distance on a FE model (no distorsion -> FE)  
-http://walter.bislins.ch/bloge/index.asp?page=Distances+on+Globe+and+Flat+Earth  
+http://walter.bislins.ch/bloge/index.asp?page=Distances+on+Globe+and+Flat+Earth
 
 distance on a spherical globe between 𝜙₁,𝜆₁ and 𝜙₂,𝜆₂  
-https://en.wikipedia.org/wiki/Great-circle_distance  
+https://en.wikipedia.org/wiki/Great-circle_distance
 
 𝛥𝜎 = arccos(sin 𝜙₁ sin 𝜙₂ + cos 𝜙₁ cos 𝜙₂ cos 𝛥𝜆)  
-d = R𝛥𝜎  
+d = R𝛥𝜎
 
 Antarctica cup ocean race
 -------------------------
 http://www.acronautic.com/antartica-cup-ocean-race/  
-The Racetrack outer and inner boundaries are located on latitude 45° South and latitude 60° South making the Racetrack 900 nautical miles wide.  
+The Racetrack outer and inner boundaries are located on latitude 45° South and latitude 60° South making the Racetrack 900 nautical miles wide.
 
 On a flat earth, the circumference at 45° and 60° South is 94000 km and 105000 km respectively.  
-On a globe earth, it would be 28000 km and 20000 km respectively  
+On a globe earth, it would be 28000 km and 20000 km respectively
 
 "Konyukhov came through it all unscathed, returning to King George Sound at 02: 56:50 UTC (10:56:50 WST) to record a time of 102 days 00 hours 56 minutes 50secs for this 16,400 mile circuit of Antarctica." 26400 km in metric, thus proving a globe earth.
 
 In the globe earth model,  
 S45 latitude would give a circle of 2𝜋 * 6371km * cos 45°= 28300km = 17600 miles  
-S60 latitude would give a circle of 2𝜋 * 6371km * cos 60°= 20000km = 12400 miles  
+S60 latitude would give a circle of 2𝜋 * 6371km * cos 60°= 20000km = 12400 miles
 
 In the flat earth model,  
 S45 latitude would give a circle of 2𝜋² * 6371km * (180°-45°)/180° = 94308km = 58600 miles  
-S60 latitude would give a circle of 2𝜋² * 6371km * (180°-30°)/180° = 105000km = 65000 miles  
+S60 latitude would give a circle of 2𝜋² * 6371km * (180°-30°)/180° = 105000km = 65000 miles
 
 Antarctica cup ocean race
 -------------------------
 http://www.acronautic.com/antartica-cup-ocean-race/  
-Les limites extérieures et intérieures du circuit sont situées à 45° de latitude sud et à 60° de latitude sud, ce qui fait 900 milles de large. 
+Les limites extérieures et intérieures du circuit sont situées à 45° de latitude sud et à 60° de latitude sud, ce qui fait 900 milles de large.
 
 Sur une terre plate, la circonférence à 45° et 60° Sud est de 94000 km et 105000 km respectivement.  
-Sur un globe terrestre, ce serait 28 000 km et 20000 km respectivement  
+Sur un globe terrestre, ce serait 28 000 km et 20000 km respectivement.
 
 "Konyukhov a traversé tout indemne, retournant à King George Sound à 02: 56: 50 UTC (10:56:50 WST) pour enregistrer un temps de 102 jours 00 heures 56 minutes 50 secondes pour ce circuit de 16 400 miles de l'Antarctique." 26400 km en métrique, prouvant ainsi un globe terrestre.﻿
 
 Geodesy
 -------
 https://www.youtube.com/watch?v=G9Xx9F4JvnQ  
-https://www.youtube.com/watch?v=PoiGsLzxM8M (français)  
+https://www.youtube.com/watch?v=PoiGsLzxM8M (français)
 
 Oblate spheroid
 ---------------
 Here is the equation and a web calculator:  
-https://planetcalc.com/149/  
+https://planetcalc.com/149/
 
 Some other useful sites:  
 https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84  
 https://en.wikipedia.org/wiki/Spheroid  
 http://mathworld.wolfram.com/OblateSpheroid.html  
-https://en.wikipedia.org/wiki/Figure_of_the_Earth  
+https://en.wikipedia.org/wiki/Figure_of_the_Earth
 
 Curvature
 ---------
-The curvature can be demonstrated to our senses simply by measuring the angle from eye level to the horizon.
+The curvature can be demonstrated to our senses simply by measuring the angle from eye level to the horizon.  
 For a person standing at sea level, the horizon is about 0.04 degrees below eye level. By looking from a higher point of view, this angle will increase.  
-The value of this angle is arccos(R/(R+h)) where R is earth's radius and h is the height of the observer's eye.  
+The value of this angle is arccos(R/(R+h)) where R is earth's radius and h is the height of the observer's eye.
 
 Plane dip
 ---------
 To follow the curvature, the plane simply fly at constant altitude. To fly in a straight line into space, the plane has to climb up. If a plane travels around the earth at 500 mph, it will take 50h to make a full turn (500mph * 50h = 25000 miles) so it will dip its nose by 360° in 50h = 7.2°/h = 0.12°/m = 0.002°/s.  
 While the plane flies, the earth itself curves with a bit slower rate.  
-The plane's real speed would be: GS/R = PS/(R+h) -> PS = GS*(R+h)/R.  
+The plane's real speed would be: GS/R = PS/(R+h) -> PS = GS*(R+h)/R.
 
 LOS microwave communications
 -----------------------------
@@ -987,26 +995,26 @@ h = √(R²+d²/4)-R
 Excel formula: =ROOT((A2*A2+A1*A1)/4) - A2  
 
 For 235 km, the 2 towers should have a height of 1km above sea level. Quite achievable if high locations are available.
-It's not surprizing then, to see antennas to top of buildings.  
+It's not surprizing then, to see antennas to top of buildings.
 
 g measurement
 -------------
 g is the value of the acceleration in free fall at ground level, and its value is measurable. To measure it, drop an object from a known height and measure the falling time. It should be independent of the mass. The corresponding value of g is calculated from height and time.  
 The relation is h = 0.5 g t²  
 Solving for g  
-g = 2h/t²
+g = 2h/t²  
 
 "Why do we see the same stars every night?"
 -------------------------------------------
-The sun speed through the galaxy sounds very fast from our perspective, at 515,000 mph. If you convert this speed in astronomical numbers, you'll get a better picture.  
+The sun speed through the galaxy sounds very fast from our perspective, at 515,000 mph. If you convert this speed in astronomical numbers, you'll get a better picture.
 
 Let's convert the hours into years.  
-515000 mph * 24 h/day * 365.25 days/year = 4514490000 miles/year  
+515000 mph * 24 h/day * 365.25 days/year = 4514490000 miles/year
 
 After, we convert miles/years to light years/year  
-4.51 e 9 mpy / 5.8786 e 12 miles per ly = 0.000768 light years/years  
+4.51 e 9 mpy / 5.8786 e 12 miles per ly = 0.000768 light years/years
 
-To get an idea of the scale, the nearest star is at 4.367 light years.﻿  
+To get an idea of the scale, the nearest star is at 4.367 light years.﻿
 
 light on the FE model
 ---------------------
@@ -1021,28 +1029,28 @@ pi * earth's radius * (90 - latitude)/180
 (To simplify the calculations, I don't take into account the height of the sun)  
 At noon, the distance of the sun with NY is 10000 - 5480 = 4520  
 
-At midnight, it's 10000 + 5480 = 15480  
+At midnight, it's 10000 + 5480 = 15480
 
-The ratio of distance is 15480/4520 = 3.42  
+The ratio of distance is 15480/4520 = 3.42
 
-The intensity drop should be the inverse square of this: 1/(3.42*3.42) = 0.08%  
+The intensity drop should be the inverse square of this: 1/(3.42*3.42) = 0.08%
 
-It's roughly equivalent to a difference between a sunny day and a cloudy day. In other words, it doesn't explain the day and night.  
+It's roughly equivalent to a difference between a sunny day and a cloudy day. In other words, it doesn't explain the day and night.
 
 Other compilations
 ==================
-http://www.terre-plate.org	(french)  
+http://www.terre-plate.org	(french)
 
 Bible
 =====
-https://www.youtube.com/watch?v=rE3j_RHkqJc  
+https://www.youtube.com/watch?v=rE3j_RHkqJc
 
 Question everything  
-https://www.youtube.com/watch?v=Jb7lVVtgIB8  
+https://www.youtube.com/watch?v=Jb7lVVtgIB8
 
-It's indoctrination if it can't be questioned, it's education if it can be demonstrated.  
+It's indoctrination if it can't be questioned, it's education if it can be demonstrated.
 
 Last convenient link  
-https://www.youtube.com/watch?v=K37G2j0K8BA  
+https://www.youtube.com/watch?v=K37G2j0K8BA
 
-Thanks to all the authors of all these videos debunking FE!  
+Thanks to all the authors of all these videos debunking FE!
