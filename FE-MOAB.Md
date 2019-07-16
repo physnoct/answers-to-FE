@@ -92,8 +92,7 @@ https://www.youtube.com/watch?v=1AHFl0aMyj4
 Ex-FEers  
 https://www.youtube.com/watch?v=dVER8BKBOpI  
 https://www.youtube.com/watch?v=Af9KATJ6sjI  
-https://www.youtube.com/watch?v=K63Os0LS9Cg  
-https://www.youtube.com/watch?v=dVER8BKBOpI
+https://www.youtube.com/watch?v=K63Os0LS9Cg
 
 I Quit Flat Earth  
 https://www.youtube.com/watch?v=AjU6hSEHOYE  
@@ -267,6 +266,9 @@ Stars always the same
 position of stars vary slightly over time. It has been recorded through history and confirmed by modern astronomy.  
 An example is the Barnard's star which can be seen moving through several years  
 https://en.wikipedia.org/wiki/Barnard%27s_Star
+
+Exagerated parallax  
+https://www.youtube.com/watch?v=SG7RfZoc2M8&feature=youtu.be
 
 Selenelion  
 https://www.youtube.com/watch?v=tbdynyqP4c4
@@ -681,6 +683,9 @@ https://www.youtube.com/watch?v=bLtgS2_qxJk
 State of the art CGI  
 https://www.youtube.com/watch?v=6bI164G26dg
 
+AGC computer restoration  
+https://www.youtube.com/watch?v=AhVKYDVZxWQ
+
 Moon
 ----
 https://www.youtube.com/watch?v=NxZMjpMhwNE
@@ -1041,6 +1046,8 @@ It's roughly equivalent to a difference between a sunny day and a cloudy day. In
 Other compilations
 ==================
 http://www.terre-plate.org	(french)
+http://flatearthdeception.com/
+https://flatearthlunacy.com
 
 Bible
 =====
