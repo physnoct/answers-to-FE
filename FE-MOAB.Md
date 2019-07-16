@@ -190,6 +190,15 @@ The vacuum barrier argument may be a misconception. A perfect vacuum is by defin
 
 Pressure is defined as force/area (N/m²). Vacuum is defined as null pressure (P = 0 N/m²) so no force against an area, so vacuum doesn't suck.
 
+Is the suction of a 1e-17 torr vacuum 100 000 000 000 times stronger than a 1e-6 torr vacuum?  
+No. The "suction" depends on the pressure difference, not the pressure ratio.
+
+If you take a vessel at 1 atmosphere (14.7 psi or 760 torr) in the vacuum, you'll get a pressure differencial of:  
+At 1e-6 torr (high vacuum), we have 760 - 0.000001 torr           = 759.999999 torr  
+At 1e-17 torr (ultra-high), we have 760 - 0.0000 0000 0000 0000 1 = 759.9999 9999 9999 9999 torr  
+At perfect vacuum,          we have 760 - 0                       = 760 torr.  
+So, no matter how high the vacuum is, the difference stays about the same.  
+
 Selective gravity
 -----------------
 (À la Kent Hovind) Birds don't weigh an ocean, an ocean doesn't weigh a butterfly.
