@@ -868,42 +868,54 @@ Maths
 
 Stars not moving
 ----------------
-alpha centauri distance km: 4.132e12 km  
-earth orbit diameter km: 149.6e6 km
+Earth and the solar system travel in space at 514000 mph through the galaxy.
+This speed is enormous at our human scale: common sense would say that at such speed, we should see the stars moving. Why not?
+Common sense also says that if an object is far enough, it won't move much.
+A common example is a car going on a highway at 100 km/h. We can see that objects farther away move slower.
+
+Some astronomical measurements:
+Alpha centauri distance km: 4.132e12 km  
+Earth orbit diameter km: 149.6e6 km
 
 Galactic speed of the sun  
-828,000 km/h (230 km/s) or 514,000 mph (143 mi/s) = 0.000000087435 light-years/h = 0.0007664 light-years/year
+514,000 mph  
+
+Expressed in other units:  
+828,000 km/h  
+230 km/s  
+143 mi/s  
+0.000000087435 light-years/h  
+0.0007664 light-years/year
 
 Polaris never moves
 -------------------
-Earth and the solar system travel in space at 514000 mph through the galaxy.  
 Polaris is at about 433 light-years from earth.
 
-If we convert the 514000 mph speed in miles per years, we have  
-   514000 mph * 24 h/day * 365.2422 days/year = 4505627779 miles/year.  
-It's exactly the same speed, but in other units.
+Let's convert the 514000 mph speed in astronomical scale.
 
-This means that in a year, the solar system would travel a distance of 4505627779 miles.  
-Let's approximate that to 4.5 giga miles (4.5 E 9 or 4500000000).
+During a year, the solar system would travel a distance of 4505627779 miles.  
+   514000 mph * 24 h/day * 365.2422 days = 4505627779 miles.  
 
-Converting miles in light-years, we have 7.655E-4 light-years.  
+Let's approximate that to 4500000000 miles (4.5e9).
+
+Converting that distance into light-years, we have 0.0007655 ly  
 So, in a year, Polaris would have moved by an angle of about  
-   7.655E-4/433 ~ 1.77E-6 radian or 1E-4 degree,  
+   0.0007655/433 ~ 0.00000177 radian or 0.0001 degree,  
 which would be unnoticeable.  
-Note: at very small angles, the sine of an angle and the angle itself are equal.
+Note: at very small angles, the sine of an angle and the angle itself are approximately equal.
 
 ﻿Flat earth model
 ----------------
 How do we calculate the distance from the north pole to any latitude on a flat earth model?  
 1) we straigthen the curvature of the globe earth. The distance from the north pole to the south pole is half a circumference.  
-Thus, distance NS = 𝜋 * radius.  
+Thus, distance NS = π * radius.  
 2) The latitude is a fraction of this distance: (90°- lat)/180.  
 The latitude varies between the maximum at -90° (S90°), and the minimum at +90° (N90°).  
 At the north pole, we have (90° - (+90°))/180° = 0°/180° = 0.  
 At the south pole, we have (90° - (-90°))/180° = 180°/180° = 1.  
 The distance from the north pole to a point of given latitude is:  
-distance = 𝜋 * radius * (90°- lat)/180°.  
-The circumference of that distance would be 2𝜋 * distance = 2𝜋² * radius * (90°- lat)/180°  
+distance = π * radius * (90°- lat)/180°.  
+The circumference of that distance would be 2π * distance = 2π² * radius * (90°- lat)/180°  
 Longitude goes from +180° eastward to -180° westward
 
 Here are the formulas for Microsoft Excel (also work in Open Office)  
@@ -917,14 +929,14 @@ B2 = 2*POW(PI();2)*A1*(90-A2)/180
 C2 = 2*PI()*A1*COS(A2*PI()/180)  
 
 For the circumference on a globe model (assuming a perfect sphere)  
-2𝜋 cos latitude  
+2π cos latitude  
 
 Spherical coordinates on the globe (assuming a sphere)  
 𝜚 = R+h  
-𝜙 = (𝜋/180°)long = [-𝜋,+𝜋]  
-𝜗 = 𝜋(90°- lat)/180° = [0,+𝜋]  
+𝜙 = (π/180°)long = [-π,+π]  
+𝜗 = π(90°- lat)/180° = [0,+π]  
 
-Cylindrical coordinates on an AE map are: (r,𝜙,z) = (𝜋R(90°- lat)/180°,(𝜋/180°)long,h)  
+Cylindrical coordinates on an AE map are: (r,𝜙,z) = (πR(90°- lat)/180°,(π/180°)long,h)  
 r = R𝜗  
 𝜙 = 𝜙  
 z = 𝜚 - R = h  
@@ -955,12 +967,12 @@ On a globe earth, it would be 28000 km and 20000 km respectively
 "Konyukhov came through it all unscathed, returning to King George Sound at 02: 56:50 UTC (10:56:50 WST) to record a time of 102 days 00 hours 56 minutes 50secs for this 16,400 mile circuit of Antarctica." 26400 km in metric, thus proving a globe earth.
 
 In the globe earth model,  
-S45 latitude would give a circle of 2𝜋 * 6371km * cos 45°= 28300km = 17600 miles  
-S60 latitude would give a circle of 2𝜋 * 6371km * cos 60°= 20000km = 12400 miles
+S45 latitude would give a circle of 2π * 6371km * cos 45°= 28300km = 17600 miles  
+S60 latitude would give a circle of 2π * 6371km * cos 60°= 20000km = 12400 miles
 
 In the flat earth model,  
-S45 latitude would give a circle of 2𝜋² * 6371km * (180°-45°)/180° = 94308km = 58600 miles  
-S60 latitude would give a circle of 2𝜋² * 6371km * (180°-30°)/180° = 105000km = 65000 miles
+S45 latitude would give a circle of 2π² * 6371km * (180°-45°)/180° = 94308km = 58600 miles  
+S60 latitude would give a circle of 2π² * 6371km * (180°-30°)/180° = 105000km = 65000 miles
 
 Antarctica cup ocean race
 -------------------------
