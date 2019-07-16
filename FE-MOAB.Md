@@ -1038,18 +1038,6 @@ The relation is h = 0.5 g t²
 Solving for g  
 g = 2h/t²  
 
-"Why do we see the same stars every night?"
--------------------------------------------
-The sun speed through the galaxy sounds very fast from our perspective, at 515,000 mph. If you convert this speed in astronomical numbers, you'll get a better picture.
-
-Let's convert the hours into years.  
-515000 mph * 24 h/day * 365.25 days/year = 4514490000 miles/year
-
-After, we convert miles/years to light years/year  
-4.51 e 9 mpy / 5.8786 e 12 miles per ly = 0.000768 light years/years
-
-To get an idea of the scale, the nearest star is at 4.367 light years.﻿
-
 light on the FE model
 ---------------------
 We calculate the change of light intensity between night and day with this formula: il the distance to the sun is doubled, its intensity will be the quarter (25%). If at the equinox, the sun is orbiting at the vertical of the equator, its orbit's diameter would be 20000 km. Thus, the radius is 10000 km.  
