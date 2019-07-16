@@ -889,6 +889,11 @@ Expressed in other units:
 
 Polaris never moves
 -------------------
+Polaris does move a little during the night since it's not exactly in line with the earth's axis.
+There is also a movement of precession which makes the earth wobble with a period of about 25000 years.
+
+But with the galactic speed of the sun, should we see Polaris moving too?
+
 Polaris is at about 433 light-years from earth.
 
 Let's convert the 514000 mph speed in astronomical scale.
@@ -902,6 +907,7 @@ Converting that distance into light-years, we have 0.0007655 ly
 So, in a year, Polaris would have moved by an angle of about  
    0.0007655/433 ~ 0.00000177 radian or 0.0001 degree,  
 which would be unnoticeable.  
+
 Note: at very small angles, the sine of an angle and the angle itself are approximately equal.
 
 ﻿Flat earth model
