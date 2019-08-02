@@ -182,7 +182,7 @@ Pressure and vacuum side by side
 (À la Kent Hovind) Vacuum doesn't suck because there's no vacuum cleaner in space. Since there is nothing in space, why would it suck?
 
 The atmospheric pressure gets lower with altitude. It becomes almost nil at about 40km. There is no need then for a physical barrier, since both side of it has 0 pressure.  
-That also explain why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.
+That also explains why satellites in low earth orbit don't use balloons: balloons can't climb over 40km.
 
 There can be regions of high pressure next to low pressure, as we can see in meteorology. These cause precipitations (rain) and wind.
 
@@ -912,6 +912,9 @@ Note: at very small angles, the sine of an angle and the angle itself are approx
 
 ﻿Flat earth model
 ----------------
+On the Flat Earth, How High is the Sun?
+http://www.nmsr.org/flatter4.htm
+
 How do we calculate the distance from the north pole to any latitude on a flat earth model?  
 1) we straigthen the curvature of the globe earth. The distance from the north pole to the south pole is half a circumference.  
 Thus, distance NS = π * radius.  
@@ -1036,10 +1039,11 @@ g measurement
 g is the value of the acceleration in free fall at ground level, and its value is measurable. To measure it, drop an object from a known height and measure the falling time. It should be independent of the mass. The corresponding value of g is calculated from height and time.  
 The relation is h = 0.5 g t²  
 Solving for g  
-g = 2h/t²  
+g = 2h/t  
 
 light on the FE model
 ---------------------
+Assuming a sun orbiting at 3000 miles or 4828 km above a flat earth.
 We calculate the change of light intensity between night and day with this formula: il the distance to the sun is doubled, its intensity will be the quarter (25%). If at the equinox, the sun is orbiting at the vertical of the equator, its orbit's diameter would be 20000 km. Thus, the radius is 10000 km.  
 Let's take New-York as an observing point: it's at 40:42' 46" latitude.  
 40:42' 46" = 40 + 42/60 + 46/3600 = 40.7128  
@@ -1048,21 +1052,23 @@ The distance of New York to the north pole is:
 pi * earth's radius * (90 - latitude)/180  
 3.1416 * 6371 km * (90 - 40.7128)/180 = 5480 km  
 
-(To simplify the calculations, I don't take into account the height of the sun)  
-At noon, the distance of the sun with NY is 10000 - 5480 = 4520  
-
+At noon, the horizontal distance of the sun with NY is 10000 - 5480 = 4520  
 At midnight, it's 10000 + 5480 = 15480
 
-The ratio of distance is 15480/4520 = 3.42
+Taking into account the height of the sun (4828km),  
+at noon, d1 = √(4520²+4828²) = 6613 km  
+at midnight, d2 = √(15480²+4828²) = 16215 km
 
-The intensity drop should be the inverse square of this: 1/(3.42*3.42) = 0.08%
+The ratio of distance is 16215/6613 = 2.45  
+
+The intensity drop should be the inverse square of this: 1/2.45² = 0.166 or 16.6%  
 
 It's roughly equivalent to a difference between a sunny day and a cloudy day. In other words, it doesn't explain the day and night.
 
 Other compilations
 ==================
-http://www.terre-plate.org	(french)
-http://flatearthdeception.com/
+http://www.terre-plate.org	(french)  
+http://flatearthdeception.com/  
 https://flatearthlunacy.com
 
 Bible
