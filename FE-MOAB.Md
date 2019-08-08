@@ -282,6 +282,14 @@ https://www.youtube.com/watch?v=SG7RfZoc2M8&feature=youtu.be
 Selenelion  
 https://www.youtube.com/watch?v=tbdynyqP4c4
 
+Analemma  
+https://www.youtube.com/watch?v=anUEb-gvOSY  
+https://www.youtube.com/watch?v=LLCgD3t5nWM  
+https://en.wikipedia.org/wiki/Equation_of_time
+
+Earth's motion around the sun  
+https://www.youtube.com/watch?v=82p-DYgGFjI
+
 Midnight sun  
 https://www.youtube.com/watch?v=eUsWUiVCq5U  
 https://en.wikipedia.org/wiki/Midnight_sun
@@ -1045,8 +1053,8 @@ light on the FE model
 ---------------------
 Assuming a sun orbiting at 3000 miles or 4828 km above a flat earth.
 We calculate the change of light intensity between night and day with this formula: il the distance to the sun is doubled, its intensity will be the quarter (25%). If at the equinox, the sun is orbiting at the vertical of the equator, its orbit's diameter would be 20000 km. Thus, the radius is 10000 km.  
-Let's take New-York as an observing point: it's at 40:42' 46" latitude.  
-40:42' 46" = 40 + 42/60 + 46/3600 = 40.7128  
+Let's take New-York as an observing point: it's at 40:42'46" latitude.  
+40:42'46" = 40 + 42/60 + 46/3600 = 40.7128  
 
 The distance of New York to the north pole is:  
 pi * earth's radius * (90 - latitude)/180  
