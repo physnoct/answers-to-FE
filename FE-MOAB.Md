@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=TMG5P1LRHYU
 Scimandan  
 https://www.youtube.com/watch?v=wqQeDiK6iuc  
 
+Flat earth debunked a long while ago  
+https://www.youtube.com/watch?v=313icHT2XF8
 
 Quickies
 ========
@@ -771,6 +773,9 @@ Optic effects
 Inferior mirage  
 https://www.youtube.com/watch?v=qGyGHO772eE
 
+Sun glare changes with clouds  
+https://www.youtube.com/watch?v=1nho5So9X9s
+
 Accounting curvature
 --------------------
 Surveying
@@ -1088,7 +1093,7 @@ https://www.youtube.com/watch?v=Jb7lVVtgIB8
 
 It's indoctrination if it can't be questioned, it's education if it can be demonstrated.
 
-Last convenient link  
+:) Last convenient link  
 https://www.youtube.com/watch?v=K37G2j0K8BA
 
 Thanks to all the authors of all these videos debunking FE!
