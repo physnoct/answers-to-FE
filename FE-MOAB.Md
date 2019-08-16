@@ -105,19 +105,19 @@ https://www.youtube.com/watch?v=qrDDK-lEMiM
 TigerDan925  
 https://www.quora.com/How-do-former-Flat-Earthers-feel-about-their-previous-belief-in-a-flat-Earth
 
-# Cyprustar (in french, translated text below)  
-# https://www.youtube.com/watch?v=R9aXAn5Fmso (video not available anymore)
+Cyprustar (in french, translated text below)  
+https://www.youtube.com/watch?v=R9aXAn5Fmso (video not available anymore)
 
-# 0:03 Like I said many times, the flat earth model is impossible. Because of Sygma Octantis but also Antarctica. ... one may wonder in which cosmogony  FEers are. Me, I was (FEer), I studied and understood that it was IMPOSSIBLE.  
-# 0:12 Here are 2 maps of Antarctica with the bases and their distances. One, of the globe (concave or convex it's the same) and the other, of the flat earth.  
-# 0:58 Conclusion The flat earth is impossible!  
-# 1:00 Aurora Borealis are possible only because the earth must be opened at the poles! [Hollow Earth theory]  
-# 1:08 Yet another inexplicable thing on a flat earth.  
-# 1:16 I had the courage to erase all my videos on the flat earth when I understood all its impossibilities.  
-# 1:23 Those who are owners of FE channels; Shame on you for keeping monetising these stupidities.  
-# 1:30 You're speaking of truth seekers? Let me laugh! You're making money by taking people for imbeciles.  
-# 1:42 You talk about the system but you do the same thing: MONEY AND POWER!  
-# 1:49 THINK ABOUT IT! You rot the system even more by falling so low.
+0:03 Like I said many times, the flat earth model is impossible. Because of Sygma Octantis but also Antarctica. ... one may wonder in which cosmogony  FEers are. Me, I was (FEer), I studied and understood that it was IMPOSSIBLE.  
+0:12 Here are 2 maps of Antarctica with the bases and their distances. One, of the globe (concave or convex it's the same) and the other, of the flat earth.  
+0:58 Conclusion The flat earth is impossible!  
+1:00 Aurora Borealis are possible only because the earth must be opened at the poles! [Hollow Earth theory]  
+1:08 Yet another inexplicable thing on a flat earth.  
+1:16 I had the courage to erase all my videos on the flat earth when I understood all its impossibilities.  
+1:23 Those who are owners of FE channels; Shame on you for keeping monetising these stupidities.  
+1:30 You're speaking of truth seekers? Let me laugh! You're making money by taking people for imbeciles.  
+1:42 You talk about the system but you do the same thing: MONEY AND POWER!  
+1:49 THINK ABOUT IT! You rot the system even more by falling so low.
 
 Flat vs Globe vs Concave part 2: play at 16 min  
 https://www.youtube.com/watch?v=MTxI6o45TV8&list=PL5YWnU-lH6qcI90f-klklwIV0nUyfDG80&index=9
