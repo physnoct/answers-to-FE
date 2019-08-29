@@ -667,7 +667,8 @@ https://physnoct.wordpress.com/2018/06/23/flat-earth-cgi-and-nasa-pictures/
 
 Is NASA hoax plausible  
 https://www.youtube.com/watch?v=UKv7gwmEfKg  
-https://www.youtube.com/watch?v=t5wm9l5trlA
+https://www.youtube.com/watch?v=t5wm9l5trlA  
+https://www.youtube.com/watch?v=Tl0TBo2Hge8
 
 Views of earth from various satellites  
 https://www.youtube.com/watch?v=VfpaxVQSbTQ&feature=youtu.be
