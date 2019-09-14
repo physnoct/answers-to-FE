@@ -319,7 +319,7 @@ https://www.youtube.com/watch?v=_-XAJdvXV3U
 Hubble misquoted  
 https://answersingenesis.org/astronomy/cosmology/misquoting-hubble/
 
-Eclipse ressources
+Eclipse resources
 ------------------
 https://eclipsewise.com/  
 http://www.mreclipse.com/  
