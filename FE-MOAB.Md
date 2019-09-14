@@ -48,6 +48,12 @@ Flat earth flaws
 Flat earth debunked a long while ago  
 https://www.youtube.com/watch?v=313icHT2XF8
 
+The Earth is Definitely Not Flat  
+https://www.youtube.com/watch?v=tC5RalYWZ5Y
+
+Response to Globebusters - The Earth Still Isn't Flat  
+https://www.youtube.com/watch?v=JDy95_eNPzM
+
 Eric Dubay's 200 proofs debunked  
 https://youtu.be/Uzc1tY1StvY  
 https://youtu.be/CBxaB--fu_Q 43-48  
