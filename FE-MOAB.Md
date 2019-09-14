@@ -36,6 +36,10 @@ https://www.youtube.com/watch?v=TMG5P1LRHYU
 Scimandan  
 https://www.youtube.com/watch?v=wqQeDiK6iuc  
 
+How we know the earth is round?  
+-------------------------------  
+https://www.youtube.com/watch?v=vDUlQWyLuVw
+
 Quickies
 ========
 https://www.youtube.com/watch?v=hehmRGk1LGw  
