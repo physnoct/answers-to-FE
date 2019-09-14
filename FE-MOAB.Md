@@ -784,6 +784,9 @@ https://www.youtube.com/watch?v=qGyGHO772eE
 Sun glare changes with clouds  
 https://www.youtube.com/watch?v=1nho5So9X9s
 
+Flat Earther Angular Resolution Debunked  
+https://www.youtube.com/watch?v=ZOC2VxXCaoA
+
 Accounting curvature
 --------------------
 Surveying
