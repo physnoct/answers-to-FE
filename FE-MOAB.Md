@@ -370,6 +370,7 @@ https://www.youtube.com/watch?v=tTD_dnWJ2nI
 Moon
 ----
 Shadows of mountains and craters on the moon change with the phases of the moon, proving the moon is a sphere illuminated by the sun.
+https://www.youtube.com/watch?v=q473Zzs1ORw
 
 Moon from south and north hemisphere  
 https://www.youtube.com/watch?v=a1ZhEgEFX-c
