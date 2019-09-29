@@ -577,14 +577,17 @@ https://www.youtube.com/watch?v=6mlnmJbIqUM
 Emergency flights (français)  
 https://www.youtube.com/watch?v=6zeZESFZf08
 
+Airlines do know that the Earth is not flat!  
+https://www.youtube.com/watch?v=MiUklHodcho
+
 Balloons-Go pro	(french)  
 https://www.youtube.com/watch?v=ZgXX27K9WSY
 
+Antarctica
+----------
 Amiral Byrd  
 https://steemit.com/flatearth/@kerriknox/debunking-the-flat-earth-admiral-byrd-conspiracy-part-3-of-4-the-flat-earth-antarctica-conspiracy
 
-Antarctica
-----------
 South pole flights  
 https://www.youtube.com/watch?v=BGbNb9R_ioE
 
@@ -596,6 +599,7 @@ Team crossings, not motorised
 https://drive.google.com/file/d/1IboFlg38aOIBo-mFDAciJWo9tVxPI83h/view?usp=drivesdk  
 Solo crossings, not motorised  
 https://drive.google.com/file/d/1L7tCmFOA5srGKVCcq8Eyv3pzTxHbN84l/view?usp=drivesdk  
+
 Antarctica stations/camps  
 https://drive.google.com/file/d/1BfNuwHpILxJX6yvEUuEH3HLNPFATxxOc/view?usp=drivesdk
 
