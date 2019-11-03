@@ -370,7 +370,7 @@ https://www.youtube.com/watch?v=tTD_dnWJ2nI
 Moon
 ----
 Face visible, face éclairée: les faces de la Lune  
-(In french) at 6:32, it explains the apparent movements of the moon. These movements have no explanation on a flat earth.
+(In french) at 6:32, it explains the apparent movements of the moon. These movements have no explanation on a flat earth.  
 https://www.youtube.com/watch?v=V5N6P3zG6Ac
 
 Shadows of mountains and craters on the moon change with the phases of the moon, proving the moon is a sphere illuminated by the sun.
