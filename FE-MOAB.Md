@@ -273,7 +273,10 @@ https://youtu.be/d3GD9gXzUBk
 https://www.youtube.com/watch?v=wiVyR_uYN2U  
 https://www.youtube.com/watch?v=3xkUTebkABc  
 https://www.youtube.com/watch?v=QFKx4AB3AlQ  
-https://www.youtube.com/watch?v=wmxg38ltoNE
+https://www.youtube.com/watch?v=wmxg38ltoNE  
+
+2019 november 11 mercury transit  
+https://www.youtube.com/watch?v=ypOh7RhLcgc
 
 Loi de Tully-Fisher  
 https://www.youtube.com/watch?v=BA_H2D5cRwk
