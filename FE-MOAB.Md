@@ -612,6 +612,15 @@ https://drive.google.com/file/d/1BfNuwHpILxJX6yvEUuEH3HLNPFATxxOc/view?usp=drive
 
 Satellites
 ----------
+How to See SpaceX's Starlink Satellite 'Train' in the Night Sky  
+https://www.space.com/spacex-starlink-satellites-night-sky-visibility-guide.html
+
+SpaceX Starlink satellite launch and deployment, Starship and Crew Dragon Updates  
+https://www.youtube.com/watch?v=_gK6k5uxGMg
+
+SpaceX Starlink satellite train at dusk  
+https://www.youtube.com/watch?v=T6v47CmRA7A
+
 Images from earth  
 http://www.astrophoto.fr/satellites.html﻿
 
