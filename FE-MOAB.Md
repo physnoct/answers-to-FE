@@ -266,6 +266,9 @@ Astronomy
 The stars in the northern hemisphere rotate in an anti-clockwise direction yet in the Southern Hemisphere they rotate in a clockwise direction.  
 The sun rises due east and sets due west on the equinox.
 
+Flat Earth & the Equinox  
+https://www.youtube.com/watch?v=zH02lT1ByKU
+
 This video has a clear animation of the moon phases in the 1st few minutes  
 https://youtu.be/d3GD9gXzUBk
 
