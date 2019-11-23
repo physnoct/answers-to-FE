@@ -58,6 +58,12 @@ https://www.youtube.com/watch?v=tC5RalYWZ5Y
 Response to Globebusters - The Earth Still Isn't Flat  
 https://www.youtube.com/watch?v=JDy95_eNPzM
 
+In french with english subtitles (turn on Close Captions)
+The Earth is flat. It's you you're round. DEFAKATOR  
+https://www.youtube.com/watch?v=krxrKM1JwDg
+The Earth is round. Your EEG is flat. DEFAKATOR  
+https://www.youtube.com/watch?v=g-2p2Ahrfts
+
 Eric Dubay's 200 proofs debunked  
 https://youtu.be/Uzc1tY1StvY  
 https://youtu.be/CBxaB--fu_Q 43-48  
@@ -504,6 +510,16 @@ https://en.wikipedia.org/wiki/Degree_of_curvature
 
 Counter claims
 --------------
+"We see too far"  
+NO! YOU DO NOT SEE TOO FAR!  
+https://www.youtube.com/watch?v=_iwDs4_LaAI  
+Flat Earth or Globe Earth - Curvature. you be the judge. Comprehensive!  
+https://www.youtube.com/watch?v=Jfja5-FOhls
+
+"It's a mirage"
+How I destroyed flat Earth idiocy (3) – Chicago's Skyline  
+https://www.youtube.com/watch?v=JXULtYRZVPw
+
 "Great Lakes with no curve"  
 Toronto:  
 https://www.metabunk.org/data/MetaMirrorCache/e24b17fcf78f5841927709deaf58ded7.gif  
