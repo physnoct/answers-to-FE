@@ -269,6 +269,9 @@ FEers can only speculate about the extend of Antarctica while GE model shows pic
 
 Astronomy
 ---------
+Stars on a flat earth simulation  
+https://www.youtube.com/watch?v=EqoI3W-RwmQ
+
 The stars in the northern hemisphere rotate in an anti-clockwise direction yet in the Southern Hemisphere they rotate in a clockwise direction.  
 The sun rises due east and sets due west on the equinox.
 
