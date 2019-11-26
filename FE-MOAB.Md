@@ -108,9 +108,10 @@ https://www.youtube.com/watch?v=3K3cD_L4j7U
 https://www.youtube.com/watch?v=1AHFl0aMyj4
 
 Ex-FEers  
+https://www.youtube.com/watch?v=w-aaHZ4OX7Q  
 https://www.youtube.com/watch?v=dVER8BKBOpI  
 https://www.youtube.com/watch?v=Af9KATJ6sjI  
-https://www.youtube.com/watch?v=K63Os0LS9Cg
+https://www.youtube.com/watch?v=K63Os0LS9Cg  
 
 I Quit Flat Earth  
 https://www.youtube.com/watch?v=AjU6hSEHOYE  
