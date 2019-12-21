@@ -987,7 +987,10 @@ Note: at very small angles, the sine of an angle and the angle itself are approx
 
 ﻿Flat earth model
 ----------------
-On the Flat Earth, How High is the Sun?
+Water sticking to a globe model  
+https://physnoct.wordpress.com/2019/12/21/earth-model-with-water-sticking-to-it/
+
+On the Flat Earth, How High is the Sun?  
 http://www.nmsr.org/flatter4.htm
 
 How do we calculate the distance from the north pole to any latitude on a flat earth model?  
