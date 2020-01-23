@@ -176,6 +176,9 @@ Hurtling through space at 67,000 Mph - what does that look like?
 https://www.youtube.com/watch?v=1nQqOBPH8bM  
 https://www.youtube.com/watch?v=_mCISBTcSFY&feature=youtu.be&t=21
 
+Many simultaneous movements  
+https://www.youtube.com/watch?v=eJkZLPOBIJI
+
 Earth's orbit
 -------------
 In order to keep up and pass it (circle it) Earth must speed up to pass, and then slow down once it's passed (circled)."  
