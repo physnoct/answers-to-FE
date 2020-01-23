@@ -633,6 +633,9 @@ https://drive.google.com/file/d/1L7tCmFOA5srGKVCcq8Eyv3pzTxHbN84l/view?usp=drive
 Antarctica stations/camps  
 https://drive.google.com/file/d/1BfNuwHpILxJX6yvEUuEH3HLNPFATxxOc/view?usp=drivesdk
 
+Terre Plate - La seule preuve : le Soleil de minuit  
+https://www.youtube.com/watch?v=bP-xS6IpIYs
+
 Satellites
 ----------
 How to See SpaceX's Starlink Satellite 'Train' in the Night Sky  
@@ -678,6 +681,12 @@ https://www.sparkfun.com/categories/4
 
 NASA & Rockets
 --------------
+Astronaut Alan Bean swears on the bible  
+https://www.youtube.com/watch?v=-vUMNCUwTdQ  
+
+Various documentation about space (in spanish)  
+https://www.infosondas.com/
+
 National Aeronautics and Space Act of 1958  
 https://www.govinfo.gov/content/pkg/STATUTE-72/pdf/STATUTE-72-Pg426-2.pdf
 
@@ -691,6 +700,12 @@ http://www.spaceref.com/iss/ops/ISS.User.Guide.R2.pdf
 
 https://www.nasa.gov/sites/default/files/atoms/files/np-2015-05-022-jsc-iss-guide-2015-update-111015-508c.pdf  
 https://www.nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf
+
+Soyuz Crew Ops Manual  
+https://www.infosondas.com/2017/04/pdf-soyuz-crew-operations-manual-soycomrop-19final/
+
+Apollo-Soyuz rendez-vous  
+https://www.infosondas.com/2015/07/2-pdf-csm-rendezvouz-book-manual-astronautas-apollo-soyuz/
 
 Explanation of different sizes in NASA pictures of the earth  
 https://www.metabunk.org/sk/globe_comparison_with_distance.jpg  
@@ -764,9 +779,15 @@ https://www.youtube.com/watch?v=6bI164G26dg
 AGC computer restoration  
 https://www.youtube.com/watch?v=AhVKYDVZxWQ
 
+Mouse moving while in space
+
+
 Moon
 ----
 https://www.youtube.com/watch?v=NxZMjpMhwNE
+
+Lunar laser ranging  
+https://inspirehep.net/record/1255296/plots?ln=en
 
 Water flatness
 --------------
