@@ -557,6 +557,9 @@ https://www.youtube.com/watch?v=PhfBwusnyG0
 https://www.youtube.com/watch?v=sW-6rRysi28  
 https://www.youtube.com/watch?v=s_5b3okEhNM
 
+Tesla quote
+https://www.youtube.com/watch?v=Y75kHbB9ZZc
+
 Dome
 ----
 AE Map with Glass Dome 100% DEBUNKED by a flat earther  
