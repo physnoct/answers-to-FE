@@ -108,10 +108,14 @@ https://www.youtube.com/watch?v=3K3cD_L4j7U
 https://www.youtube.com/watch?v=1AHFl0aMyj4
 
 Ex-FEers  
+--------  
 https://www.youtube.com/watch?v=w-aaHZ4OX7Q  
 https://www.youtube.com/watch?v=dVER8BKBOpI  
 https://www.youtube.com/watch?v=Af9KATJ6sjI  
 https://www.youtube.com/watch?v=K63Os0LS9Cg  
+
+SeekTruth SpeakTruth  
+https://www.youtube.com/channel/UC8QUo98zQ7HlFFykAc0Z3EA  
 
 I Quit Flat Earth  
 https://www.youtube.com/watch?v=AjU6hSEHOYE  
@@ -1173,8 +1177,9 @@ It's roughly equivalent to a difference between a sunny day and a cloudy day. In
 Other compilations
 ==================
 http://www.terre-plate.org	(french)  
-http://flatearthdeception.com/  
-https://flatearthlunacy.com
+http://flatearthdeception.com  
+https://flatearthlunacy.com  
+https://flatearth.ws  
 
 Bible
 =====
