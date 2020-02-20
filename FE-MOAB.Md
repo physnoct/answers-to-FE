@@ -242,6 +242,9 @@ https://www.youtube.com/watch?v=CkhxPm15PFo
 https://www.youtube.com/watch?v=t2aSVsifj-o  
 https://www.youtube.com/watch?v=OLXLB3IVXiI
 
+Side to Side Curvature
+https://www.youtube.com/watch?v=qZOGEKZWsNQ
+
 Helicopter hoving over ground
 -----------------------------
 In the Mythbuster's experiment, they had to shoot a soccer ball with a cannon in order to make it land on the same spot.  
@@ -277,6 +280,9 @@ FEers can only speculate about the extend of Antarctica while GE model shows pic
 
 Astronomy
 ---------
+Saturn behind Moon  
+https://www.youtube.com/watch?v=nQLIT0_7UmI
+
 Stars on a flat earth simulation  
 https://www.youtube.com/watch?v=EqoI3W-RwmQ
 
