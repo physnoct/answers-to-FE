@@ -1158,27 +1158,7 @@ g = 2h/t
 
 light on the FE model
 ---------------------
-Assuming a sun orbiting at 3000 miles or 4828 km above a flat earth.
-We calculate the change of light intensity between night and day with this formula: il the distance to the sun is doubled, its intensity will be the quarter (25%). If at the equinox, the sun is orbiting at the vertical of the equator, its orbit's diameter would be 20000 km. Thus, the radius is 10000 km.  
-Let's take New-York as an observing point: it's at 40:42'46" latitude.  
-40:42'46" = 40 + 42/60 + 46/3600 = 40.7128  
-
-The distance of New York to the north pole is:  
-pi * earth's radius * (90 - latitude)/180  
-3.1416 * 6371 km * (90 - 40.7128)/180 = 5480 km  
-
-At noon, the horizontal distance of the sun with NY is 10000 - 5480 = 4520  
-At midnight, it's 10000 + 5480 = 15480
-
-Taking into account the height of the sun (4828km),  
-at noon, d1 = √(4520²+4828²) = 6613 km  
-at midnight, d2 = √(15480²+4828²) = 16215 km
-
-The ratio of distance is 16215/6613 = 2.45  
-
-The intensity drop should be the inverse square of this: 1/2.45² = 0.166 or 16.6%  
-
-It's roughly equivalent to a difference between a sunny day and a cloudy day. In other words, it doesn't explain the day and night.
+https://physnoct.wordpress.com/2018/10/28/fe-sun-orbiting-above-the-flat-earth/
 
 Other compilations
 ==================
