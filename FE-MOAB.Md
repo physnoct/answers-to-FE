@@ -799,10 +799,10 @@ Mouse moving while in space
 SpaceX CRS-19 Falcon 9 Launch Livestream Dec 5 2019  
 https://www.youtube.com/watch?v=ZfPoUROLw3M
 
-at 1:04:36	1st mouse
-at 1:04:46	water droplets falling
-at 1:04:58	2nd mouse, 1st one still there
-at 1:05:58	3rd mouse, 1st and 2nd still there
+at 1:04:36	1st mouse  
+at 1:04:46	water droplets falling  
+at 1:04:58	2nd mouse, 1st one still there  
+at 1:05:58	3rd mouse, 1st and 2nd still there  
 at 1:06:33	water droplets falling
 
 Better resolution here  
