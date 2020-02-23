@@ -810,6 +810,14 @@ CRS-19 Mission
 https://www.youtube.com/watch?v=-aoAGdYXp_4
 "Mice" at 21:20 in this one
 
+It seems it's a persistent problem  
+https://www.youtube.com/watch?v=8xeX62mLcf8  
+https://www.youtube.com/watch?v=1KmBDCiL7MU  
+https://www.youtube.com/watch?v=t-mdQRpgfN4  
+https://www.youtube.com/watch?v=H9PVbGcp_aw  
+https://www.youtube.com/watch?v=wbSwFU6tY1c  
+
+
 Moon
 ----
 https://www.youtube.com/watch?v=NxZMjpMhwNE
