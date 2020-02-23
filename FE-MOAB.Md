@@ -795,8 +795,20 @@ https://www.youtube.com/watch?v=6bI164G26dg
 AGC computer restoration  
 https://www.youtube.com/watch?v=AhVKYDVZxWQ
 
-Mouse moving while in space
+Mouse moving while in space  
+SpaceX CRS-19 Falcon 9 Launch Livestream Dec 5 2019  
+https://www.youtube.com/watch?v=ZfPoUROLw3M
 
+at 1:04:36	1st mouse
+at 1:04:46	water droplets falling
+at 1:04:58	2nd mouse, 1st one still there
+at 1:05:58	3rd mouse, 1st and 2nd still there
+at 1:06:33	water droplets falling
+
+Better resolution here  
+CRS-19 Mission  
+https://www.youtube.com/watch?v=-aoAGdYXp_4
+"Mice" at 21:20 in this one
 
 Moon
 ----
@@ -1167,12 +1179,20 @@ http://flatearthdeception.com
 https://flatearthlunacy.com  
 https://flatearth.ws  
 
+References
+==========
+Mirages
+http://www.polarimage.fi/mirages/mirages.htm
+
 Bible
 =====
 https://www.youtube.com/watch?v=rE3j_RHkqJc
 
 Question everything  
 https://www.youtube.com/watch?v=Jb7lVVtgIB8
+
+A few deniers’ (bad) habits  
+https://antoinebretblog.wordpress.com/2020/02/10/a-few-deniers-bad-habits
 
 It's indoctrination if it can't be questioned, it's education if it can be demonstrated.
 
