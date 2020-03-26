@@ -527,6 +527,15 @@ https://en.wikipedia.org/wiki/Degree_of_curvature
 
 Counter claims
 --------------
+Black Swan by Nathan Oakley
+https://www.youtube.com/watch?v=MykqYqVMF1Q
+Refuted here:
+https://www.youtube.com/watch?v=0RaRXEnmASs
+https://www.youtube.com/watch?v=ibEkI2o4mYA
+https://www.youtube.com/watch?v=yps0327QdQI
+https://www.youtube.com/watch?v=25Uenjtml_c
+https://www.youtube.com/watch?v=mQUTpIZdIj8
+
 "We see too far"  
 NO! YOU DO NOT SEE TOO FAR!  
 https://www.youtube.com/watch?v=_iwDs4_LaAI  
@@ -817,6 +826,8 @@ https://www.youtube.com/watch?v=t-mdQRpgfN4
 https://www.youtube.com/watch?v=H9PVbGcp_aw  
 https://www.youtube.com/watch?v=wbSwFU6tY1c  
 
+At 0:23, the "m"ice falls
+https://www.youtube.com/watch?v=2XDdnoJh5LY
 
 Moon
 ----
