@@ -535,6 +535,10 @@ https://www.youtube.com/watch?v=ibEkI2o4mYA
 https://www.youtube.com/watch?v=yps0327QdQI  
 https://www.youtube.com/watch?v=25Uenjtml_c  
 https://www.youtube.com/watch?v=mQUTpIZdIj8  
+by Prof. Phil Bell  
+https://www.youtube.com/watch?v=7WJsw_RwX1s  
+https://www.youtube.com/watch?v=pEpet2FhNxA  
+https://www.youtube.com/watch?v=9YTXYKB_tko  
 
 "We see too far"  
 NO! YOU DO NOT SEE TOO FAR!  
