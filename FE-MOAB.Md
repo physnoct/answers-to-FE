@@ -11,6 +11,11 @@ If you seek the truth you should be ready to follow the evidences, not your beli
 
 The flat earth doctrine has been thoroughly and completely debunked, demolished and proved false beyond any shadow of any doubt, by many different methods and many non-conflicting observations. If it was a dead horse, it would have been beated to atoms.
 
+Flat Earth problems
+===================
+5 Things Flat Earthers Can't Explain!
+https://www.youtube.com/watch?v=s9YGG5crp0w
+
 Hints FE is a cult
 ==================
 Hint 1, you have to _believe_ in an enormous conspiracy, just to disprove the pictures of earth we have from space. If just one of these pictures is true, the whole flat earth falls down.  
@@ -177,14 +182,21 @@ https://www.youtube.com/watch?v=JXjKSo4Ezsk
 
 Flat earthers' lack of scientific background vs globe earthers indoctrination
 =============================================================================
+Many if not all flat earth arguments are based on some misunderstanding of maths, physics, or a poor knowledge of the currently accepted science.
+
 One thing is certain, many if not all flat earthers lack a solid background of maths and physics which shows in their arguments.
 This is not an insult, this is an obvious observation. When asked for doing some maths, few of them can actually answer. It's understandable that some get angry or get offuscated when asked for their credentials.
 
 It's understandable that for many reasons, a higher formation isn't required for their daily tasks. But when discussing science such as the flat earth model vs the globe earth, this become a weak point for them, and the scientific knowledge is _essential_ to discuss these matters.
 
-What we globers learn at school is not indoctrination, since the material is based on scientific observations, and the physic principles are verified by students doing experiments.
+When flat earthers want to discuss physic principle, what do they have? They only have their day to day experiences, the more or less clearly defined basic concepts such as speed, acceleration, weight, force and maybe more.
+Maybe they learned something in school! They may not all agree on the validity of maths, for example, considering calculus as made by free masons. So there is no consensus about the basics among the flat earthers.
+Another crucial aspect is the lack of numbers. Without numbers, it's easy to largely underestimate or overestimate a quantity, leading to false arguments, such as the earth spin flinging water into space.
 
-Flat earthers can familiarize themselves easily with maths and physics. There are many videos on YouTube where they can learn the same stuff teached at universities (for free!).
+What we globers learn at school is not indoctrination, since the material is based on well established science, based itself on scientific observations, and the physic principles are verified by students doing experiments.
+
+Flat earthers can familiarize themselves easily with maths and physics. There are many videos on YouTube where they can learn the same stuff teached at schools and universities (for free!).
+Learning from books is a bit harder, since the reader need to make an effort to visualise the concepts. Visualising a concept is much easier with animations.
 
 Basic physics
 =============
@@ -196,7 +208,7 @@ Many of the flat earth claims of no curvature are based on cherry picked observa
 Earth spinning,wobbling
 -----------------------
 The FE claims commonly mentions the earth spinning at 1000 mph. This is not a rotation speed. This 1000 mph figure is the tangential speed at the equator. This number comes from the circumference at the equator divided by a day (or 24h). The circumference, rounded at 24000 miles, divided by 24 hours gives a speed of 1000 miles per hour (mph).
-A rotation speed is expressed in the number of cycles per unit of time, for example: 3600 RPM, which means 3600 revolutions per minutes. The earth itself, rotates around its axis with a speed of 1 turn per day = 360°/24 hours = 15°/h = 72.7µrad/s
+A rotation speed is expressed in the number of cycles per unit of time, for example: 3600 RPM, which means 3600 revolutions per minute. The earth itself, rotates around its axis with a speed of 1 turn per day = 360°/24 hours = 15°/h = 72.7µrad/s
 
 All those movements have a constant speed which we can't feel. It's the same principle as a moving train on a very large curve.  
 https://www.youtube.com/watch?v=sy60E3I_K94
@@ -209,6 +221,7 @@ Hurtling through space at 67,000 Mph - what does that look like?
 https://www.youtube.com/watch?v=1nQqOBPH8bM  
 https://www.youtube.com/watch?v=_mCISBTcSFY&feature=youtu.be&t=21
 
+Some flat earth videos seem to make the argument that the earth's orbiting motions in many simultaneous directions is impossible or absurd. Quite the contrary. We can see examples of simultaneous movements in our daily lives.
 Many simultaneous movements  
 https://www.youtube.com/watch?v=eJkZLPOBIJI
 
@@ -572,6 +585,14 @@ https://www.youtube.com/watch?v=pEpet2FhNxA
 https://www.youtube.com/watch?v=9YTXYKB_tko  
 by Mathias Kp
 https://www.youtube.com/watch?v=AN22ScCILZI  
+
+Canigou  
+by Eratosphère
+https://www.youtube.com/watch?v=Pf6rBiI97Ak  
+by Roohif..
+https://www.youtube.com/watch?v=QuwFM3ixpKg..
+by Atheos..
+https://www.youtube.com/watch?v=XyLELrjE9C0  
 
 "We see too far"  
 NO! YOU DO NOT SEE TOO FAR!  
