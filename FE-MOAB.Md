@@ -9,6 +9,16 @@ https://github.com/physnoct/answers-to-FE/blob/master/FE-MOAB.Md
 No research would be complete without checking the arguments for the globe earth and against the flat earth.  
 If you seek the truth you should be ready to follow the evidences, not your beliefs, no matter what!  
 
+The flat earth doctrine has been thoroughly and completely debunked, demolished and proved false beyond any shadow of any doubt, by many different methods and many non-conflicting observations. If it was a dead horse, it would have been beated to atoms.
+
+Hints FE is a cult
+==================
+Hint 1, you have to _believe_ in an enormous conspiracy, just to disprove the pictures of earth we have from space. If just one of these pictures is true, the whole flat earth falls down.  
+Hint 2, there is no working flat earth models, no working flat earth map, no picture of a flat earth showing the edge of the earth.  
+Hint 3, the Antarctica unaccessibility doctrine is convenient to prevent FEers to check for themselves if there's really an edge.  
+
+Globe proofs
+============
 Flat earth vs. globe earth isn't recent.  
 GE has been established as fact since long ago. Maybe for good reasons. First and most obvious,  
 
@@ -165,11 +175,30 @@ https://www.youtube.com/watch?v=-FJG65nbUO8
 Planarwalk  
 https://www.youtube.com/watch?v=JXjKSo4Ezsk
 
+Flat earthers' lack of scientific background vs globe earthers indoctrination
+=============================================================================
+One thing is certain, many if not all flat earthers lack a solid background of maths and physics which shows in their arguments.
+This is not an insult, this is an obvious observation. When asked for doing some maths, few of them can actually answer. It's understandable that some get angry or get offuscated when asked for their credentials.
+
+It's understandable that for many reasons, a higher formation isn't required for their daily tasks. But when discussing science such as the flat earth model vs the globe earth, this become a weak point for them, and the scientific knowledge is _essential_ to discuss these matters.
+
+What we globers learn at school is not indoctrination, since the material is based on scientific observations, and the physic principles are verified by students doing experiments.
+
+Flat earthers can familiarize themselves easily with maths and physics. There are many videos on YouTube where they can learn the same stuff teached at universities (for free!).
+
 Basic physics
 =============
+No curvature
+------------
+https://www.youtube.com/watch?v=V6ICUh6pxmA  
+Many of the flat earth claims of no curvature are based on cherry picked observations made in particular conditions. They are used to generalize from it, while the usual observations show a globe. So, all the "see too far", "flat water" claims can't be relied on.
+
 Earth spinning,wobbling
 -----------------------
-All those movements have a constant speed which we can't feel. It's the same principle as a moving train.  
+The FE claims commonly mentions the earth spinning at 1000 mph. This is not a rotation speed. This 1000 mph figure is the tangential speed at the equator. This number comes from the circumference at the equator divided by a day (or 24h). The circumference, rounded at 24000 miles, divided by 24 hours gives a speed of 1000 miles per hour (mph).
+A rotation speed is expressed in the number of cycles per unit of time, for example: 3600 RPM, which means 3600 revolutions per minutes. The earth itself, rotates around its axis with a speed of 1 turn per day = 360°/24 hours = 15°/h = 72.7µrad/s
+
+All those movements have a constant speed which we can't feel. It's the same principle as a moving train on a very large curve.  
 https://www.youtube.com/watch?v=sy60E3I_K94
 
 The earth's movements also change direction, but too slowly to be percepted. All the movements are confirmed by astronomical measurements.  
@@ -530,7 +559,9 @@ Counter claims
 Black Swan by Nathan Oakley  
 https://www.youtube.com/watch?v=MykqYqVMF1Q  
 Refuted here:  
+by BlueMarbleScience
 https://www.youtube.com/watch?v=0RaRXEnmASs  
+by WheresWally
 https://www.youtube.com/watch?v=ibEkI2o4mYA  
 https://www.youtube.com/watch?v=yps0327QdQI  
 https://www.youtube.com/watch?v=25Uenjtml_c  
@@ -539,6 +570,8 @@ by Prof. Phil Bell
 https://www.youtube.com/watch?v=7WJsw_RwX1s  
 https://www.youtube.com/watch?v=pEpet2FhNxA  
 https://www.youtube.com/watch?v=9YTXYKB_tko  
+by Mathias Kp
+https://www.youtube.com/watch?v=AN22ScCILZI  
 
 "We see too far"  
 NO! YOU DO NOT SEE TOO FAR!  
