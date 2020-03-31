@@ -1340,6 +1340,9 @@ http://flatearthdeception.com
 https://flatearthlunacy.com  
 https://flatearth.ws  
 
+An end to this flat earth NONSENSE!  
+https://www.youtube.com/watch?v=XnvWL4kpZd4  
+
 References
 ==========
 Mirages
