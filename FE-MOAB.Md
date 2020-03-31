@@ -614,9 +614,9 @@ Flaw: cherry picking of specific observations, ignoring others
 Black Swan by Nathan Oakley  
 https://www.youtube.com/watch?v=MykqYqVMF1Q  
 Refuted here:  
-by BlueMarbleScience
+by BlueMarbleScience  
 https://www.youtube.com/watch?v=0RaRXEnmASs  
-by WheresWally
+by WheresWally  
 https://www.youtube.com/watch?v=ibEkI2o4mYA  
 https://www.youtube.com/watch?v=yps0327QdQI  
 https://www.youtube.com/watch?v=25Uenjtml_c  
@@ -625,15 +625,17 @@ by Prof. Phil Bell
 https://www.youtube.com/watch?v=7WJsw_RwX1s  
 https://www.youtube.com/watch?v=pEpet2FhNxA  
 https://www.youtube.com/watch?v=9YTXYKB_tko  
-by Mathias Kp
+by Mathias Kp  
 https://www.youtube.com/watch?v=AN22ScCILZI  
 
 Canigou  
-by Eratosphère
+by Sly Sparkane  
+https://www.youtube.com/watch?v=0PWSoYjH7OU  
+by Eratosphère  
 https://www.youtube.com/watch?v=Pf6rBiI97Ak  
-by Roohif..
-https://www.youtube.com/watch?v=QuwFM3ixpKg..
-by Atheos..
+by Roohif  
+https://www.youtube.com/watch?v=QuwFM3ixpKg  
+by Atheos  
 https://www.youtube.com/watch?v=XyLELrjE9C0  
 
 "We see too far"  
