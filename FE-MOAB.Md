@@ -180,6 +180,9 @@ https://www.youtube.com/watch?v=-FJG65nbUO8
 Planarwalk  
 https://www.youtube.com/watch?v=JXjKSo4Ezsk
 
+Researching Flat Earth - Where are the Flat Earth Pilots? Lets talk.
+https://www.youtube.com/watch?v=GhgEUHYagLk
+
 Flat earthers' lack of scientific background vs globe earthers indoctrination
 =============================================================================
 Many if not all flat earth arguments are based on some misunderstanding of maths, physics, or a poor knowledge of the currently accepted science.
@@ -709,6 +712,13 @@ GPS/Cell phones
 ---------------
 Flaw: space denial
 
+While someone's position can be tracked with cell phone towers, the GPS use a constellation of satellites. It can work while on/over the ocean.
+FlightRadar24 Satellite based aircraft tracking now available to all users.  
+https://www.youtube.com/watch?v=Whqb-EStBsQ
+
+Flat Earth is cruising for a bruising on the Carnival Splendor  
+https://www.youtube.com/watch?v=PEC7c2PvXOk
+
 Cell phone triangulation  
 https://en.wikipedia.org/wiki/Mobile_phone_tracking  
 https://en.wikipedia.org/wiki/GPS_navigation_device#Mobile_phones_with_GPS_capability
@@ -725,7 +735,8 @@ https://www.youtube.com/watch?v=Xy-I9GDWl34
 Curvature from a plane  
 https://www.youtube.com/watch?v=ZOsxgGeABGM
 
-Aircraft artificial horizon self corrects during flight  
+If an airplane goes from the north pole to the south pole, would an artificial horizon be useful if it's indicating the plane is upside down?
+That's why aircraft artificial horizon self corrects during flight  
 https://www.youtube.com/watch?v=kTXTCqMHyhg  
 https://www.youtube.com/watch?v=1bUM2KVKgb8﻿
 
@@ -875,7 +886,6 @@ Another paper by NASA make a statement of fact about the shape of the earth:
 https://ntrs.nasa.gov/search.jsp?R=19860010309  
 It clearly says: "A strategy is presented along with background material for determining downward atmospheric radiation at the Earth's surface on a regional scale but over the entire globe "﻿
 
-
 Bubbles (french)  
 https://www.youtube.com/watch?v=5RBhCqmgl7g  
 https://www.youtube.com/watch?v=mppA5lUaoSs&feature=youtu.be
@@ -889,7 +899,9 @@ https://physnoct.wordpress.com/2018/06/23/flat-earth-cgi-and-nasa-pictures/
 Is NASA hoax plausible  
 https://www.youtube.com/watch?v=UKv7gwmEfKg  
 https://www.youtube.com/watch?v=t5wm9l5trlA  
-https://www.youtube.com/watch?v=Tl0TBo2Hge8
+
+Mirror: You need to see this: Moon Landings Faked  
+https://www.youtube.com/watch?v=Tl0TBo2Hge8  
 
 Views of earth from various satellites  
 https://www.youtube.com/watch?v=VfpaxVQSbTQ&feature=youtu.be
