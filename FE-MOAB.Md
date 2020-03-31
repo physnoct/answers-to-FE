@@ -198,20 +198,32 @@ What we globers learn at school is not indoctrination, since the material is bas
 Flat earthers can familiarize themselves easily with maths and physics. There are many videos on YouTube where they can learn the same stuff teached at schools and universities (for free!).
 Learning from books is a bit harder, since the reader need to make an effort to visualise the concepts. Visualising a concept is much easier with animations.
 
+To convince flat earthers, we must show them some basic physics that they can see and experience everyday.
+
 Basic physics
 =============
 No curvature
 ------------
+Flaw: generalization from cherry picked observations
+
 https://www.youtube.com/watch?v=V6ICUh6pxmA  
 Many of the flat earth claims of no curvature are based on cherry picked observations made in particular conditions. They are used to generalize from it, while the usual observations show a globe. So, all the "see too far", "flat water" claims can't be relied on.
 
 Earth spinning,wobbling
 -----------------------
+Flaw: failure to grasp acceleration, rotation and speed. Also no sense of scale.
+
 The FE claims commonly mentions the earth spinning at 1000 mph. This is not a rotation speed. This 1000 mph figure is the tangential speed at the equator. This number comes from the circumference at the equator divided by a day (or 24h). The circumference, rounded at 24000 miles, divided by 24 hours gives a speed of 1000 miles per hour (mph).
 A rotation speed is expressed in the number of cycles per unit of time, for example: 3600 RPM, which means 3600 revolutions per minute. The earth itself, rotates around its axis with a speed of 1 turn per day = 360°/24 hours = 15°/h = 72.7µrad/s
 
-All those movements have a constant speed which we can't feel. It's the same principle as a moving train on a very large curve.  
+Flat earthers also mention all the other movements of the earth aound the sun, itself orbiting around the center of the galaxy, itself going through some direction in the universe. It's understandable that flat earthers deny this, because we don't feel these movement.  
+https://www.forbes.com/sites/startswithabang/2018/08/30/our-motion-through-space-isnt-a-vortex-but-something-far-more-interesting/#4ed154227ec2  
+
+All those movements have 2 parts: a constant speed which we can't feel, and a "turning" part that we could feel if it's fast enough. These 2 parts are independant. It's the same principle as a moving train.
+Why can't we feel a constant speed? It's because of the 2nd law of Newton. F = ma. A constant speed is 0 acceleration, so the force is 0. No force, no disturbance.  
 https://www.youtube.com/watch?v=sy60E3I_K94
+
+If the train was moving on a very large curve, the "turning part" would be slow. But on a small radius, it would be much faster: the passengers would be throwed to the side by the centrifugal force.  
 
 The earth's movements also change direction, but too slowly to be percepted. All the movements are confirmed by astronomical measurements.  
 
@@ -221,18 +233,22 @@ Hurtling through space at 67,000 Mph - what does that look like?
 https://www.youtube.com/watch?v=1nQqOBPH8bM  
 https://www.youtube.com/watch?v=_mCISBTcSFY&feature=youtu.be&t=21
 
-Some flat earth videos seem to make the argument that the earth's orbiting motions in many simultaneous directions is impossible or absurd. Quite the contrary. We can see examples of simultaneous movements in our daily lives.
+Some flat earth videos seem to make the argument that the earth's orbiting motions in many simultaneous directions is impossible or absurd. Quite the contrary. We can see examples of simultaneous movements in our daily lives (some rides in an amusement park).  
 Many simultaneous movements  
 https://www.youtube.com/watch?v=eJkZLPOBIJI
 
 Earth's orbit
 -------------
+Flaw: missing some basis of trigonometry
+
 In order to keep up and pass it (circle it) Earth must speed up to pass, and then slow down once it's passed (circled)."  
 That's the acceleration component along one axis. There is also another component of this acceleration along a perpendicular axis: once it's passed the sun (in one side) it accelerates and slow down to get to the other side. These 2 components combine into a circle, or a vector that's oriented towards the center of the orbit. You can see clearly the principle here:  
 https://commons.wikimedia.org/wiki/File:Circle_cos_sin.gif
 
 Water flung in space
 --------------------
+Flaw: no numbers, so the claim exagerates the effect
+
 At the equator, the gravity is about 291 times greater than the centrifugal acceleration, so water doesn't fly into space.
 
 Earth model
@@ -248,6 +264,8 @@ https://www.metabunk.org/why-do-some-satellites-show-a-hole-at-the-poles-hollow-
 
 Pressure and vacuum side by side
 --------------------------------
+Flaw: misunderstanding of pressure and vacuum
+
 (À la Kent Hovind) Vacuum doesn't suck because there's no vacuum cleaner in space. Since there is nothing in space, why would it suck?
 
 The atmospheric pressure gets lower with altitude. It becomes almost nil at about 40km. There is no need then for a physical barrier, since both side of it has 0 pressure.  
@@ -270,6 +288,8 @@ So, no matter how high the vacuum is, the difference stays about the same.
 
 Selective gravity
 -----------------
+Flaw: possible confusion between mass and weight
+
 (À la Kent Hovind) Birds don't weigh an ocean, an ocean doesn't weigh a butterfly.
 
 Everything is attracted with the same acceleration (9.8m/s²), not the same force (weight).  
@@ -289,11 +309,15 @@ https://www.youtube.com/watch?v=qZOGEKZWsNQ
 
 Helicopter hoving over ground
 -----------------------------
+Flaw: misunderstanding of reference frame
+
 In the Mythbuster's experiment, they had to shoot a soccer ball with a cannon in order to make it land on the same spot.  
 https://www.youtube.com/watch?v=BLuI118nhzc
 
 How to land on a spinning object?
 ---------------------------------
+Flaw: misunderstanding of reference frame
+
 You just match its speed. Same thing for airplanes fueling during flight, space vehicules docking on the space station, etc.  
 https://www.youtube.com/watch?v=f8BbGG9cKBo  
 https://www.youtube.com/watch?v=sL5MxCwkLJQ  
@@ -303,10 +327,14 @@ A plane can't land on the earth spinning at 1000 mph? A plane always move relati
 
 Airplanes east vs west
 ----------------------
+Flaw: misunderstanding of reference frame
+
 https://www.youtube.com/watch?v=tMN1f4dvpHI
 
-Shape
------
+Shape: pear or sphere?
+----------------------
+Flaw: quote mining, appeal to authority, no numbers
+
 Neil deGrasse Tyson at 92 Y video (oblate/pear shape)  
 https://www.youtube.com/watch?v=SoCKapivHGM  
 https://www.youtube.com/watch?v=rYzBxo3hbYQ (whole video, extract is at the beginning)
@@ -322,6 +350,8 @@ FEers can only speculate about the extend of Antarctica while GE model shows pic
 
 Astronomy
 ---------
+Some astronomical observations invalidates flat earth claims.
+
 Saturn behind Moon  
 https://www.youtube.com/watch?v=nQLIT0_7UmI
 
@@ -385,6 +415,8 @@ Any point above the arctic circle would be able to see the sun during all day. T
 
 Geocentrism
 -----------
+Not really decisive to flat earth.
+
 Testing Geocentrism  
 https://www.youtube.com/watch?v=wyRJZbNmC7U
 
@@ -412,8 +444,10 @@ South celestial pole
 https://pbs.twimg.com/media/C4ruF06WcAEtgNK.jpg  
 https://www.youtube.com/watch?v=BGD3lhDCgpY
 
-Stars and planets
------------------
+Out of focus Stars and planets
+------------------------------
+Flaw: no knowledge of basic principles of photography
+
 In french, at 0:42, there's a fly in front of the lens,  
 demonstrating without a shadow of doubt that the star is out of focus.  
 https://www.youtube.com/watch?v=B2ImVhiBSbk
@@ -440,6 +474,8 @@ https://www.youtube.com/watch?v=tTD_dnWJ2nI
 
 Moon
 ----
+Flaw: claims based on a literal interpretation of the bible
+
 Face visible, face éclairée: les faces de la Lune  
 (In french) at 6:32, it explains the apparent movements of the moon. These movements have no explanation on a flat earth.  
 https://www.youtube.com/watch?v=V5N6P3zG6Ac
@@ -462,6 +498,8 @@ https://www.youtube.com/watch?v=0gGybX65Axs
 
 No stars in pictures
 --------------------
+Flaw: no knowledge of basic principles of photography
+
 Cameras don't have the same range of sensitivity as our eyes. While we're able to see indoors without problems, any camera will need slower shutter speeds to be able to see something. To see the stars at night, your camera will need long exposure time.
 During the day you won't be able to see the star while photographing a bright subject. If you overexpose the image, stars will appear, but subject will be blurred.  
 https://www.youtube.com/watch?v=3ksUQfEzMoM  
@@ -473,6 +511,8 @@ http://www.thulescientific.com/Lynch%20Curvature%202008.pdf
 
 Globe earth
 -----------
+Observations confirming the globe
+
 Maps and their interpretation (french)  
 https://www.youtube.com/watch?v=qumOMOedTn0
 
@@ -569,6 +609,8 @@ https://en.wikipedia.org/wiki/Degree_of_curvature
 
 Counter claims
 --------------
+Flaw: cherry picking of specific observations, ignoring others
+
 Black Swan by Nathan Oakley  
 https://www.youtube.com/watch?v=MykqYqVMF1Q  
 Refuted here:  
@@ -639,6 +681,8 @@ https://www.youtube.com/watch?v=Y75kHbB9ZZc
 
 Dome
 ----
+Flaw: claims based on a literal interpretation of the bible
+
 AE Map with Glass Dome 100% DEBUNKED by a flat earther  
 https://www.youtube.com/watch?v=dF5G6UQWTF8
 
@@ -661,6 +705,8 @@ The sun light would not appear yellow but blue.
 
 GPS/Cell phones
 ---------------
+Flaw: space denial
+
 Cell phone triangulation  
 https://en.wikipedia.org/wiki/Mobile_phone_tracking  
 https://en.wikipedia.org/wiki/GPS_navigation_device#Mobile_phones_with_GPS_capability
@@ -721,6 +767,8 @@ https://www.youtube.com/watch?v=bP-xS6IpIYs
 
 Satellites
 ----------
+Flaw: space denial
+
 How to See SpaceX's Starlink Satellite 'Train' in the Night Sky  
 https://www.space.com/spacex-starlink-satellites-night-sky-visibility-guide.html
 
@@ -790,6 +838,8 @@ https://www.infosondas.com/2017/04/pdf-soyuz-crew-operations-manual-soycomrop-19
 Apollo-Soyuz rendez-vous  
 https://www.infosondas.com/2015/07/2-pdf-csm-rendezvouz-book-manual-astronautas-apollo-soyuz/
 
+Flaw: no knowledge of photography
+
 Explanation of different sizes in NASA pictures of the earth  
 https://www.metabunk.org/sk/globe_comparison_with_distance.jpg  
 https://www.metabunk.org/debunked-blue-marble-photos-show-a-changing-earth.t6616/  
@@ -798,6 +848,8 @@ https://giphy.com/gifs/YiGsW0Wm9bCqA/html5
 Model rocket in vacuum  
 https://youtu.be/GxBRQXxBRic?list=PLHq86xM68msN-7skaxNlzXeJwWJp4Zdmh
 
+Flaw: no knowledge of physics or science
+
 NASA paper admitting non rotating flat earth  
 https://www.youtube.com/watch?v=BAlSOI5uHkc&feature=youtu.be&t=1m39s
 
@@ -805,10 +857,12 @@ The paper only assume this for a simulation. It doesn't state this as truth.
 A flat earth is also a good approximation of a globe earth for a small area (say, a circle of 25km).
 
 NASA documents talking about a flat non-rotating earth (FNRE) are no more than simplifying assumptions. In many case, the effect studied doesn't need to take into account the curvature of the earth, for example, aerodynamics of wings. Also, normal flight conditions will exceed easily the weak stress induced by a rotating globe.
+Some papers "assume" a FNRE explicitly, others don't. In no case, however, this should not be considered as proof, since it's used for calculation. As FEers agree, calculations are not "proof" by themselves.
 
-Another paper by NASA make a statement of fact about the shape of the earth:
+Another paper by NASA make a statement of fact about the shape of the earth:  
 https://ntrs.nasa.gov/search.jsp?R=19860010309  
 It clearly says: "A strategy is presented along with background material for determining downward atmospheric radiation at the Earth's surface on a regional scale but over the entire globe "﻿
+
 
 Bubbles (french)  
 https://www.youtube.com/watch?v=5RBhCqmgl7g  
@@ -907,6 +961,8 @@ http://www.esa.int/spaceinimages/Images/2005/09/Global_mean_sea_surface_height_f
 
 Gravity and density
 -------------------
+Flaw: space denial, misunderstanding of the globe model
+
 Water in space  
 https://www.youtube.com/watch?v=s63JXdsL5LU  
 https://www.youtube.com/watch?v=rzytpxtbCzQ&t=0s
@@ -934,6 +990,8 @@ https://ncse.com/library-resource/gravity-its-only-theory
 
 Perspective
 -----------
+Flaw: Attempt to redefine perspective, misunderstanding of optics, refraction, ad-hoc explanation of observations
+
 Flat Earth: Sun Rays Triple Feature  
 https://www.youtube.com/watch?v=TOwzHQkloGk
 
@@ -986,6 +1044,8 @@ https://physics.stackexchange.com/questions/235441/how-does-ligo-account-for-cur
 
 Earth's rotation
 ----------------
+Flaw: relying on our limited senses
+
 Many scientific experiments show the earth's rotation by different methods.
 
 Foucault Pendulum  
