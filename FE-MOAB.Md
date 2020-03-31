@@ -817,10 +817,10 @@ NASA & Rockets
 Polish cosmonaut "Earth is flat"  
 https://www.metabunk.org/threads/cosmonaut-miroslaw-hermaczewski-allegedly-says-earth-is-flat-joke.11010/  
 
-"During their time in orbit, Klimuk and Hermaszewski carried out various geoscience experiments and photographed the Earth – orbiting it 126 times.  
+"During their time in orbit, Klimuk and Hermaszewski carried out various geoscience experiments and photographed the Earth – orbiting it 126 times."  
 https://en.wikipedia.org/wiki/Miros%C5%82aw_Hermaszewski  
 
-Russian cosmonaut "we didn't went in space"  
+Russian cosmonaut "we didn't go in space"  
 https://en.wikipedia.org/wiki/Igor_Volk  
 Their accomplishment say otherwise.
 
