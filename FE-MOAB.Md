@@ -22,6 +22,13 @@ Hint 1, you have to _believe_ in an enormous conspiracy, just to disprove the pi
 Hint 2, there is no working flat earth models, no working flat earth map, no picture of a flat earth showing the edge of the earth.  
 Hint 3, the Antarctica unaccessibility doctrine is convenient to prevent FEers to check for themselves if there's really an edge.  
 
+What if ...
+===========
+Let's suppose that a world wide government is established as a New World Order, such that anyone believing in a flat earth would be sentenced to life in prison.
+How sure of their arguments flat earthers would be? Who would dare to challenge the basis of their "beliefs"?
+Who would verify every flat earther claims to be absolutely sure it's true beyond the shadow of a doubt?
+Would they check opposing arguments to see potential problems and come up with corrected answers?
+
 Globe proofs
 ============
 Flat earth vs. globe earth isn't recent.  
@@ -612,7 +619,7 @@ https://en.wikipedia.org/wiki/Degree_of_curvature
 
 Counter claims
 --------------
-Flaw: cherry picking of specific observations, ignoring others
+Flaw: cherry picking of specific observations, ignoring others with normal conditions
 
 Black Swan by Nathan Oakley  
 https://www.youtube.com/watch?v=MykqYqVMF1Q  
@@ -630,6 +637,8 @@ https://www.youtube.com/watch?v=pEpet2FhNxA
 https://www.youtube.com/watch?v=9YTXYKB_tko  
 by Mathias Kp  
 https://www.youtube.com/watch?v=AN22ScCILZI  
+by Walter Bislin  
+http://walter.bislins.ch/bloge/index.asp?page=Strong+Refraction+Simulation+and+Reality+for+2+Oil+Platforms..
 
 Canigou  
 by Sly Sparkane  
@@ -868,10 +877,10 @@ https://www.metabunk.org/sk/globe_comparison_with_distance.jpg
 https://www.metabunk.org/debunked-blue-marble-photos-show-a-changing-earth.t6616/  
 https://giphy.com/gifs/YiGsW0Wm9bCqA/html5
 
+Flaw: no knowledge of physics or science
+
 Model rocket in vacuum  
 https://youtu.be/GxBRQXxBRic?list=PLHq86xM68msN-7skaxNlzXeJwWJp4Zdmh
-
-Flaw: no knowledge of physics or science
 
 NASA paper admitting non rotating flat earth  
 https://www.youtube.com/watch?v=BAlSOI5uHkc&feature=youtu.be&t=1m39s
