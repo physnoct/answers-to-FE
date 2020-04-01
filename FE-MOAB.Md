@@ -136,6 +136,9 @@ https://www.youtube.com/watch?v=dVER8BKBOpI
 https://www.youtube.com/watch?v=Af9KATJ6sjI  
 https://www.youtube.com/watch?v=K63Os0LS9Cg  
 
+And many others there:
+https://www.reddit.com/r/AskReddit/comments/bqtxau/ex_flatearthers_of_reddit_what_originally_got_you
+
 SeekTruth SpeakTruth  
 https://www.youtube.com/channel/UC8QUo98zQ7HlFFykAc0Z3EA  
 
