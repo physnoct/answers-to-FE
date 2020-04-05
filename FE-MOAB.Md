@@ -1350,6 +1350,7 @@ https://physnoct.wordpress.com/2018/10/28/fe-sun-orbiting-above-the-flat-earth/
 
 Other compilations
 ==================
+https://www.youtube.com/playlist?list=PL4P20REbUHvxmgaPcenXMSXV_0aZoNvqQ
 http://www.terre-plate.org	(french)  
 http://flatearthdeception.com  
 https://flatearthlunacy.com  
