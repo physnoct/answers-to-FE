@@ -526,6 +526,9 @@ Globe earth
 -----------
 Observations confirming the globe
 
+Are Plumb Lines Parallel? - Geodesy  
+https://www.youtube.com/watch?v=ec6KeEyxhMo&list=PL4P20REbUHvxmgaPcenXMSXV_0aZoNvqQ&index=34
+
 Maps and their interpretation (french)  
 https://www.youtube.com/watch?v=qumOMOedTn0
 
