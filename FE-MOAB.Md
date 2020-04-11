@@ -1,6 +1,7 @@
 # FE-MOAB.Md
 Simple observations disprove the flat earth -- Des observations simples réfutent la terre plate  
 https://physnoct.wordpress.com/2018/10/02/simple-observations-debunk-fe/  
+https://physnoct.wordpress.com/2020/04/10/fe-sun-size-during-the-day/
 https://www.youtube.com/watch?v=5ZdWRC57ems (french)  
 
 Answers to FE arguments -- Réponses aux arguments platistes  
