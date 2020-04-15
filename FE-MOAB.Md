@@ -534,6 +534,9 @@ http://walter.bislins.ch/bloge/index.asp?page=Radius+of+Earth+at+Great+Salt+Lake
 Plot of the 3D locations of all UNAVCO reference stations. Each location is measured from the distance to many satellites with known positions to sub mm accuracy. If the earth were flat, all points would lie on a plane. The coordinates of the locations are listed in the table at the bottom. They are used as references for high precision GPS measurements in many scientific fields.  
 http://walter.bislins.ch/bloge/index.asp?page=Display+Geo+Data&data=UNAVCO+wabis
 
+PLANET EARTH : THE ROTATING SPHERE - THE SKY ( Flat Earth Debunked )  
+https://www.youtube.com/watch?v=7eKoaageZk0  
+
 Are Plumb Lines Parallel? - Geodesy  
 https://www.youtube.com/watch?v=ec6KeEyxhMo&list=PL4P20REbUHvxmgaPcenXMSXV_0aZoNvqQ&index=34
 
