@@ -527,6 +527,13 @@ Globe earth
 -----------
 Observations confirming the globe
 
+From Walter Bislin:
+[There are] hundreds of thousands geometric measurements that show the earth is a globe, that show Kansas is not flat, that show that the circumference of Antarctica is factors smaller than what the flat earth tells, that show the Bonneville Salt Flats are curved with a radius of about 6400 km...  
+http://walter.bislins.ch/bloge/index.asp?page=Radius+of+Earth+at+Great+Salt+Lake+Desert+Rte+80  
+
+Plot of the 3D locations of all UNAVCO reference stations. Each location is measured from the distance to many satellites with known positions to sub mm accuracy. If the earth were flat, all points would lie on a plane. The coordinates of the locations are listed in the table at the bottom. They are used as references for high precision GPS measurements in many scientific fields.  
+http://walter.bislins.ch/bloge/index.asp?page=Display+Geo+Data&data=UNAVCO+wabis
+
 Are Plumb Lines Parallel? - Geodesy  
 https://www.youtube.com/watch?v=ec6KeEyxhMo&list=PL4P20REbUHvxmgaPcenXMSXV_0aZoNvqQ&index=34
 
