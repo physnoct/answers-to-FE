@@ -525,7 +525,7 @@ http://www.thulescientific.com/Lynch%20Curvature%202008.pdf
 
 Globe earth
 -----------
-Observations confirming the globe
+Observations by different methods, confirming the globe
 
 From Walter Bislin:
 [There are] hundreds of thousands geometric measurements that show the earth is a globe, that show Kansas is not flat, that show that the circumference of Antarctica is factors smaller than what the flat earth tells, that show the Bonneville Salt Flats are curved with a radius of about 6400 km...  
@@ -585,7 +585,9 @@ https://www.youtube.com/watch?v=F5lUkqBFhgA
 
 Lake Pontchartrain causeway  
 https://www.youtube.com/watch?v=ipqronPSXGM  
-https://www.youtube.com/watch?v=NR2-8wrz-sE
+https://www.youtube.com/watch?v=NR2-8wrz-sE  
+Demonstrating Walter Bislin's Radius Calculator - Lake Pontchartrain ECEF Coordinates  
+https://www.youtube.com/watch?v=Q-LX4aq-6Js
 
 Lakeway Center Elevator 2  
 https://www.youtube.com/watch?v=NzY5du8LMgk
@@ -1312,6 +1314,9 @@ Geodesy
 -------
 https://www.youtube.com/watch?v=G9Xx9F4JvnQ  
 https://www.youtube.com/watch?v=PoiGsLzxM8M (français)
+Definition of Level In Surveying Texts
+https://jessekozlowski.wordpress.com/2020/02/19/definition-of-level/
+
 
 Oblate spheroid
 ---------------
@@ -1355,13 +1360,18 @@ The relation is h = 0.5 g t²
 Solving for g  
 g = 2h/t  
 
+Experiment to determine if the earth is flat or a globe
+-------------------------------------------------------
+https://imgur.com/a/uY488FJ  
+
 light on the FE model
 ---------------------
-https://physnoct.wordpress.com/2018/10/28/fe-sun-orbiting-above-the-flat-earth/
+https://physnoct.wordpress.com/2018/10/28/fe-sun-orbiting-above-the-flat-earth/  
+https://medium.com/@ktachyon/proving-the-earth-is-not-flat-using-just-math-21ba748ebac2  
 
 Other compilations
 ==================
-https://www.youtube.com/playlist?list=PL4P20REbUHvxmgaPcenXMSXV_0aZoNvqQ
+https://www.youtube.com/playlist?list=PL4P20REbUHvxmgaPcenXMSXV_0aZoNvqQ  
 http://www.terre-plate.org	(french)  
 http://flatearthdeception.com  
 https://flatearthlunacy.com  
@@ -1372,12 +1382,12 @@ https://www.youtube.com/watch?v=XnvWL4kpZd4
 
 References
 ==========
-Mirages
-http://www.polarimage.fi/mirages/mirages.htm
+Mirages  
+http://www.polarimage.fi/mirages/mirages.htm  
 
 Bible
 =====
-https://www.youtube.com/watch?v=rE3j_RHkqJc
+https://www.youtube.com/watch?v=rE3j_RHkqJc  
 
 Question everything  
 https://www.youtube.com/watch?v=Jb7lVVtgIB8
@@ -1385,7 +1395,7 @@ https://www.youtube.com/watch?v=Jb7lVVtgIB8
 A few deniers’ (bad) habits  
 https://antoinebretblog.wordpress.com/2020/02/10/a-few-deniers-bad-habits
 
-It's indoctrination if it can't be questioned, it's education if it can be demonstrated.
+It's indoctrination if it can't be questioned, it's education if it can be demonstrated.  
 
 :) Last convenient link  
 https://www.youtube.com/watch?v=K37G2j0K8BA
