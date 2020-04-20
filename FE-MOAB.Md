@@ -1044,6 +1044,9 @@ Perspective
 -----------
 Flaw: Attempt to redefine perspective, misunderstanding of optics, refraction, ad-hoc explanation of observations
 
+Flat Earth: Perspective Doesn't Do That  
+https://www.youtube.com/watch?v=Svd130zdgnQ  
+
 Flat Earth: Sun Rays Triple Feature  
 https://www.youtube.com/watch?v=TOwzHQkloGk
 
