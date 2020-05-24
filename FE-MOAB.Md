@@ -856,6 +856,12 @@ https://www.sparkfun.com/categories/4
 
 NASA & Rockets
 --------------
+DEFAKATOR - Foire aux questions foireuses sur l’espace et Apollo  
+https://www.youtube.com/watch?v=s81me-hJhUA  
+
+In the comment section:
+"Si on observe le film complet de Phil POLLACIA (voir ta référence), on  constate qu'il a gardé les amorces des bobines et on peut donc mesurer la durée de la bobine incriminée (bobine de l'envol de la fusée): l'amorce blanche démarre à 1:00.44 et la fin de la bobine est à 1:03.59. En prenant l’hypothèse que le marqueur de temps du report VHS est correct, cela fait 195 secondes (3mn15s). En prenant l'hypothèse que le report s'est fait à 18 images/seconde alors que le tournage en S8 était en 24 images/s, cela fait 3510 images (195 x 18), ce qui était en fait en temps réel lors du tournage 146s  (3510/24). 146 secondes, c'est 2mn26s soit la durée approximative (à quelques secondes près) d'une bobine de 15m en super8 (bobine standard de ce format). La conclusion est donc que le film en super 8 a été très certainement fait à 24 images/s, mais le report en VHS a été fait (par erreur sans doute) à 18 images/s, ce qui "ralentit" l'envol de la fusée."
+
 Polish cosmonaut "Earth is flat"  
 https://www.metabunk.org/threads/cosmonaut-miroslaw-hermaczewski-allegedly-says-earth-is-flat-joke.11010/  
 
