@@ -535,7 +535,7 @@ Plot of the 3D locations of all UNAVCO reference stations. Each location is meas
 http://walter.bislins.ch/bloge/index.asp?page=Display+Geo+Data&data=UNAVCO+wabis
 
 PLANET EARTH : THE ROTATING SPHERE - THE SKY ( Flat Earth Debunked )  
-https://www.youtube.com/watch?v=7eKoaageZk0  
+https://www.youtube.com/watch?v=7eKoaageZk0
 
 Are Plumb Lines Parallel? - Geodesy  
 https://www.youtube.com/watch?v=ec6KeEyxhMo&list=PL4P20REbUHvxmgaPcenXMSXV_0aZoNvqQ&index=34
@@ -621,6 +621,10 @@ https://www.youtube.com/watch?v=Noo1OUvLrm8
 
 Geodesic measurements  
 https://www.youtube.com/watch?v=W0_9SyDoOS8 (french)
+
+Radioastronomy measurements  
+La Terre est-elle vraiment ronde ? | Olivier Jamet - Cabaret de la Science  
+https://www.youtube.com/watch?v=G8xj6CXuj5Y (french)  
 
 Football field not flat  
 https://www.livestrong.com/article/41727  
