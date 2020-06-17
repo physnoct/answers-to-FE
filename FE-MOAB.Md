@@ -927,6 +927,10 @@ Another paper by NASA make a statement of fact about the shape of the earth:
 https://ntrs.nasa.gov/search.jsp?R=19860010309  
 It clearly says: "A strategy is presented along with background material for determining downward atmospheric radiation at the Earth's surface on a regional scale but over the entire globe "﻿
 
+This by itself refutes the whole NRFE argument
+Calculating the trajectory and impact time of an ICBM  
+https://mae.ufl.edu/~uhk/ICBM.pdf  
+
 Bubbles (french)  
 https://www.youtube.com/watch?v=5RBhCqmgl7g  
 https://www.youtube.com/watch?v=mppA5lUaoSs&feature=youtu.be
