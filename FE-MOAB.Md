@@ -404,6 +404,9 @@ position of stars vary slightly over time. It has been recorded through history 
 An example is the Barnard's star which can be seen moving through several years  
 https://en.wikipedia.org/wiki/Barnard%27s_Star
 
+Parallax from New Horizons  
+https://www.youtube.com/watch?v=ofCooIkIwvQ  
+
 Exagerated parallax  
 https://www.youtube.com/watch?v=SG7RfZoc2M8&feature=youtu.be
 
