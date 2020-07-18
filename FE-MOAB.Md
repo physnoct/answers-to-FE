@@ -969,6 +969,7 @@ https://www.youtube.com/watch?v=ULGi3UkgW30
 
 Lost telemetry data  
 https://www.hq.nasa.gov/alsj/a11/Apollo_11_TV_Tapes_Report.pdf
+https://physnoct.wordpress.com/2020/07/18/nasa-losing-telemetry-data-and-stuff/  
 
 How did NASA get those great film shots of Apollo and the Shuttle?  
 https://www.youtube.com/watch?v=BlPfHV36G-g
@@ -1019,6 +1020,9 @@ https://www.youtube.com/watch?v=NxZMjpMhwNE
 
 Lunar laser ranging  
 https://inspirehep.net/record/1255296/plots?ln=en
+
+Luna 9 space hack  
+http://www.jodrellbank.net/the-luna-9-space-hack-4th-feb-1966/
 
 Water flatness
 --------------
@@ -1418,9 +1422,9 @@ https://www.youtube.com/watch?v=Jb7lVVtgIB8
 A few deniers’ (bad) habits  
 https://antoinebretblog.wordpress.com/2020/02/10/a-few-deniers-bad-habits
 
-It's indoctrination if it can't be questioned, it's education if it can be demonstrated.  
+It's indoctrination if it can't be questioned, it's education if it can be demonstrated.
+  
 
 :) Last convenient link  
 https://www.youtube.com/watch?v=K37G2j0K8BA
 
-Thanks to all the authors of all these videos debunking FE!
