@@ -467,7 +467,7 @@ Flaw: no knowledge of basic principles of photography
 
 In french, at 0:42, there's a fly in front of the lens,  
 demonstrating without a shadow of doubt that the star is out of focus.  
-https://www.youtube.com/watch?v=B2ImVhiBSbk
+https://www.youtube.com/watch?v=B2ImVhiBSbk (video no longer available)
 
 Jupiter Out of focus  
 https://www.youtube.com/watch?v=3_MY8stguWA
@@ -610,7 +610,7 @@ https://www.youtube.com/watch?v=Yi__ujYsdJE
 https://www.youtube.com/watch?v=uPFyEhAdHc4 (french)
 
 Boats disappearing  
-https://www.youtube.com/watch?v=0xWsuFLdgBs  
+/* https://www.youtube.com/watch?v=0xWsuFLdgBs */
 https://ibb.co/gxQC3w
 
 Boat trails  
@@ -843,6 +843,12 @@ https://www.universetoday.com/93987/amateur-astronomers-flash-the-space-station/
 
 ISS from ground telescope  
 https://www.youtube.com/watch?v=vscu0K1DQxc
+
+SSTV from ISS
+https://www.youtube.com/watch?v=hr9L9y9RQHU
+
+Space Station Crew Uses HAM Radio to Call Earth
+https://www.youtube.com/watch?v=h73EYcyszf8
 
 Home made radio telescope to see geostationary satellites  
 https://www.youtube.com/watch?v=g3LT_b6K0Mc  
