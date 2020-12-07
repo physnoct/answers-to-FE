@@ -1010,16 +1010,23 @@ CRS-19 Mission
 https://www.youtube.com/watch?v=-aoAGdYXp_4
 "Mice" at 21:20 in this one
 
-It seems it's a persistent problem  
+It seems it's a persistent problem ...  
 https://www.youtube.com/watch?v=8xeX62mLcf8  
 https://www.youtube.com/watch?v=1KmBDCiL7MU  
 https://www.youtube.com/watch?v=t-mdQRpgfN4  
 https://www.youtube.com/watch?v=H9PVbGcp_aw  
-https://www.youtube.com/watch?v=wbSwFU6tY1c  
+https://www.youtube.com/watch?v=wbSwFU6tY1c
+... still to this day  
+https://www.youtube.com/watch?v=4xJAGFR_N-c
 
 At 0:23, the "m"ice fall  
-https://www.youtube.com/watch?v=2XDdnoJh5LY  
+https://www.youtube.com/watch?v=2XDdnoJh5LY
 
+It seems all those rodents have white fur  
+Which north american rodent species are white?  
+https://en.wikipedia.org/wiki/List_of_rodents  
+https://portals.iucn.org/library/sites/library/files/documents/1998-039.pdf
+  
 Moon
 ----
 https://www.youtube.com/watch?v=NxZMjpMhwNE
