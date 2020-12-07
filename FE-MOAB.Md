@@ -844,10 +844,10 @@ https://www.universetoday.com/93987/amateur-astronomers-flash-the-space-station/
 ISS from ground telescope  
 https://www.youtube.com/watch?v=vscu0K1DQxc
 
-SSTV from ISS
+SSTV from ISS  
 https://www.youtube.com/watch?v=hr9L9y9RQHU
 
-Space Station Crew Uses HAM Radio to Call Earth
+Space Station Crew Uses HAM Radio to Call Earth  
 https://www.youtube.com/watch?v=h73EYcyszf8
 
 Home made radio telescope to see geostationary satellites  
