@@ -835,7 +835,7 @@ https://www.youtube.com/watch?v=SPTz7Ig9RQE
 Images from earth  
 http://www.astrophoto.fr/satellites.html﻿
 
-ISS construction video
+ISS construction video  
 https://www.youtube.com/watch?v=IPd_GlFnMd4&list=PL6NHjkyKflVF4qExs5boRC7UBC5pimVig&index=7
 
 ISS altitude  
@@ -1420,8 +1420,8 @@ http://flatearthdeception.com
 https://flatearthlunacy.com  
 https://flatearth.ws  
 
-2,000 Proofs* the Earth is Not a Stationary Pizza
-https://www.youtube.com/playlist?list=PL6NHjkyKflVEXHExa10WSRij7CJ0LVpdz
+2,000 Proofs* the Earth is Not a Stationary Pizza  
+https://www.youtube.com/playlist?list=PL6NHjkyKflVEXHExa10WSRij7CJ0LVpdz  
 
 An end to this flat earth NONSENSE!  
 https://www.youtube.com/watch?v=XnvWL4kpZd4  
