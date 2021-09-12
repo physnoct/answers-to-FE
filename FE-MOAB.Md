@@ -1431,6 +1431,10 @@ References
 Mirages  
 http://www.polarimage.fi/mirages/mirages.htm  
 
+Islam
+=====
+https://theislamissue.wordpress.com/2019/03/22/scholarly-consensus-of-a-round-earth/  
+
 Bible
 =====
 https://www.youtube.com/watch?v=rE3j_RHkqJc  
