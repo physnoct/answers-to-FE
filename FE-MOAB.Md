@@ -1029,7 +1029,12 @@ It seems all those rodents have white fur
 Which north american rodent species are white?  
 https://en.wikipedia.org/wiki/List_of_rodents  
 https://portals.iucn.org/library/sites/library/files/documents/1998-039.pdf
-  
+
+We lost the technology
+----------------------
+Large-Scale 3D Printing for Rocket Engines
+https://www.youtube.com/watch?v=_JHqdVU9Ebo
+
 Moon
 ----
 https://www.youtube.com/watch?v=NxZMjpMhwNE
@@ -1039,6 +1044,9 @@ https://inspirehep.net/record/1255296/plots?ln=en
 
 Luna 9 space hack  
 http://www.jodrellbank.net/the-luna-9-space-hack-4th-feb-1966/
+
+Portable EME moon bounce setup
+https://www.youtube.com/watch?v=TUbNDNBPFEM
 
 Water flatness
 --------------
