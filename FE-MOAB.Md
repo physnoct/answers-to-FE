@@ -46,7 +46,7 @@ https://arstechnica.com/science/2016/10/japans-space-agency-just-released-a-trov
 Video "Behind the Curve"  
 ------------------------  
 15 degrees/second -- "confidential"  
-https://www.youtube.com/watch?v=J9p2Yrbp3xA  
+https://www.youtube.com/watch?v=J9p2Yrbp3xA (unavailable)  
 
 Comments
 --------
@@ -88,14 +88,15 @@ The Earth is round. Your EEG is flat. DEFAKATOR
 https://www.youtube.com/watch?v=g-2p2Ahrfts
 
 Eric Dubay's 200 proofs debunked  
-https://youtu.be/Uzc1tY1StvY  
+https://youtu.be/Uzc1tY1StvY (unavailable)  
 https://youtu.be/CBxaB--fu_Q 43-48  
 https://youtu.be/M92MHw_NM20 60-92,94  
 https://youtu.be/O29Yube271E 106-111  
 
 Eric Dubay's 200 proofs debunked more thoroughly  
-https://200proofsearthisnotflat.blogspot.ca/2016/02/debunking-dubay-1-7200.html  
-http://blog.daimonie.com/2015_11_01_archive.html
+https://200proofsearthisnotflat.blogspot.ca/2016/02/debunking-dubay-1-7200.html (unavailable)  
+http://blog.daimonie.com/2015_11_01_archive.html (unavailable)  
+https://flatearth.ws/eric-dubay
 
 Eric Dubay's 200 proofs debunked by Rethoric&Discourse  
 1st of many videos  
@@ -1131,7 +1132,8 @@ Surveying
 
 https://www.metabunk.org/curvature-and-refraction-in-surveying-and-leveling-through-history-old-books-etc.t8856/  
 https://www.aboutcivil.org/curvature-and-refraction.html  
-http://www.engineeringenotes.com/surveying/levelling/curvature-and-refraction-in-levelling-surveying/13943
+http://www.engineeringenotes.com/surveying/levelling/curvature-and-refraction-in-levelling-surveying/13943  
+https://www.youtube.com/watch?v=6GchSj4rNGY
 
 https://books.google.ca/books?id=5d1B0Vy52dQC&pg=PA3&lpg=PA3&dq=surveyors+earth+curvature&source=bl&ots=UMBI3lDln9&sig=ogq__CQ_MVP5cz35-oNMbLLOf3o&hl=en&sa=X&ved=0ahUKEwib8dC4gPLZAhULnlkKHR25B8M4ChDoAQhCMAQ#v=onepage&q=surveyors%20earth%20curvature&f=false
 
