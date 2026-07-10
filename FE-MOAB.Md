@@ -45,7 +45,7 @@ https://arstechnica.com/science/2016/10/japans-space-agency-just-released-a-trov
 
 Video "Behind the Curve"  
 ------------------------  
-15 degrees/second -- "confidential"  
+15 degrees/hours -- "confidential"  
 https://www.youtube.com/watch?v=J9p2Yrbp3xA (unavailable)  
 
 Comments
@@ -133,6 +133,7 @@ https://www.youtube.com/watch?v=1AHFl0aMyj4
 
 Ex-FEers  
 --------  
+https://www.youtube.com/watch?v=rOz2QtNJFmw
 https://www.youtube.com/watch?v=w-aaHZ4OX7Q  
 https://www.youtube.com/watch?v=dVER8BKBOpI  
 https://www.youtube.com/watch?v=Af9KATJ6sjI  
