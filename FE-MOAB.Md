@@ -1032,6 +1032,9 @@ Which north american rodent species are white?
 https://en.wikipedia.org/wiki/List_of_rodents  
 https://portals.iucn.org/library/sites/library/files/documents/1998-039.pdf
 
+New video showing the (m)ice melting! At 19:58.
+https://www.youtube.com/watch?v=ecG1Hm5sf70
+
 We lost the technology
 ----------------------
 Large-Scale 3D Printing for Rocket Engines  
